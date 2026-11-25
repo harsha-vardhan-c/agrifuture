@@ -27,19 +27,19 @@ Explore historical agricultural market prices, choose a vegetable and district, 
 
 A responsive landing page introducing AgriFuture and its agricultural price insights.
 
-![AgriFuture Homepage](screenshots/dashboard.png)
+![AgriFuture Homepage](dashboard.png)
 
 ### Crop and District Selection
 
 Select a vegetable, an eligible Karnataka district, and a future month.
 
-![Crop Price Selection](screenshots/price-outlook.png)
+![Crop Price Selection](price-outlook.png)
 
 ### ML Price Forecast and Visualization
 
 Explore projected wholesale prices, historical trends, forecast ranges, and explanatory insights.
 
-![ML Forecast Results](screenshots/forecast-result.png)
+![ML Forecast Results](forecast-result.png)
 
 ---
 

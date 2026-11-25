@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="AgriForecast data, model, API, and frontend architecture">
+  <rect width="960" height="190" rx="22" fill="#f4f8f3"/>
+  <g font-family="system-ui,Arial,sans-serif" text-anchor="middle">
+    <rect x="28" y="46" width="194" height="100" rx="16" fill="#e0eee5" stroke="#abd1b9"/>
+    <text x="125" y="86" font-size="18" font-weight="700" fill="#194e39">Official prices</text>
+    <text x="125" y="111" font-size="13" fill="#567765">13,552 district-month rows</text>
+    <rect x="270" y="46" width="194" height="100" rx="16" fill="#d1e6d8" stroke="#8abd9e"/>
+    <text x="367" y="86" font-size="18" font-weight="700" fill="#194e39">Forecast model</text>
+    <text x="367" y="111" font-size="13" fill="#567765">ML + honest baselines</text>
+    <rect x="512" y="46" width="194" height="100" rx="16" fill="#c1ddca" stroke="#77b18d"/>
+    <text x="609" y="86" font-size="18" font-weight="700" fill="#194e39">Python API</text>
+    <text x="609" y="111" font-size="13" fill="#567765">Validated, dated forecasts</text>
+    <rect x="754" y="46" width="178" height="100" rx="16" fill="#1b5941"/>
+    <text x="843" y="86" font-size="18" font-weight="700" fill="#ffffff">React website</text>
+    <text x="843" y="111" font-size="13" fill="#c8e6d5">Farmer-friendly results</text>
+    <g stroke="#45946d" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M232 96h28m-9-7 9 7-9 7"/><path d="M474 96h28m-9-7 9 7-9 7"/><path d="M716 96h28m-9-7 9 7-9 7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,3649 @@
+crop,district,calendar_month,years_reported,mean_price_rs_per_quintal
+Tomato,Belagavi,1,3,2812.7
+Tomato,Belagavi,2,3,2581.14
+Tomato,Belagavi,3,4,1980.15
+Tomato,Belagavi,4,4,1728.33
+Tomato,Belagavi,5,3,2360.42
+Tomato,Belagavi,6,3,4182.68
+Tomato,Belagavi,7,3,5297.05
+Tomato,Belagavi,8,4,3322.1
+Tomato,Belagavi,9,4,2427.02
+Tomato,Belagavi,10,3,2316.98
+Tomato,Belagavi,11,4,2657.72
+Tomato,Belagavi,12,4,2783.84
+Tomato,Bengaluru,1,5,2324.92
+Tomato,Bengaluru,2,5,1687.31
+Tomato,Bengaluru,3,5,1394.44
+Tomato,Bengaluru,4,5,1568.35
+Tomato,Bengaluru,5,5,2930.38
+Tomato,Bengaluru,6,5,3557.37
+Tomato,Bengaluru,7,5,3688.24
+Tomato,Bengaluru,8,5,2791.59
+Tomato,Bengaluru,9,5,1695.7
+Tomato,Bengaluru,10,5,2649.49
+Tomato,Bengaluru,11,5,3108.35
+Tomato,Bengaluru,12,5,3119.23
+Tomato,Bengaluru Rural,1,5,2034.75
+Tomato,Bengaluru Rural,2,5,1644.61
+Tomato,Bengaluru Rural,3,4,1086.06
+Tomato,Bengaluru Rural,4,5,1145.02
+Tomato,Bengaluru Rural,5,4,2589.84
+Tomato,Bengaluru Rural,6,4,2748.97
+Tomato,Bengaluru Rural,7,4,3088.4
+Tomato,Bengaluru Rural,8,4,1953.66
+Tomato,Bengaluru Rural,9,4,1340.73
+Tomato,Bengaluru Rural,10,5,1672.63
+Tomato,Bengaluru Rural,11,4,1564.74
+Tomato,Bengaluru Rural,12,5,2449.01
+Tomato,Bengaluru South,1,5,1750.96
+Tomato,Bengaluru South,2,5,1249.4
+Tomato,Bengaluru South,3,5,869.3
+Tomato,Bengaluru South,4,5,1546.64
+Tomato,Bengaluru South,5,5,2852.47
+Tomato,Bengaluru South,6,5,3338.87
+Tomato,Bengaluru South,7,5,3340.82
+Tomato,Bengaluru South,8,5,1874.63
+Tomato,Bengaluru South,9,5,1745.58
+Tomato,Bengaluru South,10,5,2458.9
+Tomato,Bengaluru South,11,5,2687.62
+Tomato,Bengaluru South,12,5,2886.66
+Tomato,Chamarajanagar,1,5,1657.61
+Tomato,Chamarajanagar,2,5,1066.57
+Tomato,Chamarajanagar,3,5,757.32
+Tomato,Chamarajanagar,4,5,1224.63
+Tomato,Chamarajanagar,5,5,2384.42
+Tomato,Chamarajanagar,6,5,2230.13
+Tomato,Chamarajanagar,7,5,2920.69
+Tomato,Chamarajanagar,8,5,1659.32
+Tomato,Chamarajanagar,9,5,1486.2
+Tomato,Chamarajanagar,10,5,1911.96
+Tomato,Chamarajanagar,11,5,2179.94
+Tomato,Chamarajanagar,12,5,2530.69
+Tomato,Chikkaballapur,1,5,1088.33
+Tomato,Chikkaballapur,2,5,883.15
+Tomato,Chikkaballapur,3,5,731.39
+Tomato,Chikkaballapur,4,5,979.63
+Tomato,Chikkaballapur,5,5,1413.87
+Tomato,Chikkaballapur,6,5,1835.02
+Tomato,Chikkaballapur,7,5,2387.67
+Tomato,Chikkaballapur,8,5,1582.47
+Tomato,Chikkaballapur,9,5,1236.3
+Tomato,Chikkaballapur,10,5,1531.88
+Tomato,Chikkaballapur,11,5,1635.64
+Tomato,Chikkaballapur,12,5,1600.29
+Tomato,Chikkamagaluru,1,5,1286.97
+Tomato,Chikkamagaluru,2,5,1140.82
+Tomato,Chikkamagaluru,3,5,1125.73
+Tomato,Chikkamagaluru,4,5,1308.78
+Tomato,Chikkamagaluru,5,5,2132.15
+Tomato,Chikkamagaluru,6,5,2196.88
+Tomato,Chikkamagaluru,7,5,2399.2
+Tomato,Chikkamagaluru,8,5,1685.08
+Tomato,Chikkamagaluru,9,5,1465.62
+Tomato,Chikkamagaluru,10,5,1657.65
+Tomato,Chikkamagaluru,11,5,2093.9
+Tomato,Chikkamagaluru,12,5,2117.93
+Tomato,Dakshina Kannada,1,1,2614.29
+Tomato,Dakshina Kannada,2,1,1270.73
+Tomato,Dakshina Kannada,3,1,945.9
+Tomato,Dakshina Kannada,4,1,1900
+Tomato,Dakshina Kannada,5,1,4125
+Tomato,Dakshina Kannada,6,1,4605.88
+Tomato,Dakshina Kannada,7,1,2460
+Tomato,Dakshina Kannada,10,1,2746.88
+Tomato,Dakshina Kannada,11,1,4686.49
+Tomato,Dakshina Kannada,12,1,4563.64
+Tomato,Davangere,1,5,1238.14
+Tomato,Davangere,2,5,799.72
+Tomato,Davangere,3,5,692.48
+Tomato,Davangere,4,5,1174.76
+Tomato,Davangere,5,5,2288.79
+Tomato,Davangere,6,5,2610.61
+Tomato,Davangere,7,5,2747.25
+Tomato,Davangere,8,5,1595.85
+Tomato,Davangere,9,5,1090.89
+Tomato,Davangere,10,5,1672.42
+Tomato,Davangere,11,5,1775.81
+Tomato,Davangere,12,5,1829.56
+Tomato,Hassan,1,5,2044.37
+Tomato,Hassan,2,5,1490.18
+Tomato,Hassan,3,5,1097.9
+Tomato,Hassan,4,5,1405.71
+Tomato,Hassan,5,4,2680.23
+Tomato,Hassan,6,5,2910.41
+Tomato,Hassan,7,5,3003.91
+Tomato,Hassan,8,5,1924.61
+Tomato,Hassan,9,5,1555.2
+Tomato,Hassan,10,5,2101.94
+Tomato,Hassan,11,5,2121.17
+Tomato,Hassan,12,5,2155.57
+Tomato,Kalaburagi,1,5,774.06
+Tomato,Kalaburagi,2,5,892.43
+Tomato,Kalaburagi,3,5,1333.72
+Tomato,Kalaburagi,4,5,1033.89
+Tomato,Kalaburagi,5,5,2067.86
+Tomato,Kalaburagi,6,5,3085.85
+Tomato,Kalaburagi,7,5,2922.84
+Tomato,Kalaburagi,8,5,1971.51
+Tomato,Kalaburagi,9,5,1205.11
+Tomato,Kalaburagi,10,5,1508.12
+Tomato,Kalaburagi,11,5,1727.52
+Tomato,Kalaburagi,12,5,1371.87
+Tomato,Kolar,1,5,1082.26
+Tomato,Kolar,2,5,797.4
+Tomato,Kolar,3,5,656.36
+Tomato,Kolar,4,5,854.52
+Tomato,Kolar,5,5,1496.42
+Tomato,Kolar,6,5,2073.97
+Tomato,Kolar,7,5,2500.7
+Tomato,Kolar,8,5,1604.07
+Tomato,Kolar,9,5,1201.05
+Tomato,Kolar,10,5,1389.39
+Tomato,Kolar,11,5,1538.98
+Tomato,Kolar,12,5,1519.84
+Tomato,Mandya,1,5,1617.32
+Tomato,Mandya,2,5,1169.75
+Tomato,Mandya,3,5,912.95
+Tomato,Mandya,4,5,1139.17
+Tomato,Mandya,5,5,2146.71
+Tomato,Mandya,6,5,2221.28
+Tomato,Mandya,7,5,2671.95
+Tomato,Mandya,8,5,2029.45
+Tomato,Mandya,9,5,1507.57
+Tomato,Mandya,10,5,1682.85
+Tomato,Mandya,11,5,1302.44
+Tomato,Mandya,12,4,2138.92
+Tomato,Mysuru,1,5,1822.66
+Tomato,Mysuru,2,5,1251.87
+Tomato,Mysuru,3,5,987.68
+Tomato,Mysuru,4,5,1574.03
+Tomato,Mysuru,5,5,2639.22
+Tomato,Mysuru,6,5,2931.31
+Tomato,Mysuru,7,5,2967.17
+Tomato,Mysuru,8,5,2065.4
+Tomato,Mysuru,9,5,1785.7
+Tomato,Mysuru,10,5,2263.83
+Tomato,Mysuru,11,5,2456.6
+Tomato,Mysuru,12,5,2767.59
+Tomato,Shivamogga,1,5,1126.3
+Tomato,Shivamogga,2,5,962.24
+Tomato,Shivamogga,3,5,764.48
+Tomato,Shivamogga,4,5,1363.78
+Tomato,Shivamogga,5,5,2230.32
+Tomato,Shivamogga,6,5,2529.52
+Tomato,Shivamogga,7,5,2751.48
+Tomato,Shivamogga,8,5,1364.61
+Tomato,Shivamogga,9,5,1319.59
+Tomato,Shivamogga,10,5,1634.53
+Tomato,Shivamogga,11,5,1900.3
+Tomato,Shivamogga,12,5,1908.35
+Tomato,Tumakuru,1,1,2800
+Tomato,Tumakuru,2,1,1770
+Tomato,Tumakuru,3,1,1247.65
+Tomato,Tumakuru,4,1,1728.89
+Tomato,Tumakuru,5,2,2782.61
+Tomato,Tumakuru,6,1,2539.23
+Tomato,Tumakuru,7,3,3645.45
+Tomato,Tumakuru,8,3,3115.17
+Tomato,Tumakuru,9,2,1205.2
+Tomato,Tumakuru,10,2,2111.25
+Tomato,Tumakuru,11,1,1450
+Tomato,Tumakuru,12,2,3100
+Tomato,Udupi,1,4,2056.46
+Tomato,Udupi,2,4,1864.89
+Tomato,Udupi,3,4,1608.83
+Tomato,Udupi,4,4,1707.6
+Tomato,Udupi,5,4,3131.57
+Tomato,Udupi,6,5,3960.54
+Tomato,Udupi,7,3,5100.79
+Tomato,Udupi,8,3,2429.54
+Tomato,Udupi,9,3,2194.51
+Tomato,Udupi,10,4,3225.57
+Tomato,Udupi,11,4,2768.3
+Tomato,Udupi,12,4,2761.15
+Tomato,Vijayanagara,1,3,1160.15
+Tomato,Vijayanagara,2,2,705.45
+Tomato,Vijayanagara,3,2,606.67
+Tomato,Vijayanagara,4,2,693.9
+Tomato,Vijayanagara,5,2,1197.58
+Tomato,Vijayanagara,6,2,1597.46
+Tomato,Vijayanagara,7,2,3221.92
+Tomato,Vijayanagara,8,2,3348.6
+Tomato,Vijayanagara,9,2,964.6
+Tomato,Vijayanagara,10,3,738.11
+Tomato,Vijayanagara,11,3,1001.48
+Tomato,Vijayanagara,12,2,1526.94
+Tomato,Bellary,3,1,705.06
+Tomato,Dharwad,7,1,6424.59
+Tomato,Dharwad,8,1,4863.64
+Tomato,Gadag,7,1,6780.95
+Tomato,Gadag,8,1,5412.5
+Tomato,Haveri,1,1,2375.2
+Tomato,Haveri,2,1,2312.17
+Tomato,Haveri,3,1,2126.81
+Tomato,Haveri,4,2,1316.67
+Tomato,Haveri,5,1,2256.6
+Tomato,Haveri,6,1,2294.39
+Tomato,Haveri,7,2,4677.15
+Tomato,Haveri,8,2,3319.71
+Tomato,Haveri,9,2,643.77
+Tomato,Haveri,10,1,349.67
+Tomato,Haveri,11,2,727.56
+Tomato,Haveri,12,1,1379.9
+Tomato,Koppal,1,1,1190.91
+Tomato,Koppal,7,1,5313.04
+Tomato,Koppal,8,1,4915.09
+Tomato,Koppal,9,1,715.85
+Tomato,Koppal,10,1,300
+Tomato,Koppal,11,1,1461.54
+Tomato,Chitradurga,9,1,1000
+Onion,Bagalkot,1,3,2144.79
+Onion,Bagalkot,2,4,1518.44
+Onion,Bagalkot,3,2,1173.53
+Onion,Bagalkot,4,4,926.94
+Onion,Bagalkot,5,4,950.32
+Onion,Bagalkot,6,4,1340.77
+Onion,Bagalkot,7,4,1625.74
+Onion,Bagalkot,8,3,2312.35
+Onion,Bagalkot,9,2,3850.11
+Onion,Bagalkot,10,2,2347.92
+Onion,Bagalkot,11,2,2031.4
+Onion,Bagalkot,12,2,2141.69
+Onion,Belagavi,1,5,2133.83
+Onion,Belagavi,2,5,1819
+Onion,Belagavi,3,5,1596.31
+Onion,Belagavi,4,4,1273.91
+Onion,Belagavi,5,4,1407.82
+Onion,Belagavi,6,4,1966.5
+Onion,Belagavi,7,5,2128.56
+Onion,Belagavi,8,4,2681.19
+Onion,Belagavi,9,4,3033.51
+Onion,Belagavi,10,4,2547.24
+Onion,Belagavi,11,5,2602.28
+Onion,Belagavi,12,5,2589.24
+Onion,Bengaluru,1,5,1718.25
+Onion,Bengaluru,2,5,1729.95
+Onion,Bengaluru,3,4,1214.5
+Onion,Bengaluru,4,4,1037.3
+Onion,Bengaluru,5,4,1072.3
+Onion,Bengaluru,6,4,1522.28
+Onion,Bengaluru,7,4,1898.45
+Onion,Bengaluru,8,4,2231.9
+Onion,Bengaluru,9,4,2592.78
+Onion,Bengaluru,10,5,2237.33
+Onion,Bengaluru,11,5,2574.24
+Onion,Bengaluru,12,5,2158.4
+Onion,Bengaluru Rural,1,5,2438.86
+Onion,Bengaluru Rural,2,5,2229.92
+Onion,Bengaluru Rural,3,4,1701.07
+Onion,Bengaluru Rural,4,4,1599.7
+Onion,Bengaluru Rural,5,4,1733.81
+Onion,Bengaluru Rural,6,4,1946.66
+Onion,Bengaluru Rural,7,4,2071.7
+Onion,Bengaluru Rural,8,4,2131.92
+Onion,Bengaluru Rural,9,4,2928.41
+Onion,Bengaluru Rural,10,4,2547.29
+Onion,Bengaluru Rural,11,4,3409.72
+Onion,Bengaluru Rural,12,5,2655.12
+Onion,Chamarajanagar,1,1,3942.86
+Onion,Chamarajanagar,2,2,1698.08
+Onion,Chamarajanagar,3,2,3020.37
+Onion,Chamarajanagar,4,2,3214.07
+Onion,Chamarajanagar,5,1,3599.81
+Onion,Chamarajanagar,6,5,2533.56
+Onion,Chamarajanagar,7,2,1456.69
+Onion,Chamarajanagar,8,1,1725.64
+Onion,Chamarajanagar,9,2,3400
+Onion,Chamarajanagar,10,3,3470.13
+Onion,Chamarajanagar,11,3,3328.5
+Onion,Chamarajanagar,12,2,3045.19
+Onion,Chikkaballapur,1,5,2551.97
+Onion,Chikkaballapur,2,5,2209.73
+Onion,Chikkaballapur,3,5,1911.87
+Onion,Chikkaballapur,4,5,1689.89
+Onion,Chikkaballapur,5,5,1690.47
+Onion,Chikkaballapur,6,5,2134.53
+Onion,Chikkaballapur,7,5,2481.64
+Onion,Chikkaballapur,8,5,2661.42
+Onion,Chikkaballapur,9,5,3116.85
+Onion,Chikkaballapur,10,5,3076.57
+Onion,Chikkaballapur,11,5,3342.99
+Onion,Chikkaballapur,12,5,2902.97
+Onion,Chikkamagaluru,1,5,2382.14
+Onion,Chikkamagaluru,2,5,2188.15
+Onion,Chikkamagaluru,3,5,1899.37
+Onion,Chikkamagaluru,4,5,1818.26
+Onion,Chikkamagaluru,5,5,1630.99
+Onion,Chikkamagaluru,6,5,1888.74
+Onion,Chikkamagaluru,7,5,2178.22
+Onion,Chikkamagaluru,8,5,2389.26
+Onion,Chikkamagaluru,9,5,2677.88
+Onion,Chikkamagaluru,10,5,1590.99
+Onion,Chikkamagaluru,11,5,2363.91
+Onion,Chikkamagaluru,12,5,2586.21
+Onion,Dakshina Kannada,1,3,2249.28
+Onion,Dakshina Kannada,2,4,2102.84
+Onion,Dakshina Kannada,3,3,1812.43
+Onion,Dakshina Kannada,4,3,1491.08
+Onion,Dakshina Kannada,5,2,1394.63
+Onion,Dakshina Kannada,6,3,1644.11
+Onion,Dakshina Kannada,7,3,1851.32
+Onion,Dakshina Kannada,8,3,2525.67
+Onion,Dakshina Kannada,9,3,2943.07
+Onion,Dakshina Kannada,10,3,3113.39
+Onion,Dakshina Kannada,11,4,3202.53
+Onion,Dakshina Kannada,12,4,2348.89
+Onion,Davangere,1,5,1781.35
+Onion,Davangere,2,5,1704.44
+Onion,Davangere,3,5,1540.49
+Onion,Davangere,4,5,1241.59
+Onion,Davangere,5,5,1169.5
+Onion,Davangere,6,5,1367.69
+Onion,Davangere,7,5,1704.56
+Onion,Davangere,8,5,1940.42
+Onion,Davangere,9,5,2303.87
+Onion,Davangere,10,5,1782.92
+Onion,Davangere,11,5,1922.19
+Onion,Davangere,12,5,2072.05
+Onion,Dharwad,1,5,1364.16
+Onion,Dharwad,2,5,1274.27
+Onion,Dharwad,3,5,1046.82
+Onion,Dharwad,4,5,974.8
+Onion,Dharwad,5,5,1017.32
+Onion,Dharwad,6,5,1257.37
+Onion,Dharwad,7,5,1414.14
+Onion,Dharwad,8,5,1682.92
+Onion,Dharwad,9,5,1798.97
+Onion,Dharwad,10,5,1488.13
+Onion,Dharwad,11,5,1497.87
+Onion,Dharwad,12,5,1489.34
+Onion,Gadag,7,1,1366.67
+Onion,Gadag,10,3,1368.6
+Onion,Gadag,11,5,1713.49
+Onion,Gadag,12,4,1730.19
+Onion,Hassan,1,5,1825.06
+Onion,Hassan,2,5,1502.07
+Onion,Hassan,3,5,1149.95
+Onion,Hassan,4,5,1128.84
+Onion,Hassan,5,5,1081.1
+Onion,Hassan,6,5,1239.71
+Onion,Hassan,7,5,1683.56
+Onion,Hassan,8,5,1879.41
+Onion,Hassan,9,5,2256.03
+Onion,Hassan,10,5,1869.18
+Onion,Hassan,11,5,2240.05
+Onion,Hassan,12,5,1965.61
+Onion,Haveri,1,3,1820.83
+Onion,Haveri,2,3,1688.21
+Onion,Haveri,3,3,1270.65
+Onion,Haveri,4,3,1194.77
+Onion,Haveri,5,3,1148.25
+Onion,Haveri,6,3,1187.65
+Onion,Haveri,7,3,1642.6
+Onion,Haveri,8,3,1845.65
+Onion,Haveri,9,3,2243.78
+Onion,Haveri,10,3,2072.96
+Onion,Haveri,11,3,2386.34
+Onion,Haveri,12,2,1896.87
+Onion,Kalaburagi,1,5,1344.26
+Onion,Kalaburagi,2,5,1312.67
+Onion,Kalaburagi,3,5,1100.1
+Onion,Kalaburagi,4,5,743.9
+Onion,Kalaburagi,5,5,838.42
+Onion,Kalaburagi,6,5,1100.7
+Onion,Kalaburagi,7,5,1442.87
+Onion,Kalaburagi,8,5,1723.07
+Onion,Kalaburagi,9,5,2008.63
+Onion,Kalaburagi,10,5,1990.37
+Onion,Kalaburagi,11,5,2057.9
+Onion,Kalaburagi,12,5,1697.28
+Onion,Kolar,1,5,2031.91
+Onion,Kolar,2,5,2424.2
+Onion,Kolar,3,5,1802.07
+Onion,Kolar,4,4,1802.82
+Onion,Kolar,5,5,1659.99
+Onion,Kolar,6,5,2037.83
+Onion,Kolar,7,5,2155.29
+Onion,Kolar,8,5,2363.27
+Onion,Kolar,9,5,2887.34
+Onion,Kolar,10,5,2729.29
+Onion,Kolar,11,5,3206.86
+Onion,Kolar,12,5,2992.27
+Onion,Mandya,1,5,2271.36
+Onion,Mandya,2,5,1977.66
+Onion,Mandya,3,4,1528.7
+Onion,Mandya,4,5,1950.56
+Onion,Mandya,5,5,1550.27
+Onion,Mandya,6,5,1446.29
+Onion,Mandya,7,5,2059.44
+Onion,Mandya,8,4,2198.46
+Onion,Mandya,9,5,2379.33
+Onion,Mandya,10,4,2243.97
+Onion,Mandya,11,4,2422.92
+Onion,Mandya,12,4,3013.62
+Onion,Mysuru,1,5,2101.99
+Onion,Mysuru,2,5,1962.56
+Onion,Mysuru,3,5,1739.56
+Onion,Mysuru,4,5,1264.48
+Onion,Mysuru,5,5,1356.34
+Onion,Mysuru,6,5,1919.52
+Onion,Mysuru,7,5,2074.59
+Onion,Mysuru,8,5,2483.78
+Onion,Mysuru,9,5,2932.56
+Onion,Mysuru,10,5,2545.82
+Onion,Mysuru,11,5,3102.12
+Onion,Mysuru,12,5,2605.04
+Onion,Raichur,1,4,1307.63
+Onion,Raichur,2,4,1113.4
+Onion,Raichur,3,4,867
+Onion,Raichur,4,2,901.89
+Onion,Raichur,5,2,917.67
+Onion,Raichur,6,2,1593.84
+Onion,Raichur,7,2,1791.27
+Onion,Raichur,8,2,1850.34
+Onion,Raichur,9,3,1659.4
+Onion,Raichur,10,3,2046.57
+Onion,Raichur,11,3,1359.91
+Onion,Raichur,12,4,1491.76
+Onion,Shivamogga,1,5,2830.68
+Onion,Shivamogga,2,5,2517.31
+Onion,Shivamogga,3,5,1925.68
+Onion,Shivamogga,4,5,1573.62
+Onion,Shivamogga,5,5,1731.9
+Onion,Shivamogga,6,5,2188.12
+Onion,Shivamogga,7,5,2502.15
+Onion,Shivamogga,8,5,2893.29
+Onion,Shivamogga,9,5,3296.11
+Onion,Shivamogga,10,5,2861.62
+Onion,Shivamogga,11,5,3381.35
+Onion,Shivamogga,12,5,3020.07
+Onion,Tumakuru,1,5,2455.81
+Onion,Tumakuru,2,5,2405.74
+Onion,Tumakuru,3,4,1879.89
+Onion,Tumakuru,4,3,1640.5
+Onion,Tumakuru,5,5,3507
+Onion,Tumakuru,6,5,1848.47
+Onion,Tumakuru,7,5,2186.39
+Onion,Tumakuru,8,3,1955.04
+Onion,Tumakuru,9,5,2842.8
+Onion,Tumakuru,10,4,2997.92
+Onion,Tumakuru,11,4,3060.56
+Onion,Tumakuru,12,4,2943.7
+Onion,Udupi,1,5,2601.67
+Onion,Udupi,2,5,2407.37
+Onion,Udupi,3,5,2005.25
+Onion,Udupi,4,5,1640.5
+Onion,Udupi,5,5,1771.37
+Onion,Udupi,6,5,2144.72
+Onion,Udupi,7,4,2468.93
+Onion,Udupi,8,5,2708.29
+Onion,Udupi,9,5,3287.63
+Onion,Udupi,10,5,2974.54
+Onion,Udupi,11,5,3661.33
+Onion,Udupi,12,5,2962.24
+Onion,Vijayanagara,1,3,1668.43
+Onion,Vijayanagara,2,2,1552.16
+Onion,Vijayanagara,3,2,1470.69
+Onion,Vijayanagara,4,2,1222.87
+Onion,Vijayanagara,5,2,1252.31
+Onion,Vijayanagara,6,2,1250.58
+Onion,Vijayanagara,7,2,1437.02
+Onion,Vijayanagara,8,2,1724.75
+Onion,Vijayanagara,9,2,2778.47
+Onion,Vijayanagara,10,3,1551.99
+Onion,Vijayanagara,11,3,2002.39
+Onion,Vijayanagara,12,2,1621.34
+Onion,Vijayapura,1,5,1525.31
+Onion,Vijayapura,2,5,1316.01
+Onion,Vijayapura,3,4,947.09
+Onion,Vijayapura,4,4,727.15
+Onion,Vijayapura,5,4,724.49
+Onion,Vijayapura,6,4,1137.32
+Onion,Vijayapura,7,4,1493.73
+Onion,Vijayapura,8,4,1616.62
+Onion,Vijayapura,9,4,2081.84
+Onion,Vijayapura,10,4,1769.58
+Onion,Vijayapura,11,5,1910.39
+Onion,Vijayapura,12,5,1902.26
+Onion,Bellary,3,1,1684.68
+Onion,Bengaluru South,1,3,2953.93
+Onion,Bengaluru South,2,3,2536.64
+Onion,Bengaluru South,3,3,2399.19
+Onion,Bengaluru South,4,3,1905.73
+Onion,Bengaluru South,5,4,1703.63
+Onion,Bengaluru South,6,4,2237.18
+Onion,Bengaluru South,7,3,3016.55
+Onion,Bengaluru South,8,3,3227.82
+Onion,Bengaluru South,9,3,3944.48
+Onion,Bengaluru South,10,3,4142.97
+Onion,Bengaluru South,11,3,4205.01
+Onion,Bengaluru South,12,2,4789.44
+Onion,Koppal,1,1,2493.33
+Onion,Koppal,7,1,1800
+Onion,Koppal,8,1,2115.77
+Onion,Koppal,9,1,2460.78
+Onion,Koppal,10,1,375
+Onion,Koppal,11,1,5250
+Onion,Bidar,2,1,1200
+Onion,Bidar,9,1,1235
+Onion,Bidar,10,1,1339.8
+Onion,Bidar,11,1,3500
+Onion,Kodagu,10,1,2220
+Onion,Chitradurga,9,1,1067.03
+Onion,Chitradurga,10,1,1170.49
+Potato,Belagavi,1,5,1518.32
+Potato,Belagavi,2,5,1552.19
+Potato,Belagavi,3,5,1591.29
+Potato,Belagavi,4,4,1523.74
+Potato,Belagavi,5,4,1752.46
+Potato,Belagavi,6,4,2028.12
+Potato,Belagavi,7,4,2016.88
+Potato,Belagavi,8,4,2061.78
+Potato,Belagavi,9,4,2008.63
+Potato,Belagavi,10,4,2293.54
+Potato,Belagavi,11,5,2123.55
+Potato,Belagavi,12,5,1891.98
+Potato,Bengaluru,1,5,2037.56
+Potato,Bengaluru,2,5,1585.62
+Potato,Bengaluru,3,4,1465.34
+Potato,Bengaluru,4,4,1699.02
+Potato,Bengaluru,5,4,1962.54
+Potato,Bengaluru,6,4,2090.09
+Potato,Bengaluru,7,4,2211.92
+Potato,Bengaluru,8,4,2101.65
+Potato,Bengaluru,9,4,2106.71
+Potato,Bengaluru,10,4,2058.88
+Potato,Bengaluru,11,5,2059.34
+Potato,Bengaluru,12,5,2173.54
+Potato,Bengaluru Rural,1,3,2221.67
+Potato,Bengaluru Rural,2,2,2659.54
+Potato,Bengaluru Rural,3,3,1595.46
+Potato,Bengaluru Rural,4,2,1684.67
+Potato,Bengaluru Rural,5,2,2383.27
+Potato,Bengaluru Rural,6,3,2318.72
+Potato,Bengaluru Rural,7,2,3202.11
+Potato,Bengaluru Rural,8,3,2702.42
+Potato,Bengaluru Rural,9,3,2285.23
+Potato,Bengaluru Rural,10,3,1986.67
+Potato,Bengaluru Rural,11,2,2259.38
+Potato,Bengaluru Rural,12,2,2536.65
+Potato,Chikkaballapur,1,5,1888.16
+Potato,Chikkaballapur,2,5,1639.2
+Potato,Chikkaballapur,3,5,1434.12
+Potato,Chikkaballapur,4,5,1443.56
+Potato,Chikkaballapur,5,5,1728.2
+Potato,Chikkaballapur,6,5,1885.64
+Potato,Chikkaballapur,7,5,2089.71
+Potato,Chikkaballapur,8,5,2171.49
+Potato,Chikkaballapur,9,5,1951.51
+Potato,Chikkaballapur,10,5,2039.74
+Potato,Chikkaballapur,11,5,1992.02
+Potato,Chikkaballapur,12,5,1983.91
+Potato,Chikkamagaluru,1,5,2085.35
+Potato,Chikkamagaluru,2,5,1984
+Potato,Chikkamagaluru,3,5,1829.35
+Potato,Chikkamagaluru,4,5,1780.22
+Potato,Chikkamagaluru,5,5,1907.83
+Potato,Chikkamagaluru,6,5,2075.68
+Potato,Chikkamagaluru,7,5,2112.51
+Potato,Chikkamagaluru,8,5,2071.96
+Potato,Chikkamagaluru,9,5,2120.19
+Potato,Chikkamagaluru,10,5,2051.51
+Potato,Chikkamagaluru,11,5,2142.28
+Potato,Chikkamagaluru,12,5,2057.73
+Potato,Dakshina Kannada,1,3,1803.75
+Potato,Dakshina Kannada,2,4,1721.27
+Potato,Dakshina Kannada,3,3,1814.44
+Potato,Dakshina Kannada,4,4,1920.94
+Potato,Dakshina Kannada,5,3,1935.98
+Potato,Dakshina Kannada,6,3,1730.94
+Potato,Dakshina Kannada,7,3,2078.43
+Potato,Dakshina Kannada,8,2,2256.01
+Potato,Dakshina Kannada,9,3,2213.3
+Potato,Dakshina Kannada,10,3,2026.01
+Potato,Dakshina Kannada,11,3,2170.05
+Potato,Dakshina Kannada,12,3,2001.28
+Potato,Davangere,1,5,1818.41
+Potato,Davangere,2,5,1682.13
+Potato,Davangere,3,5,1654.18
+Potato,Davangere,4,5,1633.13
+Potato,Davangere,5,5,1747.28
+Potato,Davangere,6,5,1813.95
+Potato,Davangere,7,5,1852.75
+Potato,Davangere,8,5,1806.94
+Potato,Davangere,9,5,1927.08
+Potato,Davangere,10,5,1870.57
+Potato,Davangere,11,5,1944.09
+Potato,Davangere,12,5,1808.24
+Potato,Dharwad,1,5,1502.76
+Potato,Dharwad,2,5,1442.38
+Potato,Dharwad,3,5,1466.52
+Potato,Dharwad,4,5,1689.23
+Potato,Dharwad,5,5,1761.07
+Potato,Dharwad,6,5,1821.07
+Potato,Dharwad,7,5,1963.52
+Potato,Dharwad,8,5,1912.25
+Potato,Dharwad,9,5,1876.42
+Potato,Dharwad,10,5,1836.82
+Potato,Dharwad,11,5,1875.83
+Potato,Dharwad,12,5,1600.32
+Potato,Hassan,1,5,1383.55
+Potato,Hassan,2,5,1230.03
+Potato,Hassan,3,5,1089.09
+Potato,Hassan,4,5,1353.65
+Potato,Hassan,5,5,1643.01
+Potato,Hassan,6,5,1463.2
+Potato,Hassan,7,5,1379.78
+Potato,Hassan,8,5,1456.95
+Potato,Hassan,9,5,1387.48
+Potato,Hassan,10,5,1450.42
+Potato,Hassan,11,5,1986.54
+Potato,Hassan,12,5,1547.24
+Potato,Kalaburagi,1,5,1335.49
+Potato,Kalaburagi,2,5,1351.32
+Potato,Kalaburagi,3,5,1280.07
+Potato,Kalaburagi,4,5,1270.57
+Potato,Kalaburagi,5,5,1369.72
+Potato,Kalaburagi,6,5,1537.3
+Potato,Kalaburagi,7,5,1553.69
+Potato,Kalaburagi,8,5,1528.56
+Potato,Kalaburagi,9,5,1477.99
+Potato,Kalaburagi,10,5,1496.92
+Potato,Kalaburagi,11,5,1673.29
+Potato,Kalaburagi,12,5,1472.66
+Potato,Kolar,1,5,1913.52
+Potato,Kolar,2,5,1775.22
+Potato,Kolar,3,5,1685.66
+Potato,Kolar,4,5,1438.05
+Potato,Kolar,5,5,1874
+Potato,Kolar,6,5,2080.69
+Potato,Kolar,7,5,1956.37
+Potato,Kolar,8,5,2335.61
+Potato,Kolar,9,5,2159.82
+Potato,Kolar,10,5,2418.34
+Potato,Kolar,11,5,2258.41
+Potato,Kolar,12,5,1904.15
+Potato,Mandya,1,2,2250
+Potato,Mandya,2,2,2058.93
+Potato,Mandya,3,2,2342.79
+Potato,Mandya,4,2,2364.78
+Potato,Mandya,5,2,2512.5
+Potato,Mandya,6,2,2363.64
+Potato,Mandya,7,2,2646.43
+Potato,Mandya,8,2,2583.34
+Potato,Mandya,9,1,2500
+Potato,Mandya,10,3,2172.22
+Potato,Mandya,11,2,2050
+Potato,Mandya,12,3,2208.33
+Potato,Mysuru,1,5,2023.17
+Potato,Mysuru,2,5,1780.96
+Potato,Mysuru,3,5,1532.32
+Potato,Mysuru,4,5,1661.29
+Potato,Mysuru,5,5,1673.18
+Potato,Mysuru,6,5,1801.92
+Potato,Mysuru,7,5,1886.12
+Potato,Mysuru,8,5,1633.46
+Potato,Mysuru,9,5,1822.9
+Potato,Mysuru,10,5,1705.95
+Potato,Mysuru,11,5,2243.19
+Potato,Mysuru,12,5,2236.58
+Potato,Shivamogga,1,5,2693.73
+Potato,Shivamogga,2,5,2558.22
+Potato,Shivamogga,3,5,2265.38
+Potato,Shivamogga,4,5,2053.41
+Potato,Shivamogga,5,5,2303.45
+Potato,Shivamogga,6,5,2378.9
+Potato,Shivamogga,7,5,2936.67
+Potato,Shivamogga,8,5,2573.52
+Potato,Shivamogga,9,5,2544.98
+Potato,Shivamogga,10,5,2574
+Potato,Shivamogga,11,5,2676.9
+Potato,Shivamogga,12,5,2717.76
+Potato,Tumakuru,1,3,2477.78
+Potato,Tumakuru,2,2,2233.34
+Potato,Tumakuru,3,1,2400
+Potato,Tumakuru,4,2,2052.28
+Potato,Tumakuru,5,3,2140
+Potato,Tumakuru,6,3,2156.67
+Potato,Tumakuru,7,4,2633.75
+Potato,Tumakuru,8,1,2500
+Potato,Tumakuru,9,4,2273.12
+Potato,Tumakuru,10,3,2183.33
+Potato,Tumakuru,11,2,2800
+Potato,Tumakuru,12,1,2400
+Potato,Udupi,1,5,2073.38
+Potato,Udupi,2,5,1990.65
+Potato,Udupi,3,5,1806.9
+Potato,Udupi,4,5,1954.74
+Potato,Udupi,5,5,2040.15
+Potato,Udupi,6,5,2100.03
+Potato,Udupi,7,4,2351.1
+Potato,Udupi,8,4,2404.53
+Potato,Udupi,9,5,2303.19
+Potato,Udupi,10,5,2343.01
+Potato,Udupi,11,5,2497.96
+Potato,Udupi,12,5,2281.7
+Potato,Vijayanagara,1,3,1476.77
+Potato,Vijayanagara,2,2,1562.53
+Potato,Vijayanagara,3,2,1509.02
+Potato,Vijayanagara,4,2,1413.46
+Potato,Vijayanagara,5,2,1342.92
+Potato,Vijayanagara,6,2,1444.84
+Potato,Vijayanagara,7,2,1480.82
+Potato,Vijayanagara,8,2,1519.92
+Potato,Vijayanagara,9,2,1617.91
+Potato,Vijayanagara,10,3,1600.59
+Potato,Vijayanagara,11,3,1596.27
+Potato,Vijayanagara,12,2,1575.66
+Potato,Bellary,3,1,1817.86
+Potato,Chamarajanagar,1,1,1214.29
+Potato,Chamarajanagar,2,1,1700
+Potato,Chamarajanagar,3,2,1732.5
+Potato,Chamarajanagar,7,1,2800
+Potato,Chamarajanagar,9,1,1148
+Potato,Chamarajanagar,10,2,2250
+Potato,Chamarajanagar,11,1,2300
+Potato,Chamarajanagar,12,1,3000
+Potato,Gadag,7,1,1400
+Potato,Haveri,7,1,1800
+Potato,Haveri,9,1,1105.65
+Potato,Koppal,1,1,2054.55
+Potato,Koppal,7,1,2080.56
+Potato,Koppal,8,1,1887.05
+Potato,Koppal,9,1,1821.43
+Potato,Koppal,10,1,1800
+Potato,Koppal,11,1,2600
+Potato,Bidar,2,1,1300
+Potato,Bidar,9,1,1200
+Potato,Bidar,10,1,1221.19
+Potato,Bidar,11,1,1200
+Potato,Bengaluru South,1,3,2891.67
+Potato,Bengaluru South,2,3,2553.33
+Potato,Bengaluru South,3,2,2650
+Potato,Bengaluru South,4,3,2592.9
+Potato,Bengaluru South,5,3,2521.55
+Potato,Bengaluru South,6,3,2791.67
+Potato,Bengaluru South,7,3,2866.67
+Potato,Bengaluru South,8,2,2400
+Potato,Bengaluru South,9,2,3006.25
+Potato,Bengaluru South,10,2,3100
+Potato,Bengaluru South,11,2,3109.13
+Potato,Bengaluru South,12,2,2788.45
+Potato,Kodagu,9,1,1018
+Potato,Kodagu,11,1,1082
+Brinjal,Bengaluru,1,5,2732.11
+Brinjal,Bengaluru,2,5,1869.71
+Brinjal,Bengaluru,3,5,1792.91
+Brinjal,Bengaluru,4,5,2415.36
+Brinjal,Bengaluru,5,5,2826.01
+Brinjal,Bengaluru,6,5,3147.56
+Brinjal,Bengaluru,7,5,2738.7
+Brinjal,Bengaluru,8,5,2738.97
+Brinjal,Bengaluru,9,5,2448.65
+Brinjal,Bengaluru,10,5,2215.97
+Brinjal,Bengaluru,11,5,3185.18
+Brinjal,Bengaluru,12,5,2880.87
+Brinjal,Bengaluru South,1,5,2419.64
+Brinjal,Bengaluru South,2,5,1805.89
+Brinjal,Bengaluru South,3,5,1679.67
+Brinjal,Bengaluru South,4,5,2089.16
+Brinjal,Bengaluru South,5,5,2273.86
+Brinjal,Bengaluru South,6,5,3120.01
+Brinjal,Bengaluru South,7,5,2342.9
+Brinjal,Bengaluru South,8,5,2566.76
+Brinjal,Bengaluru South,9,5,1561.63
+Brinjal,Bengaluru South,10,5,1802.99
+Brinjal,Bengaluru South,11,5,2991.93
+Brinjal,Bengaluru South,12,5,2606.4
+Brinjal,Chamarajanagar,1,5,1623.93
+Brinjal,Chamarajanagar,2,5,1138.78
+Brinjal,Chamarajanagar,3,5,745.39
+Brinjal,Chamarajanagar,4,5,1078.34
+Brinjal,Chamarajanagar,5,5,1075.56
+Brinjal,Chamarajanagar,6,5,1381.69
+Brinjal,Chamarajanagar,7,5,1048.98
+Brinjal,Chamarajanagar,8,5,1318.51
+Brinjal,Chamarajanagar,9,5,1038.31
+Brinjal,Chamarajanagar,10,5,1079.22
+Brinjal,Chamarajanagar,11,5,1836.34
+Brinjal,Chamarajanagar,12,5,1835.08
+Brinjal,Chikkaballapur,1,5,1560.18
+Brinjal,Chikkaballapur,2,5,1266.17
+Brinjal,Chikkaballapur,3,5,1181.95
+Brinjal,Chikkaballapur,4,5,1441.3
+Brinjal,Chikkaballapur,5,5,1519.34
+Brinjal,Chikkaballapur,6,5,1971.89
+Brinjal,Chikkaballapur,7,5,1743.34
+Brinjal,Chikkaballapur,8,5,1502.63
+Brinjal,Chikkaballapur,9,5,1245.95
+Brinjal,Chikkaballapur,10,5,1359.68
+Brinjal,Chikkaballapur,11,5,1803.04
+Brinjal,Chikkaballapur,12,5,1749.36
+Brinjal,Chikkamagaluru,1,4,1691.27
+Brinjal,Chikkamagaluru,2,5,1825.5
+Brinjal,Chikkamagaluru,3,5,1599.96
+Brinjal,Chikkamagaluru,4,4,1975.83
+Brinjal,Chikkamagaluru,5,4,2115.36
+Brinjal,Chikkamagaluru,6,4,1923.1
+Brinjal,Chikkamagaluru,7,4,1838.66
+Brinjal,Chikkamagaluru,8,4,1950.43
+Brinjal,Chikkamagaluru,9,4,1804.33
+Brinjal,Chikkamagaluru,10,4,1491.98
+Brinjal,Chikkamagaluru,11,4,1965.02
+Brinjal,Chikkamagaluru,12,5,2115.51
+Brinjal,Davangere,1,5,1445.88
+Brinjal,Davangere,2,5,1152.28
+Brinjal,Davangere,3,5,1142.44
+Brinjal,Davangere,4,5,1213.72
+Brinjal,Davangere,5,5,1363.75
+Brinjal,Davangere,6,5,1565.18
+Brinjal,Davangere,7,5,1485.39
+Brinjal,Davangere,8,5,1620.38
+Brinjal,Davangere,9,5,1386.65
+Brinjal,Davangere,10,5,1343.93
+Brinjal,Davangere,11,5,1488.21
+Brinjal,Davangere,12,5,1865.1
+Brinjal,Hassan,1,5,2080.79
+Brinjal,Hassan,2,5,1724.87
+Brinjal,Hassan,3,5,1729.33
+Brinjal,Hassan,4,4,1761.65
+Brinjal,Hassan,5,5,1766.51
+Brinjal,Hassan,6,5,1675.49
+Brinjal,Hassan,7,5,1930.86
+Brinjal,Hassan,8,5,1920.83
+Brinjal,Hassan,9,5,1644.44
+Brinjal,Hassan,10,5,1747.06
+Brinjal,Hassan,11,4,2095.27
+Brinjal,Hassan,12,4,2091.02
+Brinjal,Kalaburagi,1,4,2623.1
+Brinjal,Kalaburagi,2,5,1972.14
+Brinjal,Kalaburagi,3,5,2118.78
+Brinjal,Kalaburagi,4,4,1902.92
+Brinjal,Kalaburagi,5,5,2144.5
+Brinjal,Kalaburagi,6,5,2529.85
+Brinjal,Kalaburagi,7,4,2668.01
+Brinjal,Kalaburagi,8,3,2175.74
+Brinjal,Kalaburagi,9,4,2159.55
+Brinjal,Kalaburagi,10,5,2370.36
+Brinjal,Kalaburagi,11,3,2184.23
+Brinjal,Kalaburagi,12,4,2668.13
+Brinjal,Kolar,1,5,1448.33
+Brinjal,Kolar,2,5,1335.9
+Brinjal,Kolar,3,5,1026.44
+Brinjal,Kolar,4,5,1181.85
+Brinjal,Kolar,5,5,1524.85
+Brinjal,Kolar,6,5,2070.27
+Brinjal,Kolar,7,5,1826.84
+Brinjal,Kolar,8,5,1494.69
+Brinjal,Kolar,9,5,1191.13
+Brinjal,Kolar,10,5,1357.73
+Brinjal,Kolar,11,5,1837.07
+Brinjal,Kolar,12,5,2190.88
+Brinjal,Mysuru,1,5,2090.01
+Brinjal,Mysuru,2,5,1166.31
+Brinjal,Mysuru,3,5,1087.2
+Brinjal,Mysuru,4,5,1648.75
+Brinjal,Mysuru,5,5,1470.67
+Brinjal,Mysuru,6,5,2185.94
+Brinjal,Mysuru,7,5,1774.77
+Brinjal,Mysuru,8,5,2079.01
+Brinjal,Mysuru,9,5,1358.87
+Brinjal,Mysuru,10,5,1730.14
+Brinjal,Mysuru,11,5,2216.08
+Brinjal,Mysuru,12,5,2294.53
+Brinjal,Shivamogga,1,5,1996.2
+Brinjal,Shivamogga,2,5,1343.84
+Brinjal,Shivamogga,3,5,1220.45
+Brinjal,Shivamogga,4,5,1210.53
+Brinjal,Shivamogga,5,5,1546.25
+Brinjal,Shivamogga,6,5,1912.04
+Brinjal,Shivamogga,7,5,1798.9
+Brinjal,Shivamogga,8,5,1824.99
+Brinjal,Shivamogga,9,5,1688.07
+Brinjal,Shivamogga,10,5,1881.31
+Brinjal,Shivamogga,11,5,1931.55
+Brinjal,Shivamogga,12,5,1910.1
+Brinjal,Udupi,1,4,3647.27
+Brinjal,Udupi,2,4,1950.54
+Brinjal,Udupi,3,4,1942.04
+Brinjal,Udupi,4,4,2280.32
+Brinjal,Udupi,5,4,3177.89
+Brinjal,Udupi,6,4,3207.54
+Brinjal,Udupi,7,3,3131.57
+Brinjal,Udupi,8,3,2558.84
+Brinjal,Udupi,9,3,2572.92
+Brinjal,Udupi,10,4,2610.1
+Brinjal,Udupi,11,4,2852.37
+Brinjal,Udupi,12,4,3333.09
+Brinjal,Vijayanagara,1,2,2424.29
+Brinjal,Vijayanagara,2,1,1978.95
+Brinjal,Vijayanagara,3,2,1841.67
+Brinjal,Vijayanagara,4,2,1721.58
+Brinjal,Vijayanagara,5,2,2057.11
+Brinjal,Vijayanagara,6,2,2329.69
+Brinjal,Vijayanagara,7,2,2223.76
+Brinjal,Vijayanagara,8,2,2818.56
+Brinjal,Vijayanagara,9,2,2559.76
+Brinjal,Vijayanagara,10,2,2169.32
+Brinjal,Vijayanagara,11,3,2309.05
+Brinjal,Vijayanagara,12,2,2361.11
+Brinjal,Mandya,1,3,1987.23
+Brinjal,Mandya,2,4,2321.09
+Brinjal,Mandya,3,4,1313.05
+Brinjal,Mandya,4,3,1616.9
+Brinjal,Mandya,5,3,1329.63
+Brinjal,Mandya,6,3,2232.48
+Brinjal,Mandya,7,2,1473.2
+Brinjal,Mandya,8,2,1569.74
+Brinjal,Mandya,9,2,1200.4
+Brinjal,Mandya,10,2,1573.58
+Brinjal,Mandya,11,2,1408.46
+Brinjal,Mandya,12,3,2511.49
+Brinjal,Bengaluru Rural,1,2,1842.5
+Brinjal,Bengaluru Rural,2,4,1910.42
+Brinjal,Bengaluru Rural,3,2,1742.86
+Brinjal,Bengaluru Rural,4,1,1618.18
+Brinjal,Bengaluru Rural,5,2,2542.4
+Brinjal,Bengaluru Rural,6,2,3128.71
+Brinjal,Bengaluru Rural,7,1,2792
+Brinjal,Bengaluru Rural,8,2,1936.84
+Brinjal,Bengaluru Rural,9,2,2194.26
+Brinjal,Bengaluru Rural,10,1,1900
+Brinjal,Bengaluru Rural,12,3,2426.32
+Brinjal,Bellary,3,1,862.5
+Brinjal,Gadag,7,1,2720
+Brinjal,Gadag,8,1,2000
+Brinjal,Haveri,1,1,2037.5
+Brinjal,Haveri,2,1,2088.89
+Brinjal,Haveri,3,1,2184
+Brinjal,Haveri,4,1,2355
+Brinjal,Haveri,5,1,2066.67
+Brinjal,Haveri,6,1,2368.42
+Brinjal,Haveri,7,2,1404.41
+Brinjal,Haveri,8,1,1161.29
+Brinjal,Haveri,9,2,1008.6
+Brinjal,Haveri,10,1,1550
+Brinjal,Haveri,11,2,1775
+Brinjal,Haveri,12,1,2150
+Brinjal,Tumakuru,7,1,2950
+Brinjal,Belagavi,8,1,2666.67
+Brinjal,Belagavi,9,1,2101.9
+Green Chilli,Belagavi,1,4,3435.63
+Green Chilli,Belagavi,2,3,3927.87
+Green Chilli,Belagavi,3,4,5361.92
+Green Chilli,Belagavi,4,3,3943.72
+Green Chilli,Belagavi,5,3,3079.49
+Green Chilli,Belagavi,6,2,3267.93
+Green Chilli,Belagavi,7,2,4348.34
+Green Chilli,Belagavi,8,4,4225.5
+Green Chilli,Belagavi,9,4,3861.02
+Green Chilli,Belagavi,10,3,3000.31
+Green Chilli,Belagavi,11,3,2808.2
+Green Chilli,Belagavi,12,3,2676.41
+Green Chilli,Bengaluru,1,5,4249.97
+Green Chilli,Bengaluru,2,5,4754.84
+Green Chilli,Bengaluru,3,5,5144.96
+Green Chilli,Bengaluru,4,5,5205.53
+Green Chilli,Bengaluru,5,5,4188.74
+Green Chilli,Bengaluru,6,5,4520.51
+Green Chilli,Bengaluru,7,5,5175.16
+Green Chilli,Bengaluru,8,5,4429.6
+Green Chilli,Bengaluru,9,5,4140.44
+Green Chilli,Bengaluru,10,5,4275.95
+Green Chilli,Bengaluru,11,5,3957.34
+Green Chilli,Bengaluru,12,5,3865.96
+Green Chilli,Bengaluru South,1,5,4944.72
+Green Chilli,Bengaluru South,2,5,5054.12
+Green Chilli,Bengaluru South,3,5,5108.42
+Green Chilli,Bengaluru South,4,5,4503.15
+Green Chilli,Bengaluru South,5,5,4012.6
+Green Chilli,Bengaluru South,6,5,4588.03
+Green Chilli,Bengaluru South,7,5,4943.19
+Green Chilli,Bengaluru South,8,5,4483.86
+Green Chilli,Bengaluru South,9,5,3614.61
+Green Chilli,Bengaluru South,10,5,3151.96
+Green Chilli,Bengaluru South,11,5,3559.79
+Green Chilli,Bengaluru South,12,5,3941.85
+Green Chilli,Chamarajanagar,1,5,3795.59
+Green Chilli,Chamarajanagar,2,5,3518.28
+Green Chilli,Chamarajanagar,3,5,3159.63
+Green Chilli,Chamarajanagar,4,5,3164.81
+Green Chilli,Chamarajanagar,5,5,3051.83
+Green Chilli,Chamarajanagar,6,5,3729.42
+Green Chilli,Chamarajanagar,7,5,3970.51
+Green Chilli,Chamarajanagar,8,5,3702.32
+Green Chilli,Chamarajanagar,9,5,2816.99
+Green Chilli,Chamarajanagar,10,5,2378.41
+Green Chilli,Chamarajanagar,11,5,2449.67
+Green Chilli,Chamarajanagar,12,5,3280.2
+Green Chilli,Chikkaballapur,1,5,3310.38
+Green Chilli,Chikkaballapur,2,5,3410.44
+Green Chilli,Chikkaballapur,3,5,3830.37
+Green Chilli,Chikkaballapur,4,5,3774.27
+Green Chilli,Chikkaballapur,5,5,3508.98
+Green Chilli,Chikkaballapur,6,5,3936.5
+Green Chilli,Chikkaballapur,7,5,4287.75
+Green Chilli,Chikkaballapur,8,5,3394.93
+Green Chilli,Chikkaballapur,9,5,2789.45
+Green Chilli,Chikkaballapur,10,5,2783.53
+Green Chilli,Chikkaballapur,11,5,2686.71
+Green Chilli,Chikkaballapur,12,5,2773.54
+Green Chilli,Chikkamagaluru,1,5,3541.42
+Green Chilli,Chikkamagaluru,2,5,3681.99
+Green Chilli,Chikkamagaluru,3,5,3736.57
+Green Chilli,Chikkamagaluru,4,5,3719.93
+Green Chilli,Chikkamagaluru,5,5,3144.54
+Green Chilli,Chikkamagaluru,6,5,2870.9
+Green Chilli,Chikkamagaluru,7,5,2841.58
+Green Chilli,Chikkamagaluru,8,5,3336.72
+Green Chilli,Chikkamagaluru,9,5,3045.94
+Green Chilli,Chikkamagaluru,10,5,2717.71
+Green Chilli,Chikkamagaluru,11,5,2686.82
+Green Chilli,Chikkamagaluru,12,5,3063.28
+Green Chilli,Davangere,1,5,3053.73
+Green Chilli,Davangere,2,5,3492.91
+Green Chilli,Davangere,3,5,3880.71
+Green Chilli,Davangere,4,5,3367.02
+Green Chilli,Davangere,5,5,3128.45
+Green Chilli,Davangere,6,5,3629.41
+Green Chilli,Davangere,7,5,3362.95
+Green Chilli,Davangere,8,5,2680.54
+Green Chilli,Davangere,9,5,2351.87
+Green Chilli,Davangere,10,5,2059.55
+Green Chilli,Davangere,11,5,2274.62
+Green Chilli,Davangere,12,5,2731.41
+Green Chilli,Hassan,1,5,3060.55
+Green Chilli,Hassan,2,5,3435.29
+Green Chilli,Hassan,3,5,3825.31
+Green Chilli,Hassan,4,5,4057.43
+Green Chilli,Hassan,5,5,3781.2
+Green Chilli,Hassan,6,5,2656.48
+Green Chilli,Hassan,7,5,2687.13
+Green Chilli,Hassan,8,5,3310.8
+Green Chilli,Hassan,9,5,2883.02
+Green Chilli,Hassan,10,5,2453.65
+Green Chilli,Hassan,11,5,2624.01
+Green Chilli,Hassan,12,5,2805.1
+Green Chilli,Haveri,1,3,2272.88
+Green Chilli,Haveri,2,3,2714.46
+Green Chilli,Haveri,3,3,3328.75
+Green Chilli,Haveri,4,4,2282.18
+Green Chilli,Haveri,5,3,2190.95
+Green Chilli,Haveri,6,3,3820.16
+Green Chilli,Haveri,7,3,3261.77
+Green Chilli,Haveri,8,3,3040.77
+Green Chilli,Haveri,9,3,1975.02
+Green Chilli,Haveri,10,3,1473.6
+Green Chilli,Haveri,11,4,1812.74
+Green Chilli,Haveri,12,4,2249.98
+Green Chilli,Kalaburagi,1,5,2230.43
+Green Chilli,Kalaburagi,2,5,2165.87
+Green Chilli,Kalaburagi,3,5,3428.14
+Green Chilli,Kalaburagi,4,5,2902.11
+Green Chilli,Kalaburagi,5,5,2822.07
+Green Chilli,Kalaburagi,6,5,3156.53
+Green Chilli,Kalaburagi,7,5,3588.84
+Green Chilli,Kalaburagi,8,5,3308.71
+Green Chilli,Kalaburagi,9,5,2340.66
+Green Chilli,Kalaburagi,10,5,1960.64
+Green Chilli,Kalaburagi,11,5,1935.7
+Green Chilli,Kalaburagi,12,5,2116
+Green Chilli,Kolar,1,5,3129.6
+Green Chilli,Kolar,2,5,3478.52
+Green Chilli,Kolar,3,5,4239.21
+Green Chilli,Kolar,4,5,4070.97
+Green Chilli,Kolar,5,5,3117.83
+Green Chilli,Kolar,6,5,3967.72
+Green Chilli,Kolar,7,5,4805.34
+Green Chilli,Kolar,8,5,3740.23
+Green Chilli,Kolar,9,5,2803.92
+Green Chilli,Kolar,10,5,2579.04
+Green Chilli,Kolar,11,5,2577.98
+Green Chilli,Kolar,12,5,2601.26
+Green Chilli,Mysuru,1,5,3804.1
+Green Chilli,Mysuru,2,5,3638.04
+Green Chilli,Mysuru,3,5,3495.79
+Green Chilli,Mysuru,4,5,3265.79
+Green Chilli,Mysuru,5,5,3090.16
+Green Chilli,Mysuru,6,5,3643.2
+Green Chilli,Mysuru,7,5,3799.96
+Green Chilli,Mysuru,8,5,3549.15
+Green Chilli,Mysuru,9,5,2618.53
+Green Chilli,Mysuru,10,5,2250.32
+Green Chilli,Mysuru,11,5,2265.28
+Green Chilli,Mysuru,12,5,3086.23
+Green Chilli,Shivamogga,1,5,4243.36
+Green Chilli,Shivamogga,2,5,4757.06
+Green Chilli,Shivamogga,3,5,5437.08
+Green Chilli,Shivamogga,4,5,4546.58
+Green Chilli,Shivamogga,5,5,4116.91
+Green Chilli,Shivamogga,6,5,4460.71
+Green Chilli,Shivamogga,7,5,3784.5
+Green Chilli,Shivamogga,8,5,3777.71
+Green Chilli,Shivamogga,9,5,2962.69
+Green Chilli,Shivamogga,10,5,2780.06
+Green Chilli,Shivamogga,11,5,2955.8
+Green Chilli,Shivamogga,12,5,3295.33
+Green Chilli,Udupi,1,4,4427.45
+Green Chilli,Udupi,2,4,4982.8
+Green Chilli,Udupi,3,4,4943.23
+Green Chilli,Udupi,4,4,4649.62
+Green Chilli,Udupi,5,4,4035.28
+Green Chilli,Udupi,6,4,4358.21
+Green Chilli,Udupi,7,3,4121.52
+Green Chilli,Udupi,8,3,3183.33
+Green Chilli,Udupi,9,3,3373.67
+Green Chilli,Udupi,10,4,2875.53
+Green Chilli,Udupi,11,4,3234.43
+Green Chilli,Udupi,12,4,3515
+Green Chilli,Vijayanagara,1,3,2154.56
+Green Chilli,Vijayanagara,2,2,2172.68
+Green Chilli,Vijayanagara,3,2,2769.67
+Green Chilli,Vijayanagara,4,2,2376.96
+Green Chilli,Vijayanagara,5,2,2326.08
+Green Chilli,Vijayanagara,6,2,2671.13
+Green Chilli,Vijayanagara,7,2,3145.81
+Green Chilli,Vijayanagara,8,2,2301.73
+Green Chilli,Vijayanagara,9,2,2291.07
+Green Chilli,Vijayanagara,10,3,1671.94
+Green Chilli,Vijayanagara,11,3,1742.12
+Green Chilli,Vijayanagara,12,2,1769.07
+Green Chilli,Mandya,1,2,4357.96
+Green Chilli,Mandya,2,2,4038.1
+Green Chilli,Mandya,3,2,4149.71
+Green Chilli,Mandya,4,2,3592.26
+Green Chilli,Mandya,5,2,2282.43
+Green Chilli,Mandya,6,2,2787.5
+Green Chilli,Mandya,7,2,4233.34
+Green Chilli,Mandya,8,2,4268.8
+Green Chilli,Mandya,9,1,3400
+Green Chilli,Mandya,10,2,2708.34
+Green Chilli,Mandya,11,2,2808.44
+Green Chilli,Mandya,12,3,3203.91
+Green Chilli,Bengaluru Rural,1,2,4143.83
+Green Chilli,Bengaluru Rural,2,3,5033.33
+Green Chilli,Bengaluru Rural,3,2,5078.13
+Green Chilli,Bengaluru Rural,4,3,4388.89
+Green Chilli,Bengaluru Rural,5,3,4451.28
+Green Chilli,Bengaluru Rural,6,3,5184.79
+Green Chilli,Bengaluru Rural,7,3,5812.83
+Green Chilli,Bengaluru Rural,8,3,4698.94
+Green Chilli,Bengaluru Rural,9,3,4323.8
+Green Chilli,Bengaluru Rural,10,1,3955.56
+Green Chilli,Bengaluru Rural,11,2,4428.57
+Green Chilli,Bengaluru Rural,12,2,4469.46
+Green Chilli,Bellary,3,1,4388.89
+Green Chilli,Gadag,7,1,4400
+Green Chilli,Gadag,8,1,2537.5
+Green Chilli,Gadag,12,1,24058
+Green Chilli,Koppal,1,1,4354.17
+Green Chilli,Koppal,7,1,5063.64
+Green Chilli,Koppal,8,1,2885.53
+Green Chilli,Koppal,9,1,2337.5
+Green Chilli,Koppal,10,1,3000
+Green Chilli,Koppal,11,1,3250
+Green Chilli,Kodagu,3,1,1110
+Green Chilli,Kodagu,5,1,1600
+Cabbage,Belagavi,1,4,2348.11
+Cabbage,Belagavi,2,4,1840.09
+Cabbage,Belagavi,3,4,2652.58
+Cabbage,Belagavi,4,4,1122.23
+Cabbage,Belagavi,5,4,1333.26
+Cabbage,Belagavi,6,2,1663.21
+Cabbage,Belagavi,7,2,1562.93
+Cabbage,Belagavi,8,3,1599.49
+Cabbage,Belagavi,9,4,1691.73
+Cabbage,Belagavi,10,4,1841.72
+Cabbage,Belagavi,11,4,2339.45
+Cabbage,Belagavi,12,4,1797.54
+Cabbage,Bengaluru,1,5,1505.54
+Cabbage,Bengaluru,2,5,1195.98
+Cabbage,Bengaluru,3,5,947.36
+Cabbage,Bengaluru,4,5,1181.21
+Cabbage,Bengaluru,5,5,1243.21
+Cabbage,Bengaluru,6,5,1703.79
+Cabbage,Bengaluru,7,5,1498.95
+Cabbage,Bengaluru,8,5,1649.31
+Cabbage,Bengaluru,9,5,1257.32
+Cabbage,Bengaluru,10,5,1184.51
+Cabbage,Bengaluru,11,5,1209.82
+Cabbage,Bengaluru,12,5,1418.94
+Cabbage,Bengaluru South,1,5,1604.47
+Cabbage,Bengaluru South,2,5,1097.11
+Cabbage,Bengaluru South,3,5,884.44
+Cabbage,Bengaluru South,4,5,941.09
+Cabbage,Bengaluru South,5,5,1471.42
+Cabbage,Bengaluru South,6,5,2294.85
+Cabbage,Bengaluru South,7,5,1879.74
+Cabbage,Bengaluru South,8,5,1321.37
+Cabbage,Bengaluru South,9,5,1009
+Cabbage,Bengaluru South,10,5,1032.41
+Cabbage,Bengaluru South,11,5,1490.87
+Cabbage,Bengaluru South,12,5,1854.07
+Cabbage,Chamarajanagar,1,5,1331.69
+Cabbage,Chamarajanagar,2,5,898.33
+Cabbage,Chamarajanagar,3,5,677.82
+Cabbage,Chamarajanagar,4,5,806.26
+Cabbage,Chamarajanagar,5,5,977.32
+Cabbage,Chamarajanagar,6,5,1388.56
+Cabbage,Chamarajanagar,7,5,1380.92
+Cabbage,Chamarajanagar,8,5,1116.14
+Cabbage,Chamarajanagar,9,5,825.63
+Cabbage,Chamarajanagar,10,5,865.76
+Cabbage,Chamarajanagar,11,5,1082.73
+Cabbage,Chamarajanagar,12,5,1324.22
+Cabbage,Chikkaballapur,1,5,879.7
+Cabbage,Chikkaballapur,2,5,614.27
+Cabbage,Chikkaballapur,3,5,545.2
+Cabbage,Chikkaballapur,4,5,557.17
+Cabbage,Chikkaballapur,5,5,767.98
+Cabbage,Chikkaballapur,6,5,1122.26
+Cabbage,Chikkaballapur,7,5,1056.23
+Cabbage,Chikkaballapur,8,5,702.84
+Cabbage,Chikkaballapur,9,5,496.54
+Cabbage,Chikkaballapur,10,5,598.18
+Cabbage,Chikkaballapur,11,5,717.17
+Cabbage,Chikkaballapur,12,5,894.76
+Cabbage,Chikkamagaluru,1,5,1409.62
+Cabbage,Chikkamagaluru,2,4,1138.14
+Cabbage,Chikkamagaluru,3,3,1036.25
+Cabbage,Chikkamagaluru,4,5,1242.69
+Cabbage,Chikkamagaluru,5,5,1207.87
+Cabbage,Chikkamagaluru,6,5,1561.59
+Cabbage,Chikkamagaluru,7,5,1306.86
+Cabbage,Chikkamagaluru,8,5,1178.1
+Cabbage,Chikkamagaluru,9,5,1144.35
+Cabbage,Chikkamagaluru,10,5,980.56
+Cabbage,Chikkamagaluru,11,5,1141.58
+Cabbage,Chikkamagaluru,12,5,1304.18
+Cabbage,Dakshina Kannada,1,1,3310
+Cabbage,Dakshina Kannada,2,1,2300
+Cabbage,Dakshina Kannada,3,1,1159.09
+Cabbage,Dakshina Kannada,4,1,1060
+Cabbage,Dakshina Kannada,5,1,1566.67
+Cabbage,Dakshina Kannada,6,1,2400
+Cabbage,Dakshina Kannada,10,1,1050
+Cabbage,Dakshina Kannada,11,1,1690.91
+Cabbage,Dakshina Kannada,12,1,3650
+Cabbage,Davangere,1,5,1357.34
+Cabbage,Davangere,2,5,1136.21
+Cabbage,Davangere,3,5,921.56
+Cabbage,Davangere,4,5,790.13
+Cabbage,Davangere,5,5,978.59
+Cabbage,Davangere,6,5,1209.85
+Cabbage,Davangere,7,5,1111.03
+Cabbage,Davangere,8,5,1252.26
+Cabbage,Davangere,9,5,1107.33
+Cabbage,Davangere,10,5,1012.36
+Cabbage,Davangere,11,5,1056.2
+Cabbage,Davangere,12,5,1337.05
+Cabbage,Hassan,1,5,929.41
+Cabbage,Hassan,2,5,1373.62
+Cabbage,Hassan,3,5,1100.41
+Cabbage,Hassan,4,4,792.23
+Cabbage,Hassan,5,5,1130.51
+Cabbage,Hassan,6,5,1189.56
+Cabbage,Hassan,7,5,1469.05
+Cabbage,Hassan,8,5,1039.76
+Cabbage,Hassan,9,5,1108.72
+Cabbage,Hassan,10,5,745.22
+Cabbage,Hassan,11,4,1098.34
+Cabbage,Hassan,12,5,953.09
+Cabbage,Kolar,1,5,779.67
+Cabbage,Kolar,2,5,711.97
+Cabbage,Kolar,3,5,535.36
+Cabbage,Kolar,4,5,598.82
+Cabbage,Kolar,5,5,699.68
+Cabbage,Kolar,6,5,899.03
+Cabbage,Kolar,7,5,988.92
+Cabbage,Kolar,8,5,778.74
+Cabbage,Kolar,9,5,536.49
+Cabbage,Kolar,10,5,679.18
+Cabbage,Kolar,11,5,691.81
+Cabbage,Kolar,12,5,617.87
+Cabbage,Mysuru,1,5,1362.01
+Cabbage,Mysuru,2,5,985.4
+Cabbage,Mysuru,3,5,752.39
+Cabbage,Mysuru,4,5,891.4
+Cabbage,Mysuru,5,5,1268.24
+Cabbage,Mysuru,6,5,1955.85
+Cabbage,Mysuru,7,5,1607.94
+Cabbage,Mysuru,8,5,1271.86
+Cabbage,Mysuru,9,5,920.35
+Cabbage,Mysuru,10,5,1043.62
+Cabbage,Mysuru,11,5,1154.33
+Cabbage,Mysuru,12,5,1527.6
+Cabbage,Shivamogga,1,5,2558.21
+Cabbage,Shivamogga,2,5,1669.1
+Cabbage,Shivamogga,3,5,1608.62
+Cabbage,Shivamogga,4,5,1385.88
+Cabbage,Shivamogga,5,4,1392.69
+Cabbage,Shivamogga,6,4,2268.81
+Cabbage,Shivamogga,7,5,1980.09
+Cabbage,Shivamogga,8,5,2301.64
+Cabbage,Shivamogga,9,5,1753.37
+Cabbage,Shivamogga,10,5,2325.2
+Cabbage,Shivamogga,11,5,2620.92
+Cabbage,Shivamogga,12,5,2701.74
+Cabbage,Udupi,1,4,1811.41
+Cabbage,Udupi,2,4,1499.9
+Cabbage,Udupi,3,4,1707.02
+Cabbage,Udupi,4,4,1584.55
+Cabbage,Udupi,5,4,1849.61
+Cabbage,Udupi,6,4,2545.59
+Cabbage,Udupi,7,3,2155.37
+Cabbage,Udupi,8,3,1445.57
+Cabbage,Udupi,9,3,1343.99
+Cabbage,Udupi,10,4,2042.54
+Cabbage,Udupi,11,4,1558.57
+Cabbage,Udupi,12,4,1993.95
+Cabbage,Vijayanagara,1,3,1257.14
+Cabbage,Vijayanagara,2,2,1347.55
+Cabbage,Vijayanagara,3,2,1056.05
+Cabbage,Vijayanagara,4,2,912.65
+Cabbage,Vijayanagara,5,2,930.49
+Cabbage,Vijayanagara,6,2,1040.03
+Cabbage,Vijayanagara,7,2,952.3
+Cabbage,Vijayanagara,8,2,988.57
+Cabbage,Vijayanagara,9,2,1062.55
+Cabbage,Vijayanagara,10,3,780.37
+Cabbage,Vijayanagara,11,3,1138.62
+Cabbage,Vijayanagara,12,2,1125.84
+Cabbage,Mandya,1,3,1684.74
+Cabbage,Mandya,2,4,1173.75
+Cabbage,Mandya,3,4,847.22
+Cabbage,Mandya,4,3,608.92
+Cabbage,Mandya,5,3,1028.53
+Cabbage,Mandya,6,3,1981.09
+Cabbage,Mandya,7,2,1345.31
+Cabbage,Mandya,8,2,1532.27
+Cabbage,Mandya,9,2,919.23
+Cabbage,Mandya,10,2,1206.08
+Cabbage,Mandya,11,2,1134.55
+Cabbage,Mandya,12,3,1845.1
+Cabbage,Bellary,3,1,1337.5
+Cabbage,Gadag,7,1,400
+Cabbage,Haveri,1,2,1080.32
+Cabbage,Haveri,2,1,1534.78
+Cabbage,Haveri,3,1,1980
+Cabbage,Haveri,4,1,1687.5
+Cabbage,Haveri,5,1,1744.23
+Cabbage,Haveri,6,1,1562.5
+Cabbage,Haveri,7,2,789.03
+Cabbage,Haveri,8,1,1694.74
+Cabbage,Haveri,9,3,1329.32
+Cabbage,Haveri,10,1,375.19
+Cabbage,Haveri,11,2,1017.48
+Cabbage,Haveri,12,1,1770.37
+Cabbage,Bengaluru Rural,1,1,991.67
+Cabbage,Bengaluru Rural,2,1,1100
+Cabbage,Bengaluru Rural,3,1,2566.67
+Cabbage,Bengaluru Rural,4,2,2405.66
+Cabbage,Bengaluru Rural,5,2,2281.34
+Cabbage,Bengaluru Rural,6,2,2765.32
+Cabbage,Bengaluru Rural,7,2,3442.86
+Cabbage,Bengaluru Rural,8,1,2511.72
+Cabbage,Bengaluru Rural,9,1,2177.48
+Cabbage,Bengaluru Rural,11,1,2800
+Cabbage,Bengaluru Rural,12,1,2487.32
+Cauliflower,Belagavi,1,4,2370.59
+Cauliflower,Belagavi,2,4,2201.47
+Cauliflower,Belagavi,3,4,2047.75
+Cauliflower,Belagavi,4,4,1961.91
+Cauliflower,Belagavi,5,4,2044.37
+Cauliflower,Belagavi,6,3,2158.1
+Cauliflower,Belagavi,7,3,2536.63
+Cauliflower,Belagavi,8,4,1775.27
+Cauliflower,Belagavi,9,4,2139.63
+Cauliflower,Belagavi,10,4,2108.04
+Cauliflower,Belagavi,11,4,2351.7
+Cauliflower,Belagavi,12,4,2355.66
+Cauliflower,Bengaluru,1,5,2311.69
+Cauliflower,Bengaluru,2,5,1937.63
+Cauliflower,Bengaluru,3,5,1727.98
+Cauliflower,Bengaluru,4,5,1867.92
+Cauliflower,Bengaluru,5,5,2387.86
+Cauliflower,Bengaluru,6,5,2613.59
+Cauliflower,Bengaluru,7,5,2652.78
+Cauliflower,Bengaluru,8,5,2684.57
+Cauliflower,Bengaluru,9,5,2439.61
+Cauliflower,Bengaluru,10,5,2402.16
+Cauliflower,Bengaluru,11,5,2755.04
+Cauliflower,Bengaluru,12,5,2693.72
+Cauliflower,Chikkaballapur,1,5,1539.95
+Cauliflower,Chikkaballapur,2,5,952.81
+Cauliflower,Chikkaballapur,3,5,894.32
+Cauliflower,Chikkaballapur,4,5,994.76
+Cauliflower,Chikkaballapur,5,5,1255.16
+Cauliflower,Chikkaballapur,6,5,1313.15
+Cauliflower,Chikkaballapur,7,5,1185.78
+Cauliflower,Chikkaballapur,8,5,978.61
+Cauliflower,Chikkaballapur,9,5,1051.56
+Cauliflower,Chikkaballapur,10,5,1185.96
+Cauliflower,Chikkaballapur,11,5,1396.9
+Cauliflower,Chikkaballapur,12,5,1285.14
+Cauliflower,Chikkamagaluru,1,5,1369.32
+Cauliflower,Chikkamagaluru,2,5,1316.15
+Cauliflower,Chikkamagaluru,3,5,1313.65
+Cauliflower,Chikkamagaluru,4,5,1436.43
+Cauliflower,Chikkamagaluru,5,5,1430.62
+Cauliflower,Chikkamagaluru,6,5,1417.83
+Cauliflower,Chikkamagaluru,7,5,1483.08
+Cauliflower,Chikkamagaluru,8,5,1391.25
+Cauliflower,Chikkamagaluru,9,5,1507.19
+Cauliflower,Chikkamagaluru,10,5,1320.03
+Cauliflower,Chikkamagaluru,11,5,1403.73
+Cauliflower,Chikkamagaluru,12,5,1476.53
+Cauliflower,Dakshina Kannada,1,1,3346.15
+Cauliflower,Dakshina Kannada,2,1,2400
+Cauliflower,Dakshina Kannada,3,1,2035.29
+Cauliflower,Dakshina Kannada,4,1,2425
+Cauliflower,Dakshina Kannada,10,1,3600
+Cauliflower,Dakshina Kannada,11,1,3653.85
+Cauliflower,Dakshina Kannada,12,1,4566.67
+Cauliflower,Davangere,1,5,1494.22
+Cauliflower,Davangere,2,5,1262.76
+Cauliflower,Davangere,3,5,1392.41
+Cauliflower,Davangere,4,5,1352.5
+Cauliflower,Davangere,5,5,1499.63
+Cauliflower,Davangere,6,5,1703.17
+Cauliflower,Davangere,7,5,1788.91
+Cauliflower,Davangere,8,5,1540.07
+Cauliflower,Davangere,9,5,1671.61
+Cauliflower,Davangere,10,5,1566.38
+Cauliflower,Davangere,11,5,1614.5
+Cauliflower,Davangere,12,5,1775.89
+Cauliflower,Gadag,10,1,6649
+Cauliflower,Hassan,1,5,1671.88
+Cauliflower,Hassan,2,5,1504.68
+Cauliflower,Hassan,3,5,1501.28
+Cauliflower,Hassan,4,3,1510.6
+Cauliflower,Hassan,5,4,1892.16
+Cauliflower,Hassan,6,4,2044.61
+Cauliflower,Hassan,7,3,1955.71
+Cauliflower,Hassan,8,5,2537.32
+Cauliflower,Hassan,9,4,2343.64
+Cauliflower,Hassan,10,4,1606.35
+Cauliflower,Hassan,11,4,1746.15
+Cauliflower,Hassan,12,4,1632.98
+Cauliflower,Kolar,1,5,1301.57
+Cauliflower,Kolar,2,5,1015.18
+Cauliflower,Kolar,3,5,1102.13
+Cauliflower,Kolar,4,5,1185.77
+Cauliflower,Kolar,5,5,1468.23
+Cauliflower,Kolar,6,5,1552.48
+Cauliflower,Kolar,7,5,1509.24
+Cauliflower,Kolar,8,5,1238.48
+Cauliflower,Kolar,9,5,1385.54
+Cauliflower,Kolar,10,5,1601.9
+Cauliflower,Kolar,11,5,1613.77
+Cauliflower,Kolar,12,5,1497.88
+Cauliflower,Mysuru,1,5,1322.33
+Cauliflower,Mysuru,2,5,1146.42
+Cauliflower,Mysuru,3,5,1065.38
+Cauliflower,Mysuru,4,5,1682.57
+Cauliflower,Mysuru,5,5,2244.29
+Cauliflower,Mysuru,6,5,2482.64
+Cauliflower,Mysuru,7,5,2298.8
+Cauliflower,Mysuru,8,5,1634.7
+Cauliflower,Mysuru,9,5,2316.72
+Cauliflower,Mysuru,10,5,1910.33
+Cauliflower,Mysuru,11,5,2524.01
+Cauliflower,Mysuru,12,5,2443.71
+Cauliflower,Shivamogga,1,5,2586.94
+Cauliflower,Shivamogga,2,5,2471
+Cauliflower,Shivamogga,3,5,2032.79
+Cauliflower,Shivamogga,4,5,2498.26
+Cauliflower,Shivamogga,5,4,2725.61
+Cauliflower,Shivamogga,6,4,2996.11
+Cauliflower,Shivamogga,7,5,4536.99
+Cauliflower,Shivamogga,8,5,2422.19
+Cauliflower,Shivamogga,9,5,3237.47
+Cauliflower,Shivamogga,10,5,2936.18
+Cauliflower,Shivamogga,11,5,3015.05
+Cauliflower,Shivamogga,12,5,2873.58
+Cauliflower,Udupi,1,4,2273.13
+Cauliflower,Udupi,2,3,2125.92
+Cauliflower,Udupi,3,3,2178.66
+Cauliflower,Udupi,4,4,2810.12
+Cauliflower,Udupi,5,4,3450.03
+Cauliflower,Udupi,6,4,3955.66
+Cauliflower,Udupi,7,3,3448.1
+Cauliflower,Udupi,8,3,3112.99
+Cauliflower,Udupi,9,3,3288.99
+Cauliflower,Udupi,10,4,2869.95
+Cauliflower,Udupi,11,4,3281.49
+Cauliflower,Udupi,12,3,2552.86
+Cauliflower,Vijayanagara,1,1,1100
+Cauliflower,Vijayanagara,2,1,700
+Cauliflower,Vijayanagara,3,1,1000
+Cauliflower,Vijayanagara,6,1,1552.34
+Cauliflower,Vijayanagara,7,1,1600
+Cauliflower,Vijayanagara,8,2,1118.83
+Cauliflower,Vijayanagara,9,1,1652.26
+Cauliflower,Vijayanagara,10,1,1200
+Cauliflower,Vijayanagara,11,1,833.33
+Cauliflower,Vijayanagara,12,1,1000
+Cauliflower,Bengaluru Rural,1,3,1589
+Cauliflower,Bengaluru Rural,2,3,1828.51
+Cauliflower,Bengaluru Rural,3,1,2375.91
+Cauliflower,Bengaluru Rural,4,1,1215.91
+Cauliflower,Bengaluru Rural,5,1,2460.75
+Cauliflower,Bengaluru Rural,6,2,2101.29
+Cauliflower,Bengaluru Rural,7,1,2458.16
+Cauliflower,Bengaluru Rural,8,1,2305.04
+Cauliflower,Bengaluru Rural,9,2,1746.89
+Cauliflower,Bengaluru Rural,10,1,2312.82
+Cauliflower,Bengaluru Rural,11,2,2682.69
+Cauliflower,Bengaluru Rural,12,3,1670.63
+Cauliflower,Mandya,1,2,1500
+Cauliflower,Mandya,2,2,1257.5
+Cauliflower,Mandya,3,2,1186.96
+Cauliflower,Mandya,4,2,1421.43
+Cauliflower,Mandya,5,2,1780.95
+Cauliflower,Mandya,6,2,1808.34
+Cauliflower,Mandya,7,2,1864.59
+Cauliflower,Mandya,8,2,1485
+Cauliflower,Mandya,9,1,2050
+Cauliflower,Mandya,10,2,2500
+Cauliflower,Mandya,11,2,1250
+Cauliflower,Mandya,12,3,2392.38
+Cauliflower,Bellary,3,1,1255.56
+Cauliflower,Bengaluru South,1,3,1998.95
+Cauliflower,Bengaluru South,2,3,1675.48
+Cauliflower,Bengaluru South,3,2,1670.99
+Cauliflower,Bengaluru South,4,3,2455.26
+Cauliflower,Bengaluru South,5,3,2731.64
+Cauliflower,Bengaluru South,6,3,3187.48
+Cauliflower,Bengaluru South,7,3,2888.72
+Cauliflower,Bengaluru South,8,3,2239.81
+Cauliflower,Bengaluru South,9,3,2211.23
+Cauliflower,Bengaluru South,10,3,2893.39
+Cauliflower,Bengaluru South,11,3,2938.72
+Cauliflower,Bengaluru South,12,3,2744.91
+Cauliflower,Kalaburagi,9,2,1660.5
+Cauliflower,Kalaburagi,10,1,1553.85
+Cauliflower,Kalaburagi,11,1,1625
+Cauliflower,Kalaburagi,12,1,1573.26
+Cauliflower,Chamarajanagar,1,1,4636.36
+Cauliflower,Chamarajanagar,2,1,1534.09
+Cauliflower,Chamarajanagar,11,1,4000
+Cauliflower,Chamarajanagar,12,1,3000
+Cauliflower,Haveri,1,1,1585.71
+Cauliflower,Haveri,2,1,1739.47
+Cauliflower,Haveri,3,1,1365.52
+Cauliflower,Haveri,4,1,1430.77
+Cauliflower,Haveri,5,1,2400
+Cauliflower,Haveri,9,1,2000
+Cauliflower,Haveri,12,1,2027.27
+Carrot,Bengaluru,1,5,4242.27
+Carrot,Bengaluru,2,5,3791.31
+Carrot,Bengaluru,3,5,3714.13
+Carrot,Bengaluru,4,5,3394.67
+Carrot,Bengaluru,5,5,3528.39
+Carrot,Bengaluru,6,5,4340.95
+Carrot,Bengaluru,7,5,5325.84
+Carrot,Bengaluru,8,5,6149.94
+Carrot,Bengaluru,9,5,5605.25
+Carrot,Bengaluru,10,5,4913.89
+Carrot,Bengaluru,11,5,5280.82
+Carrot,Bengaluru,12,5,4420.92
+Carrot,Bengaluru South,1,5,3817.17
+Carrot,Bengaluru South,2,5,2812.57
+Carrot,Bengaluru South,3,5,2343.81
+Carrot,Bengaluru South,4,5,2305.97
+Carrot,Bengaluru South,5,5,3155.55
+Carrot,Bengaluru South,6,5,5067.32
+Carrot,Bengaluru South,7,5,5134.31
+Carrot,Bengaluru South,8,5,4533.77
+Carrot,Bengaluru South,9,5,4053.21
+Carrot,Bengaluru South,10,5,3860.39
+Carrot,Bengaluru South,11,5,4734.05
+Carrot,Bengaluru South,12,5,4077.12
+Carrot,Chamarajanagar,1,5,2399.28
+Carrot,Chamarajanagar,2,5,2144.42
+Carrot,Chamarajanagar,3,5,1782.84
+Carrot,Chamarajanagar,4,5,1717.9
+Carrot,Chamarajanagar,5,5,1766.83
+Carrot,Chamarajanagar,6,5,1886.1
+Carrot,Chamarajanagar,7,5,2336.76
+Carrot,Chamarajanagar,8,5,2765.71
+Carrot,Chamarajanagar,9,5,2160.43
+Carrot,Chamarajanagar,10,5,1764.92
+Carrot,Chamarajanagar,11,5,2000.79
+Carrot,Chamarajanagar,12,5,2086.87
+Carrot,Chikkaballapur,1,5,2421.19
+Carrot,Chikkaballapur,2,5,1737.12
+Carrot,Chikkaballapur,3,5,1333.52
+Carrot,Chikkaballapur,4,5,1454.95
+Carrot,Chikkaballapur,5,5,2065.36
+Carrot,Chikkaballapur,6,5,2872.55
+Carrot,Chikkaballapur,7,5,3239.88
+Carrot,Chikkaballapur,8,5,3229.61
+Carrot,Chikkaballapur,9,5,2828
+Carrot,Chikkaballapur,10,5,2779.92
+Carrot,Chikkaballapur,11,5,3080.38
+Carrot,Chikkaballapur,12,5,2756.6
+Carrot,Chikkamagaluru,1,5,2847.4
+Carrot,Chikkamagaluru,2,5,2436.1
+Carrot,Chikkamagaluru,3,5,2487.85
+Carrot,Chikkamagaluru,4,5,2451.32
+Carrot,Chikkamagaluru,5,5,2628.37
+Carrot,Chikkamagaluru,6,5,3307.36
+Carrot,Chikkamagaluru,7,5,3166.83
+Carrot,Chikkamagaluru,8,5,3307.77
+Carrot,Chikkamagaluru,9,5,3260.17
+Carrot,Chikkamagaluru,10,5,2852.74
+Carrot,Chikkamagaluru,11,5,3032
+Carrot,Chikkamagaluru,12,5,3190.7
+Carrot,Dakshina Kannada,1,1,7300
+Carrot,Dakshina Kannada,2,1,4957.14
+Carrot,Dakshina Kannada,3,1,3691.67
+Carrot,Dakshina Kannada,4,1,3500
+Carrot,Dakshina Kannada,5,1,2500
+Carrot,Dakshina Kannada,10,1,4157.14
+Carrot,Dakshina Kannada,11,1,5377.78
+Carrot,Dakshina Kannada,12,1,6081.25
+Carrot,Davangere,1,5,2978.1
+Carrot,Davangere,2,5,2550.52
+Carrot,Davangere,3,5,2397.55
+Carrot,Davangere,4,5,2360.56
+Carrot,Davangere,5,5,2615.56
+Carrot,Davangere,6,5,2917.41
+Carrot,Davangere,7,5,2876.96
+Carrot,Davangere,8,5,2673.37
+Carrot,Davangere,9,5,2538.33
+Carrot,Davangere,10,5,2499.66
+Carrot,Davangere,11,5,2623.44
+Carrot,Davangere,12,5,2926.13
+Carrot,Hassan,1,5,2797.71
+Carrot,Hassan,2,5,2493.23
+Carrot,Hassan,3,5,3047.62
+Carrot,Hassan,4,5,2648.23
+Carrot,Hassan,5,5,2856.93
+Carrot,Hassan,6,5,3535.69
+Carrot,Hassan,7,5,3254.81
+Carrot,Hassan,8,5,2933.48
+Carrot,Hassan,9,5,2920.62
+Carrot,Hassan,10,5,2641.18
+Carrot,Hassan,11,5,3288.89
+Carrot,Hassan,12,5,3339.58
+Carrot,Kolar,1,5,3081.12
+Carrot,Kolar,2,5,2152.65
+Carrot,Kolar,3,5,1710.45
+Carrot,Kolar,4,5,1654.46
+Carrot,Kolar,5,5,2358.25
+Carrot,Kolar,6,5,3607.1
+Carrot,Kolar,7,5,3990.85
+Carrot,Kolar,8,5,3495.01
+Carrot,Kolar,9,5,3108.02
+Carrot,Kolar,10,5,3107.34
+Carrot,Kolar,11,5,3781.29
+Carrot,Kolar,12,5,3160.75
+Carrot,Mysuru,1,5,3816.73
+Carrot,Mysuru,2,5,3331.08
+Carrot,Mysuru,3,5,2395.91
+Carrot,Mysuru,4,5,2233.81
+Carrot,Mysuru,5,5,2811.06
+Carrot,Mysuru,6,5,3591.66
+Carrot,Mysuru,7,5,4304.87
+Carrot,Mysuru,8,5,4241.97
+Carrot,Mysuru,9,5,3728.6
+Carrot,Mysuru,10,5,3890.71
+Carrot,Mysuru,11,5,4007.41
+Carrot,Mysuru,12,5,3595.48
+Carrot,Shivamogga,1,5,3904.39
+Carrot,Shivamogga,2,5,2838.54
+Carrot,Shivamogga,3,5,2456.51
+Carrot,Shivamogga,4,5,2120.5
+Carrot,Shivamogga,5,5,3284.99
+Carrot,Shivamogga,6,5,4226.66
+Carrot,Shivamogga,7,5,4035.48
+Carrot,Shivamogga,8,5,4022.73
+Carrot,Shivamogga,9,5,4237.55
+Carrot,Shivamogga,10,5,3755.49
+Carrot,Shivamogga,11,5,4917.05
+Carrot,Shivamogga,12,5,4528.57
+Carrot,Udupi,1,4,3941.46
+Carrot,Udupi,2,4,3020.46
+Carrot,Udupi,3,4,3003.01
+Carrot,Udupi,4,4,3018.27
+Carrot,Udupi,5,4,3513.72
+Carrot,Udupi,6,4,4679.99
+Carrot,Udupi,7,3,4182.45
+Carrot,Udupi,8,3,3864.19
+Carrot,Udupi,9,3,3543.54
+Carrot,Udupi,10,4,3916.35
+Carrot,Udupi,11,4,5141.52
+Carrot,Udupi,12,4,4038.1
+Carrot,Vijayanagara,1,2,2693.64
+Carrot,Vijayanagara,2,2,2427.09
+Carrot,Vijayanagara,3,2,2195.2
+Carrot,Vijayanagara,4,2,2099.75
+Carrot,Vijayanagara,5,1,2776.42
+Carrot,Vijayanagara,6,1,2858.27
+Carrot,Vijayanagara,7,2,2550.81
+Carrot,Vijayanagara,8,2,2938.28
+Carrot,Vijayanagara,9,2,3004.61
+Carrot,Vijayanagara,10,3,1980.95
+Carrot,Vijayanagara,11,3,2004.74
+Carrot,Vijayanagara,12,2,2590.81
+Carrot,Mandya,1,2,2837.04
+Carrot,Mandya,2,2,2978.39
+Carrot,Mandya,3,2,2214.85
+Carrot,Mandya,4,2,2100
+Carrot,Mandya,5,2,2131.48
+Carrot,Mandya,6,2,2928.95
+Carrot,Mandya,7,2,2574.71
+Carrot,Mandya,8,2,2534.61
+Carrot,Mandya,9,1,2294.12
+Carrot,Mandya,10,2,2386.9
+Carrot,Mandya,11,2,2431.82
+Carrot,Mandya,12,3,2913.84
+Carrot,Bellary,3,1,2000
+Carrot,Bengaluru Rural,1,2,3605.73
+Carrot,Bengaluru Rural,2,2,3149.85
+Carrot,Bengaluru Rural,3,3,2885.9
+Carrot,Bengaluru Rural,4,2,2816.86
+Carrot,Bengaluru Rural,5,2,3058.24
+Carrot,Bengaluru Rural,6,2,3180.29
+Carrot,Bengaluru Rural,7,3,4083.68
+Carrot,Bengaluru Rural,8,2,4551.04
+Carrot,Bengaluru Rural,9,2,3913.31
+Carrot,Bengaluru Rural,10,2,2519.84
+Carrot,Bengaluru Rural,11,3,3203.29
+Carrot,Bengaluru Rural,12,3,3643.53
+Carrot,Gadag,7,1,2700
+Carrot,Tumakuru,7,1,4950
+Carrot,Haveri,1,1,2995.65
+Carrot,Haveri,2,1,2890
+Carrot,Haveri,3,1,2681.25
+Carrot,Haveri,4,1,3020
+Carrot,Haveri,5,2,3118.42
+Carrot,Haveri,6,1,2812.5
+Carrot,Haveri,7,1,1984.09
+Carrot,Haveri,8,1,2269.23
+Carrot,Haveri,9,2,2334.96
+Carrot,Haveri,10,1,1940.82
+Carrot,Haveri,11,2,2538.56
+Carrot,Haveri,12,1,3007.41
+Carrot,Kalaburagi,4,1,1500
+Carrot,Kalaburagi,7,1,2014.29
+Carrot,Kalaburagi,8,1,1689.47
+Carrot,Kalaburagi,9,2,1988.64
+Carrot,Kalaburagi,10,1,1845.59
+Carrot,Kalaburagi,11,1,1927.08
+Carrot,Kalaburagi,12,1,1758.06
+Beans,Bengaluru,1,5,3254.13
+Beans,Bengaluru,2,5,3281.51
+Beans,Bengaluru,3,5,4241.8
+Beans,Bengaluru,4,5,6196.74
+Beans,Bengaluru,5,5,8689.4
+Beans,Bengaluru,6,5,6143.18
+Beans,Bengaluru,7,5,5682.81
+Beans,Bengaluru,8,5,4925.53
+Beans,Bengaluru,9,5,4617.57
+Beans,Bengaluru,10,5,5203.37
+Beans,Bengaluru,11,5,4114.17
+Beans,Bengaluru,12,5,4106.8
+Beans,Bengaluru South,1,5,3473.61
+Beans,Bengaluru South,2,5,3529.08
+Beans,Bengaluru South,3,5,4580.07
+Beans,Bengaluru South,4,5,6360.23
+Beans,Bengaluru South,5,5,8831.63
+Beans,Bengaluru South,6,5,6346.5
+Beans,Bengaluru South,7,5,4060.36
+Beans,Bengaluru South,8,5,3336.73
+Beans,Bengaluru South,9,5,4692.86
+Beans,Bengaluru South,10,5,5263.5
+Beans,Bengaluru South,11,5,3588.27
+Beans,Bengaluru South,12,5,4094.55
+Beans,Chamarajanagar,1,5,2557.96
+Beans,Chamarajanagar,2,5,2701.14
+Beans,Chamarajanagar,3,5,3451.04
+Beans,Chamarajanagar,4,5,4451.15
+Beans,Chamarajanagar,5,5,5541.46
+Beans,Chamarajanagar,6,5,4201.86
+Beans,Chamarajanagar,7,5,3203.11
+Beans,Chamarajanagar,8,5,2383.4
+Beans,Chamarajanagar,9,5,3279.49
+Beans,Chamarajanagar,10,5,3579.33
+Beans,Chamarajanagar,11,5,2292.57
+Beans,Chamarajanagar,12,5,2782.88
+Beans,Chikkaballapur,1,5,2466.49
+Beans,Chikkaballapur,2,5,2298.45
+Beans,Chikkaballapur,3,5,2906.44
+Beans,Chikkaballapur,4,5,4621.72
+Beans,Chikkaballapur,5,5,6530
+Beans,Chikkaballapur,6,5,5162.12
+Beans,Chikkaballapur,7,5,4552.35
+Beans,Chikkaballapur,8,5,3573.87
+Beans,Chikkaballapur,9,5,3467.86
+Beans,Chikkaballapur,10,5,4148.06
+Beans,Chikkaballapur,11,5,2788.2
+Beans,Chikkaballapur,12,5,3031.38
+Beans,Chikkamagaluru,1,5,2859.34
+Beans,Chikkamagaluru,2,5,2738.84
+Beans,Chikkamagaluru,3,5,3468.9
+Beans,Chikkamagaluru,4,5,4898.49
+Beans,Chikkamagaluru,5,5,5774.22
+Beans,Chikkamagaluru,6,5,4843.52
+Beans,Chikkamagaluru,7,5,4001.8
+Beans,Chikkamagaluru,8,5,3546.45
+Beans,Chikkamagaluru,9,5,3566.51
+Beans,Chikkamagaluru,10,5,3521.62
+Beans,Chikkamagaluru,11,5,2903.38
+Beans,Chikkamagaluru,12,5,3267.59
+Beans,Dakshina Kannada,1,1,3138.1
+Beans,Dakshina Kannada,2,1,2495.83
+Beans,Dakshina Kannada,3,1,3333.33
+Beans,Dakshina Kannada,4,1,3940
+Beans,Dakshina Kannada,5,1,2500
+Beans,Dakshina Kannada,10,1,3058.33
+Beans,Dakshina Kannada,11,1,3862.5
+Beans,Dakshina Kannada,12,1,5309.52
+Beans,Davangere,1,5,3023.04
+Beans,Davangere,2,5,2971.16
+Beans,Davangere,3,5,3602.37
+Beans,Davangere,4,5,4460.02
+Beans,Davangere,5,5,5177.65
+Beans,Davangere,6,5,5213.86
+Beans,Davangere,7,5,4065.77
+Beans,Davangere,8,5,2955.17
+Beans,Davangere,9,5,3191.35
+Beans,Davangere,10,5,3075.96
+Beans,Davangere,11,5,2888.07
+Beans,Davangere,12,5,3456.79
+Beans,Hassan,1,5,3147.98
+Beans,Hassan,2,5,3020.2
+Beans,Hassan,3,5,3362.43
+Beans,Hassan,4,5,4479.34
+Beans,Hassan,5,5,4957.31
+Beans,Hassan,6,5,4447.15
+Beans,Hassan,7,5,4132.2
+Beans,Hassan,8,5,3475.5
+Beans,Hassan,9,5,3229.81
+Beans,Hassan,10,5,3436.48
+Beans,Hassan,11,5,3186.29
+Beans,Hassan,12,4,2927.98
+Beans,Kalaburagi,1,3,3223.51
+Beans,Kalaburagi,2,4,2325.67
+Beans,Kalaburagi,3,3,2403.73
+Beans,Kalaburagi,4,2,2925.7
+Beans,Kalaburagi,5,4,2348.85
+Beans,Kalaburagi,6,3,3343.33
+Beans,Kalaburagi,7,4,4322.06
+Beans,Kalaburagi,8,2,2474.48
+Beans,Kalaburagi,9,4,2244.64
+Beans,Kalaburagi,10,3,1512.7
+Beans,Kalaburagi,11,3,2906.62
+Beans,Kalaburagi,12,4,2188.4
+Beans,Kolar,1,5,2763.01
+Beans,Kolar,2,5,2557.76
+Beans,Kolar,3,5,3875.61
+Beans,Kolar,4,5,5887.11
+Beans,Kolar,5,5,7329.89
+Beans,Kolar,6,5,6714.44
+Beans,Kolar,7,5,5775.43
+Beans,Kolar,8,5,4803.4
+Beans,Kolar,9,5,4607.31
+Beans,Kolar,10,5,5281.93
+Beans,Kolar,11,5,3391.3
+Beans,Kolar,12,5,3626
+Beans,Mandya,1,3,2725.74
+Beans,Mandya,2,3,2223.86
+Beans,Mandya,3,4,3620.96
+Beans,Mandya,4,4,4385.99
+Beans,Mandya,5,3,5060.56
+Beans,Mandya,6,3,5137.78
+Beans,Mandya,7,2,3334.88
+Beans,Mandya,8,2,2938.1
+Beans,Mandya,9,3,3723.19
+Beans,Mandya,10,3,2754.81
+Beans,Mandya,11,3,2546.73
+Beans,Mandya,12,3,2518.55
+Beans,Mysuru,1,5,2994.66
+Beans,Mysuru,2,5,2858.32
+Beans,Mysuru,3,5,4013.9
+Beans,Mysuru,4,5,5328.53
+Beans,Mysuru,5,5,7813.64
+Beans,Mysuru,6,5,5836.03
+Beans,Mysuru,7,5,4277.77
+Beans,Mysuru,8,5,3653.04
+Beans,Mysuru,9,5,4035
+Beans,Mysuru,10,5,4841.24
+Beans,Mysuru,11,5,2827.63
+Beans,Mysuru,12,5,3388.21
+Beans,Shivamogga,1,5,4202.49
+Beans,Shivamogga,2,5,3844.76
+Beans,Shivamogga,3,5,5208.08
+Beans,Shivamogga,4,5,6167.73
+Beans,Shivamogga,5,5,8359.02
+Beans,Shivamogga,6,5,6717.17
+Beans,Shivamogga,7,5,5119.93
+Beans,Shivamogga,8,5,3746.49
+Beans,Shivamogga,9,5,4057.04
+Beans,Shivamogga,10,5,5007.77
+Beans,Shivamogga,11,5,3992.01
+Beans,Shivamogga,12,5,4640.5
+Beans,Udupi,1,4,3702.89
+Beans,Udupi,2,4,3765.32
+Beans,Udupi,3,4,5472.38
+Beans,Udupi,4,4,6331.17
+Beans,Udupi,5,4,8972.31
+Beans,Udupi,6,4,6827.32
+Beans,Udupi,7,3,4987.72
+Beans,Udupi,8,3,4254.75
+Beans,Udupi,9,3,4622.46
+Beans,Udupi,10,4,5861.44
+Beans,Udupi,11,4,4132.75
+Beans,Udupi,12,4,4257.28
+Beans,Vijayanagara,1,2,2657.15
+Beans,Vijayanagara,2,2,2257.15
+Beans,Vijayanagara,3,2,2709.28
+Beans,Vijayanagara,4,2,2503.23
+Beans,Vijayanagara,5,1,2824.86
+Beans,Vijayanagara,6,1,3000
+Beans,Vijayanagara,7,2,2750
+Beans,Vijayanagara,8,2,2482.43
+Beans,Vijayanagara,9,2,2923.56
+Beans,Vijayanagara,10,3,2490.91
+Beans,Vijayanagara,11,3,2325.74
+Beans,Vijayanagara,12,2,2789.42
+Beans,Tumakuru,7,1,3450
+Beans,Haveri,1,1,3300
+Beans,Haveri,4,1,3050
+Beans,Haveri,5,1,3075
+Beans,Haveri,6,1,2887.5
+Beans,Haveri,7,1,2491.67
+Beans,Haveri,8,1,2833.33
+Beans,Haveri,9,2,2050
+Beans,Haveri,10,1,1576.92
+Beans,Haveri,11,1,1809.52
+Beans,Bengaluru Rural,1,1,4250
+Beans,Bengaluru Rural,2,1,3500
+Beans,Bengaluru Rural,3,1,4500
+Beans,Bengaluru Rural,4,2,3805.19
+Beans,Bengaluru Rural,5,2,6914.42
+Beans,Bengaluru Rural,6,2,4106.43
+Beans,Bengaluru Rural,7,2,4633.53
+Beans,Bengaluru Rural,8,2,4240.14
+Beans,Bengaluru Rural,9,2,3848.64
+Beans,Bengaluru Rural,10,2,3826.52
+Beans,Bengaluru Rural,11,1,6600.72
+Beans,Bengaluru Rural,12,1,3928.57
+Beans,Belagavi,8,1,3727.27
+Beans,Belagavi,9,1,3248.73
+Okra,Bengaluru,1,4,3991.07
+Okra,Bengaluru,2,4,3153.37
+Okra,Bengaluru,3,4,3086.49
+Okra,Bengaluru,4,4,2676.85
+Okra,Bengaluru,5,4,2676.15
+Okra,Bengaluru,6,4,2690.02
+Okra,Bengaluru,7,4,2972.83
+Okra,Bengaluru,8,4,2588.93
+Okra,Bengaluru,9,4,2195.65
+Okra,Bengaluru,10,5,2518.18
+Okra,Bengaluru,11,4,3322.24
+Okra,Bengaluru,12,4,4022.9
+Okra,Bengaluru South,1,4,3437.84
+Okra,Bengaluru South,2,4,2912.87
+Okra,Bengaluru South,3,4,2825.41
+Okra,Bengaluru South,4,4,2577.4
+Okra,Bengaluru South,5,4,2502.85
+Okra,Bengaluru South,6,4,2392.59
+Okra,Bengaluru South,7,4,2580.49
+Okra,Bengaluru South,8,4,2122.81
+Okra,Bengaluru South,9,4,1925.67
+Okra,Bengaluru South,10,5,2379.29
+Okra,Bengaluru South,11,5,3705.99
+Okra,Bengaluru South,12,4,3407.32
+Okra,Chamarajanagar,1,1,4500
+Okra,Chamarajanagar,2,1,2457.14
+Okra,Chamarajanagar,3,1,1145.83
+Okra,Chamarajanagar,4,1,1725
+Okra,Chamarajanagar,5,1,1760
+Okra,Chamarajanagar,6,1,1420
+Okra,Chamarajanagar,7,1,1862.5
+Okra,Chamarajanagar,8,2,1425
+Okra,Chamarajanagar,9,1,2407.69
+Okra,Chamarajanagar,10,2,1661.42
+Okra,Chamarajanagar,11,2,1846.43
+Okra,Chamarajanagar,12,2,2917.5
+Okra,Chikkaballapur,1,4,1844.72
+Okra,Chikkaballapur,2,4,1797.22
+Okra,Chikkaballapur,3,4,1954.99
+Okra,Chikkaballapur,4,4,1738.72
+Okra,Chikkaballapur,5,4,2021.59
+Okra,Chikkaballapur,6,4,2077.73
+Okra,Chikkaballapur,7,4,1865.06
+Okra,Chikkaballapur,8,4,1762.67
+Okra,Chikkaballapur,9,4,1606.57
+Okra,Chikkaballapur,10,5,1568.69
+Okra,Chikkaballapur,11,5,1807.7
+Okra,Chikkaballapur,12,4,1890.91
+Okra,Chikkamagaluru,1,4,2826.62
+Okra,Chikkamagaluru,2,4,2658.76
+Okra,Chikkamagaluru,3,4,2685.18
+Okra,Chikkamagaluru,4,4,2622.15
+Okra,Chikkamagaluru,5,4,2617.33
+Okra,Chikkamagaluru,6,4,2505.5
+Okra,Chikkamagaluru,7,4,2583.92
+Okra,Chikkamagaluru,8,4,2375.96
+Okra,Chikkamagaluru,9,4,2364.62
+Okra,Chikkamagaluru,10,5,2190.33
+Okra,Chikkamagaluru,11,5,2469.26
+Okra,Chikkamagaluru,12,4,2747.46
+Okra,Davangere,1,4,3573.03
+Okra,Davangere,2,4,3224.54
+Okra,Davangere,3,4,3265.96
+Okra,Davangere,4,4,3262.15
+Okra,Davangere,5,4,3016.87
+Okra,Davangere,6,4,2799
+Okra,Davangere,7,4,2768.17
+Okra,Davangere,8,4,2380.93
+Okra,Davangere,9,4,2474.56
+Okra,Davangere,10,5,2378.83
+Okra,Davangere,11,4,2542.35
+Okra,Davangere,12,4,3388.8
+Okra,Hassan,1,4,2842.96
+Okra,Hassan,2,4,2646.88
+Okra,Hassan,3,4,2488.81
+Okra,Hassan,4,4,2710.72
+Okra,Hassan,5,4,2071.31
+Okra,Hassan,6,4,2417.22
+Okra,Hassan,7,4,2388.79
+Okra,Hassan,8,4,2323.58
+Okra,Hassan,9,4,2001.68
+Okra,Hassan,10,5,2415.91
+Okra,Hassan,11,5,2811.17
+Okra,Hassan,12,4,2877.5
+Okra,Kalaburagi,1,2,2259.24
+Okra,Kalaburagi,2,3,1952.25
+Okra,Kalaburagi,3,2,1310.58
+Okra,Kalaburagi,4,3,2270.88
+Okra,Kalaburagi,5,2,1758.25
+Okra,Kalaburagi,6,2,2265
+Okra,Kalaburagi,7,2,2492.32
+Okra,Kalaburagi,8,2,1835
+Okra,Kalaburagi,9,2,1656.94
+Okra,Kalaburagi,10,3,1325.24
+Okra,Kalaburagi,11,3,1735
+Okra,Kalaburagi,12,2,1904.76
+Okra,Mysuru,1,4,2585.93
+Okra,Mysuru,2,4,1999.54
+Okra,Mysuru,3,4,1783.12
+Okra,Mysuru,4,4,1476.82
+Okra,Mysuru,5,4,1373.63
+Okra,Mysuru,6,4,1297.83
+Okra,Mysuru,7,4,1645.11
+Okra,Mysuru,8,4,1506.57
+Okra,Mysuru,9,4,1114.25
+Okra,Mysuru,10,5,1507.22
+Okra,Mysuru,11,5,2200.35
+Okra,Mysuru,12,4,2806.26
+Okra,Shivamogga,1,4,3479.47
+Okra,Shivamogga,2,3,2806.67
+Okra,Shivamogga,3,4,2857.52
+Okra,Shivamogga,4,4,2367.24
+Okra,Shivamogga,5,4,2613.96
+Okra,Shivamogga,6,4,2420
+Okra,Shivamogga,7,4,2482.58
+Okra,Shivamogga,8,4,2381.38
+Okra,Shivamogga,9,4,2561.99
+Okra,Shivamogga,10,5,2845.17
+Okra,Shivamogga,11,5,3179.21
+Okra,Shivamogga,12,3,4427.14
+Okra,Udupi,1,4,4352.55
+Okra,Udupi,2,4,3824.26
+Okra,Udupi,3,4,4097.42
+Okra,Udupi,4,4,3534.76
+Okra,Udupi,5,4,3220.7
+Okra,Udupi,6,4,3774.91
+Okra,Udupi,7,3,3192.1
+Okra,Udupi,8,3,2804.55
+Okra,Udupi,9,3,2934.99
+Okra,Udupi,10,4,2842.82
+Okra,Udupi,11,4,3190.31
+Okra,Udupi,12,4,4389.73
+Okra,Vijayanagara,1,1,2200
+Okra,Vijayanagara,2,1,2045.24
+Okra,Vijayanagara,3,1,2000
+Okra,Vijayanagara,4,1,1954.55
+Okra,Vijayanagara,5,1,1916.67
+Okra,Vijayanagara,6,1,2125
+Okra,Vijayanagara,7,1,1894.74
+Okra,Vijayanagara,8,1,1892.86
+Okra,Vijayanagara,9,1,2103.56
+Okra,Vijayanagara,10,3,2041.26
+Okra,Vijayanagara,11,3,1996.47
+Okra,Vijayanagara,12,1,1880
+Okra,Kolar,1,2,2793.75
+Okra,Kolar,2,3,1966.67
+Okra,Kolar,3,3,1466.67
+Okra,Kolar,4,3,1683.33
+Okra,Kolar,5,4,1433.33
+Okra,Kolar,6,3,2011.11
+Okra,Kolar,7,2,1758.34
+Okra,Kolar,8,3,1498.61
+Okra,Kolar,9,4,1543.41
+Okra,Kolar,10,3,1517.8
+Okra,Kolar,11,2,1725
+Okra,Kolar,12,3,1194.44
+Okra,Mandya,1,3,2245.1
+Okra,Mandya,2,2,2686
+Okra,Mandya,3,2,1864.92
+Okra,Mandya,4,2,1513.34
+Okra,Mandya,5,2,1306.64
+Okra,Mandya,6,2,1269.23
+Okra,Mandya,7,2,1506.16
+Okra,Mandya,8,2,1662.82
+Okra,Mandya,9,1,1414.29
+Okra,Mandya,10,2,1345
+Okra,Mandya,11,2,1820
+Okra,Mandya,12,4,2644.32
+Okra,Bengaluru Rural,1,2,2300
+Okra,Bengaluru Rural,2,1,1200
+Okra,Bengaluru Rural,3,1,2300
+Okra,Bengaluru Rural,6,1,2475
+Okra,Bengaluru Rural,9,1,1800
+Okra,Bengaluru Rural,10,1,1750
+Okra,Bengaluru Rural,11,1,1775
+Okra,Bengaluru Rural,12,1,2750
+Okra,Bellary,3,1,916.67
+Okra,Gadag,7,1,1800
+Okra,Haveri,4,1,3100
+Cucumber,Bengaluru,1,5,1612.27
+Cucumber,Bengaluru,2,5,1478.17
+Cucumber,Bengaluru,3,5,1574.57
+Cucumber,Bengaluru,4,5,1720.7
+Cucumber,Bengaluru,5,5,2032.72
+Cucumber,Bengaluru,6,5,2058.87
+Cucumber,Bengaluru,7,5,1992.69
+Cucumber,Bengaluru,8,5,1825.97
+Cucumber,Bengaluru,9,5,1512.3
+Cucumber,Bengaluru,10,5,1397.8
+Cucumber,Bengaluru,11,5,1329.59
+Cucumber,Bengaluru,12,5,1853.22
+Cucumber,Bengaluru Rural,1,5,652.59
+Cucumber,Bengaluru Rural,2,5,865.72
+Cucumber,Bengaluru Rural,3,4,782.19
+Cucumber,Bengaluru Rural,4,5,1088.71
+Cucumber,Bengaluru Rural,5,4,1013.4
+Cucumber,Bengaluru Rural,6,4,777.81
+Cucumber,Bengaluru Rural,7,4,881.37
+Cucumber,Bengaluru Rural,8,4,953
+Cucumber,Bengaluru Rural,9,4,880.51
+Cucumber,Bengaluru Rural,10,4,441.09
+Cucumber,Bengaluru Rural,11,4,750
+Cucumber,Bengaluru Rural,12,4,782.38
+Cucumber,Bengaluru South,1,5,1166.29
+Cucumber,Bengaluru South,2,5,1365.91
+Cucumber,Bengaluru South,3,5,1464.33
+Cucumber,Bengaluru South,4,5,1422.06
+Cucumber,Bengaluru South,5,5,1860.97
+Cucumber,Bengaluru South,6,5,1386.74
+Cucumber,Bengaluru South,7,5,1381.2
+Cucumber,Bengaluru South,8,5,1149.72
+Cucumber,Bengaluru South,9,5,1275.42
+Cucumber,Bengaluru South,10,5,1084.67
+Cucumber,Bengaluru South,11,5,1087.79
+Cucumber,Bengaluru South,12,5,1611.57
+Cucumber,Chikkaballapur,1,5,644.04
+Cucumber,Chikkaballapur,2,5,687.37
+Cucumber,Chikkaballapur,3,5,689.7
+Cucumber,Chikkaballapur,4,5,994.87
+Cucumber,Chikkaballapur,5,5,960.68
+Cucumber,Chikkaballapur,6,5,825.58
+Cucumber,Chikkaballapur,7,5,821.05
+Cucumber,Chikkaballapur,8,5,747.09
+Cucumber,Chikkaballapur,9,5,704.08
+Cucumber,Chikkaballapur,10,5,555.98
+Cucumber,Chikkaballapur,11,5,532.76
+Cucumber,Chikkaballapur,12,5,758.05
+Cucumber,Chikkamagaluru,1,5,1691.88
+Cucumber,Chikkamagaluru,2,5,1406.82
+Cucumber,Chikkamagaluru,3,5,1405.49
+Cucumber,Chikkamagaluru,4,5,1451.54
+Cucumber,Chikkamagaluru,5,5,1348.66
+Cucumber,Chikkamagaluru,6,5,1480.71
+Cucumber,Chikkamagaluru,7,5,1342.27
+Cucumber,Chikkamagaluru,8,5,1205.71
+Cucumber,Chikkamagaluru,9,5,1526.21
+Cucumber,Chikkamagaluru,10,5,1500.52
+Cucumber,Chikkamagaluru,11,5,1526.15
+Cucumber,Chikkamagaluru,12,5,1850.78
+Cucumber,Davangere,1,5,1994.03
+Cucumber,Davangere,2,5,1431.49
+Cucumber,Davangere,3,5,1422.54
+Cucumber,Davangere,4,5,1573.34
+Cucumber,Davangere,5,5,1805.96
+Cucumber,Davangere,6,5,1898.58
+Cucumber,Davangere,7,5,1737.71
+Cucumber,Davangere,8,5,1813.08
+Cucumber,Davangere,9,5,1872.03
+Cucumber,Davangere,10,5,1781.04
+Cucumber,Davangere,11,5,1571.47
+Cucumber,Davangere,12,5,1907.16
+Cucumber,Hassan,1,5,1725.25
+Cucumber,Hassan,2,5,1459.01
+Cucumber,Hassan,3,5,2430.64
+Cucumber,Hassan,4,5,1802.8
+Cucumber,Hassan,5,4,1371.03
+Cucumber,Hassan,6,5,1377.73
+Cucumber,Hassan,7,5,1776.87
+Cucumber,Hassan,8,5,1619.47
+Cucumber,Hassan,9,5,1412.09
+Cucumber,Hassan,10,5,1779.03
+Cucumber,Hassan,11,4,1533.71
+Cucumber,Hassan,12,4,1745.78
+Cucumber,Kolar,1,5,1078.29
+Cucumber,Kolar,2,5,1029.53
+Cucumber,Kolar,3,5,1142.54
+Cucumber,Kolar,4,5,1182.79
+Cucumber,Kolar,5,5,1367.22
+Cucumber,Kolar,6,5,1322.68
+Cucumber,Kolar,7,5,1511.37
+Cucumber,Kolar,8,5,1261.35
+Cucumber,Kolar,9,5,1336.55
+Cucumber,Kolar,10,5,1002.55
+Cucumber,Kolar,11,5,885.6
+Cucumber,Kolar,12,5,1281.6
+Cucumber,Mandya,1,5,1278.07
+Cucumber,Mandya,2,5,1151.1
+Cucumber,Mandya,3,5,1062.93
+Cucumber,Mandya,4,5,1268.39
+Cucumber,Mandya,5,5,1537.36
+Cucumber,Mandya,6,5,1368.72
+Cucumber,Mandya,7,5,1609.02
+Cucumber,Mandya,8,5,1206.07
+Cucumber,Mandya,9,5,1296.43
+Cucumber,Mandya,10,5,1067.1
+Cucumber,Mandya,11,5,950
+Cucumber,Mandya,12,4,1419.46
+Cucumber,Mysuru,1,5,1323.19
+Cucumber,Mysuru,2,5,1396.21
+Cucumber,Mysuru,3,5,1324.13
+Cucumber,Mysuru,4,5,1407.68
+Cucumber,Mysuru,5,5,1680.97
+Cucumber,Mysuru,6,5,1331.41
+Cucumber,Mysuru,7,5,1442.74
+Cucumber,Mysuru,8,5,1171.66
+Cucumber,Mysuru,9,5,1441.05
+Cucumber,Mysuru,10,5,1013.32
+Cucumber,Mysuru,11,5,986.14
+Cucumber,Mysuru,12,5,1618.01
+Cucumber,Shivamogga,1,5,2012.42
+Cucumber,Shivamogga,2,5,1930.08
+Cucumber,Shivamogga,3,5,2019.94
+Cucumber,Shivamogga,4,5,1803.1
+Cucumber,Shivamogga,5,5,2080.46
+Cucumber,Shivamogga,6,5,1913.55
+Cucumber,Shivamogga,7,5,1713.07
+Cucumber,Shivamogga,8,5,1671.3
+Cucumber,Shivamogga,9,5,1789.99
+Cucumber,Shivamogga,10,5,1658.42
+Cucumber,Shivamogga,11,5,1113.82
+Cucumber,Shivamogga,12,5,2298.84
+Cucumber,Udupi,1,4,1483.26
+Cucumber,Udupi,2,4,1493.84
+Cucumber,Udupi,3,4,1287.75
+Cucumber,Udupi,4,4,1431.03
+Cucumber,Udupi,5,4,1551.9
+Cucumber,Udupi,6,4,1947.29
+Cucumber,Udupi,7,3,1298.56
+Cucumber,Udupi,8,3,1241.06
+Cucumber,Udupi,9,3,1548.25
+Cucumber,Udupi,10,4,1544.97
+Cucumber,Udupi,11,4,1663.68
+Cucumber,Udupi,12,4,2022.88
+Cucumber,Vijayanagara,1,3,1355.56
+Cucumber,Vijayanagara,2,2,1294.59
+Cucumber,Vijayanagara,3,2,1584.8
+Cucumber,Vijayanagara,4,2,1626.92
+Cucumber,Vijayanagara,5,2,1552.05
+Cucumber,Vijayanagara,6,2,1752.5
+Cucumber,Vijayanagara,7,2,1668.32
+Cucumber,Vijayanagara,8,2,1634.77
+Cucumber,Vijayanagara,9,2,1743.52
+Cucumber,Vijayanagara,10,3,1517.31
+Cucumber,Vijayanagara,11,3,1541.2
+Cucumber,Vijayanagara,12,2,1393.27
+Cucumber,Bellary,3,1,930
+Cucumber,Dakshina Kannada,4,1,971.43
+Cucumber,Dakshina Kannada,5,1,900
+Cucumber,Dakshina Kannada,6,1,1400
+Cucumber,Chamarajanagar,1,4,1144.42
+Cucumber,Chamarajanagar,2,4,1207.14
+Cucumber,Chamarajanagar,3,4,1144.2
+Cucumber,Chamarajanagar,4,4,1140.8
+Cucumber,Chamarajanagar,5,4,1397.23
+Cucumber,Chamarajanagar,6,4,1186.13
+Cucumber,Chamarajanagar,7,4,1105.75
+Cucumber,Chamarajanagar,8,4,1069.96
+Cucumber,Chamarajanagar,9,4,947.7
+Cucumber,Chamarajanagar,10,3,949.59
+Cucumber,Chamarajanagar,11,3,1047.53
+Cucumber,Chamarajanagar,12,4,1505.87
+Cucumber,Gadag,7,1,1787.5
+Cucumber,Haveri,1,2,1650
+Cucumber,Haveri,2,1,2033.33
+Cucumber,Haveri,3,1,2000
+Cucumber,Haveri,4,2,1605.36
+Cucumber,Haveri,5,1,1875
+Cucumber,Haveri,6,1,1983.87
+Cucumber,Haveri,7,2,1375
+Cucumber,Haveri,8,1,1250
+Cucumber,Haveri,11,2,1114.41
+Cucumber,Haveri,12,1,1500
+Cucumber,Kalaburagi,9,2,2162.5
+Cucumber,Kalaburagi,10,1,2475
+Cucumber,Kalaburagi,11,1,1825
+Cucumber,Kalaburagi,12,1,2361.11
+Capsicum,Belagavi,1,2,3416.18
+Capsicum,Belagavi,2,2,3481.28
+Capsicum,Belagavi,3,2,3597.79
+Capsicum,Belagavi,4,3,3218.95
+Capsicum,Belagavi,5,2,3096.74
+Capsicum,Belagavi,6,2,3547.42
+Capsicum,Belagavi,7,1,3160.29
+Capsicum,Belagavi,8,3,3372
+Capsicum,Belagavi,9,3,2914.25
+Capsicum,Belagavi,10,3,3523.19
+Capsicum,Belagavi,11,3,3239.4
+Capsicum,Belagavi,12,4,3340.41
+Capsicum,Bengaluru,1,5,3991.93
+Capsicum,Bengaluru,2,5,3483.62
+Capsicum,Bengaluru,3,5,3286.46
+Capsicum,Bengaluru,4,5,3372.13
+Capsicum,Bengaluru,5,5,3339.03
+Capsicum,Bengaluru,6,5,4009.74
+Capsicum,Bengaluru,7,5,4780.28
+Capsicum,Bengaluru,8,5,4300.61
+Capsicum,Bengaluru,9,5,3411.43
+Capsicum,Bengaluru,10,5,4144.39
+Capsicum,Bengaluru,11,5,5203.19
+Capsicum,Bengaluru,12,5,4370.57
+Capsicum,Bengaluru South,1,5,4358.85
+Capsicum,Bengaluru South,2,5,4064.81
+Capsicum,Bengaluru South,3,5,3796.26
+Capsicum,Bengaluru South,4,5,3920.91
+Capsicum,Bengaluru South,5,5,3902.48
+Capsicum,Bengaluru South,6,5,5355.78
+Capsicum,Bengaluru South,7,5,5494.17
+Capsicum,Bengaluru South,8,5,4399.34
+Capsicum,Bengaluru South,9,5,3647.02
+Capsicum,Bengaluru South,10,5,3915.65
+Capsicum,Bengaluru South,11,5,5197.73
+Capsicum,Bengaluru South,12,5,4641.95
+Capsicum,Chikkaballapur,1,5,2822.24
+Capsicum,Chikkaballapur,2,5,2533.2
+Capsicum,Chikkaballapur,3,5,2633.41
+Capsicum,Chikkaballapur,4,5,2649.93
+Capsicum,Chikkaballapur,5,5,2393.56
+Capsicum,Chikkaballapur,6,5,3352.66
+Capsicum,Chikkaballapur,7,5,3733.06
+Capsicum,Chikkaballapur,8,5,2804.92
+Capsicum,Chikkaballapur,9,5,2320.36
+Capsicum,Chikkaballapur,10,5,2742.98
+Capsicum,Chikkaballapur,11,5,2898.29
+Capsicum,Chikkaballapur,12,5,2981.79
+Capsicum,Davangere,1,4,4947.92
+Capsicum,Davangere,2,5,5996.39
+Capsicum,Davangere,3,3,5929.13
+Capsicum,Davangere,4,5,4731.81
+Capsicum,Davangere,5,5,4077.95
+Capsicum,Davangere,6,5,4355.16
+Capsicum,Davangere,7,5,4633.57
+Capsicum,Davangere,8,5,4441.65
+Capsicum,Davangere,9,5,4849.64
+Capsicum,Davangere,10,5,5132.15
+Capsicum,Davangere,11,4,5276.03
+Capsicum,Davangere,12,4,5489.19
+Capsicum,Hassan,1,1,5000
+Capsicum,Hassan,2,2,4500
+Capsicum,Hassan,3,2,4000
+Capsicum,Hassan,4,1,5000
+Capsicum,Hassan,5,1,2000
+Capsicum,Hassan,6,2,2872.55
+Capsicum,Hassan,7,3,4192
+Capsicum,Hassan,8,3,2635.78
+Capsicum,Hassan,9,2,1333.34
+Capsicum,Hassan,10,1,3000
+Capsicum,Hassan,11,2,3571.43
+Capsicum,Hassan,12,2,4500
+Capsicum,Kalaburagi,1,4,3294.51
+Capsicum,Kalaburagi,2,4,3237.93
+Capsicum,Kalaburagi,3,4,3208.46
+Capsicum,Kalaburagi,4,5,2880.97
+Capsicum,Kalaburagi,5,5,2909.13
+Capsicum,Kalaburagi,6,5,3492.84
+Capsicum,Kalaburagi,7,4,3460.25
+Capsicum,Kalaburagi,8,5,2655.64
+Capsicum,Kalaburagi,9,4,2738.8
+Capsicum,Kalaburagi,10,5,2409.13
+Capsicum,Kalaburagi,11,3,2600.48
+Capsicum,Kalaburagi,12,3,2619.73
+Capsicum,Kolar,1,5,2965.97
+Capsicum,Kolar,2,5,2852.96
+Capsicum,Kolar,3,5,2563.82
+Capsicum,Kolar,4,5,2809.41
+Capsicum,Kolar,5,5,2674.88
+Capsicum,Kolar,6,5,3816.38
+Capsicum,Kolar,7,5,4233.85
+Capsicum,Kolar,8,5,3283.97
+Capsicum,Kolar,9,5,2739.77
+Capsicum,Kolar,10,5,3591.54
+Capsicum,Kolar,11,5,3739.76
+Capsicum,Kolar,12,5,3533.66
+Capsicum,Mysuru,1,5,3904.94
+Capsicum,Mysuru,2,5,3432.6
+Capsicum,Mysuru,3,5,3372.35
+Capsicum,Mysuru,4,5,3942.22
+Capsicum,Mysuru,5,5,3895.25
+Capsicum,Mysuru,6,5,5856.52
+Capsicum,Mysuru,7,5,5643.03
+Capsicum,Mysuru,8,5,4083.36
+Capsicum,Mysuru,9,5,3226.54
+Capsicum,Mysuru,10,5,4201.6
+Capsicum,Mysuru,11,5,4801.09
+Capsicum,Mysuru,12,5,4642.01
+Capsicum,Udupi,1,4,5398.31
+Capsicum,Udupi,2,4,4069.14
+Capsicum,Udupi,3,4,4395.38
+Capsicum,Udupi,4,4,4369.3
+Capsicum,Udupi,5,4,4955.93
+Capsicum,Udupi,6,4,5990.81
+Capsicum,Udupi,7,3,5782.3
+Capsicum,Udupi,8,3,5185.35
+Capsicum,Udupi,9,3,4305.54
+Capsicum,Udupi,10,4,4378.71
+Capsicum,Udupi,11,4,4936.05
+Capsicum,Udupi,12,4,4926.38
+Capsicum,Mandya,1,1,4000
+Capsicum,Mandya,2,2,3104.69
+Capsicum,Mandya,3,2,3421.7
+Capsicum,Mandya,4,2,3555.77
+Capsicum,Mandya,5,2,3893.75
+Capsicum,Mandya,6,2,4340
+Capsicum,Mandya,7,2,4457.15
+Capsicum,Mandya,8,2,3550
+Capsicum,Mandya,9,2,3700
+Capsicum,Mandya,10,2,2210
+Capsicum,Mandya,11,2,3350
+Capsicum,Mandya,12,3,3333.33
+Capsicum,Bengaluru Rural,1,3,2765.36
+Capsicum,Bengaluru Rural,2,2,2800
+Capsicum,Bengaluru Rural,3,1,3137.5
+Capsicum,Bengaluru Rural,4,2,2510
+Capsicum,Bengaluru Rural,5,1,2816.67
+Capsicum,Bengaluru Rural,6,2,3698.69
+Capsicum,Bengaluru Rural,7,1,4178.57
+Capsicum,Bengaluru Rural,8,1,3528.72
+Capsicum,Bengaluru Rural,9,2,2681.37
+Capsicum,Bengaluru Rural,10,1,2566.67
+Capsicum,Bengaluru Rural,12,2,3108.98
+Capsicum,Chikkamagaluru,1,1,3334
+Capsicum,Chikkamagaluru,2,2,3241.34
+Capsicum,Chikkamagaluru,3,3,2407.56
+Capsicum,Chikkamagaluru,4,3,2747.05
+Capsicum,Chikkamagaluru,5,2,3259.62
+Capsicum,Chikkamagaluru,6,2,2754.9
+Capsicum,Chikkamagaluru,7,2,3854.87
+Capsicum,Chikkamagaluru,8,2,3537.28
+Capsicum,Chikkamagaluru,9,2,3279.17
+Capsicum,Chikkamagaluru,10,1,2500
+Capsicum,Chikkamagaluru,11,1,2000
+Capsicum,Chikkamagaluru,12,2,3583.79
+Capsicum,Haveri,1,1,2187.5
+Capsicum,Haveri,2,1,2100
+Capsicum,Haveri,3,1,2600
+Capsicum,Haveri,4,2,2770
+Capsicum,Haveri,5,1,2300
+Capsicum,Haveri,7,1,2500
+Capsicum,Haveri,8,1,2657.14
+Capsicum,Haveri,9,1,2750
+Capsicum,Haveri,11,1,2500
+Capsicum,Haveri,12,1,2544.44
+Capsicum,Shivamogga,1,1,4013.46
+Capsicum,Shivamogga,2,1,4583.85
+Capsicum,Shivamogga,3,1,4352.16
+Capsicum,Shivamogga,4,1,4176.86
+Capsicum,Shivamogga,5,1,4008.9
+Capsicum,Shivamogga,6,1,6372.09
+Capsicum,Shivamogga,7,1,5997.46
+Capsicum,Shivamogga,8,1,4359.67
+Capsicum,Shivamogga,9,1,3907.67
+Radish,Bengaluru,1,5,1704.09
+Radish,Bengaluru,2,5,1349.85
+Radish,Bengaluru,3,5,1689.29
+Radish,Bengaluru,4,5,1873.26
+Radish,Bengaluru,5,5,2245.43
+Radish,Bengaluru,6,5,2657.43
+Radish,Bengaluru,7,5,2277.53
+Radish,Bengaluru,8,5,2023.91
+Radish,Bengaluru,9,5,2262.67
+Radish,Bengaluru,10,5,2529.38
+Radish,Bengaluru,11,5,2838.6
+Radish,Bengaluru,12,5,2399.43
+Radish,Bengaluru South,1,5,1375.71
+Radish,Bengaluru South,2,5,1295.41
+Radish,Bengaluru South,3,5,1465.35
+Radish,Bengaluru South,4,5,2109.3
+Radish,Bengaluru South,5,5,2564.89
+Radish,Bengaluru South,6,5,2912.86
+Radish,Bengaluru South,7,5,1950.07
+Radish,Bengaluru South,8,5,1741.4
+Radish,Bengaluru South,9,5,2255.96
+Radish,Bengaluru South,10,5,2204.76
+Radish,Bengaluru South,11,5,2553.26
+Radish,Bengaluru South,12,5,2191.5
+Radish,Chamarajanagar,1,5,1346.64
+Radish,Chamarajanagar,2,5,904.73
+Radish,Chamarajanagar,3,5,1005.44
+Radish,Chamarajanagar,4,5,1348.97
+Radish,Chamarajanagar,5,5,1661.71
+Radish,Chamarajanagar,6,5,1847.89
+Radish,Chamarajanagar,7,5,1565.34
+Radish,Chamarajanagar,8,5,1236.98
+Radish,Chamarajanagar,9,5,1530.02
+Radish,Chamarajanagar,10,5,1362.09
+Radish,Chamarajanagar,11,5,1646.17
+Radish,Chamarajanagar,12,5,1986.11
+Radish,Chikkaballapur,1,5,1010.77
+Radish,Chikkaballapur,2,5,842.35
+Radish,Chikkaballapur,3,5,866.05
+Radish,Chikkaballapur,4,5,1133.84
+Radish,Chikkaballapur,5,5,1371.33
+Radish,Chikkaballapur,6,5,1467.57
+Radish,Chikkaballapur,7,5,1400.89
+Radish,Chikkaballapur,8,5,1153.44
+Radish,Chikkaballapur,9,5,1400.5
+Radish,Chikkaballapur,10,5,1523.83
+Radish,Chikkaballapur,11,5,1446.07
+Radish,Chikkaballapur,12,5,1434.84
+Radish,Chikkamagaluru,1,4,1501.51
+Radish,Chikkamagaluru,2,5,1436.59
+Radish,Chikkamagaluru,3,5,1367.69
+Radish,Chikkamagaluru,4,5,1686.34
+Radish,Chikkamagaluru,5,5,1815.18
+Radish,Chikkamagaluru,6,5,1665.71
+Radish,Chikkamagaluru,7,5,1722.13
+Radish,Chikkamagaluru,8,4,1638.32
+Radish,Chikkamagaluru,9,4,1616.95
+Radish,Chikkamagaluru,10,4,1472.72
+Radish,Chikkamagaluru,11,5,1678.76
+Radish,Chikkamagaluru,12,5,1660.82
+Radish,Davangere,1,5,1781.18
+Radish,Davangere,2,5,1375.74
+Radish,Davangere,3,5,1507.97
+Radish,Davangere,4,5,1650.64
+Radish,Davangere,5,5,1954.38
+Radish,Davangere,6,5,2177.1
+Radish,Davangere,7,5,1864.43
+Radish,Davangere,8,5,1886.66
+Radish,Davangere,9,5,2042.66
+Radish,Davangere,10,5,1931.29
+Radish,Davangere,11,5,2019.12
+Radish,Davangere,12,5,2275.55
+Radish,Hassan,1,5,1625.01
+Radish,Hassan,2,5,1727.86
+Radish,Hassan,3,5,1507.2
+Radish,Hassan,4,5,1643.59
+Radish,Hassan,5,5,1740.95
+Radish,Hassan,6,5,1878.52
+Radish,Hassan,7,5,1785.8
+Radish,Hassan,8,5,1890.52
+Radish,Hassan,9,5,2088.21
+Radish,Hassan,10,5,1754.72
+Radish,Hassan,11,5,1849.8
+Radish,Hassan,12,4,1777.84
+Radish,Kolar,1,5,742.14
+Radish,Kolar,2,5,562.38
+Radish,Kolar,3,5,685.14
+Radish,Kolar,4,5,821.45
+Radish,Kolar,5,5,1091.87
+Radish,Kolar,6,5,1228.24
+Radish,Kolar,7,5,1020.24
+Radish,Kolar,8,5,784.45
+Radish,Kolar,9,5,973.85
+Radish,Kolar,10,5,1008.93
+Radish,Kolar,11,5,1034.06
+Radish,Kolar,12,5,1000.95
+Radish,Shivamogga,1,5,1670.22
+Radish,Shivamogga,2,5,1405.62
+Radish,Shivamogga,3,5,1661
+Radish,Shivamogga,4,5,1721.25
+Radish,Shivamogga,5,5,2412.37
+Radish,Shivamogga,6,5,2609.05
+Radish,Shivamogga,7,5,2040.21
+Radish,Shivamogga,8,5,1912.35
+Radish,Shivamogga,9,5,2319.94
+Radish,Shivamogga,10,5,2130.81
+Radish,Shivamogga,11,5,2305.48
+Radish,Shivamogga,12,5,2277.27
+Radish,Udupi,1,4,2421.64
+Radish,Udupi,2,4,1822.77
+Radish,Udupi,3,4,2040.39
+Radish,Udupi,4,4,2844.93
+Radish,Udupi,5,4,2720.39
+Radish,Udupi,6,4,3456.49
+Radish,Udupi,7,3,2327.7
+Radish,Udupi,8,3,2409.18
+Radish,Udupi,9,3,2756.32
+Radish,Udupi,10,4,2298.51
+Radish,Udupi,11,4,3157.86
+Radish,Udupi,12,4,3262.68
+Radish,Bengaluru Rural,1,3,1756.08
+Radish,Bengaluru Rural,2,3,1952.55
+Radish,Bengaluru Rural,3,1,2493.36
+Radish,Bengaluru Rural,4,2,2350.88
+Radish,Bengaluru Rural,5,3,2531.3
+Radish,Bengaluru Rural,6,2,2720.79
+Radish,Bengaluru Rural,7,2,2957.46
+Radish,Bengaluru Rural,8,2,2755.29
+Radish,Bengaluru Rural,9,2,1949.76
+Radish,Bengaluru Rural,11,2,2605.9
+Radish,Bengaluru Rural,12,3,2559.04
+Radish,Mandya,1,2,1182.15
+Radish,Mandya,2,2,900.24
+Radish,Mandya,3,2,778.57
+Radish,Mandya,4,2,898.34
+Radish,Mandya,5,2,1128.57
+Radish,Mandya,6,2,1391.67
+Radish,Mandya,7,2,1440
+Radish,Mandya,8,2,851.3
+Radish,Mandya,9,1,2000
+Radish,Mandya,10,2,1500
+Radish,Mandya,11,2,1420.84
+Radish,Mandya,12,3,1537.5
+Radish,Mysuru,1,3,1917.18
+Radish,Mysuru,2,3,1928.99
+Radish,Mysuru,3,5,1792.45
+Radish,Mysuru,4,5,1986.27
+Radish,Mysuru,5,3,2065.87
+Radish,Mysuru,6,2,2516.07
+Radish,Mysuru,7,3,1926.34
+Radish,Mysuru,8,2,2694.62
+Radish,Mysuru,9,3,2225.97
+Radish,Mysuru,10,2,1940
+Radish,Mysuru,11,4,2166.34
+Radish,Mysuru,12,4,2055.89
+Radish,Bellary,3,1,1033.33
+Radish,Kalaburagi,4,1,55
+Radish,Kalaburagi,7,1,228.86
+Radish,Kalaburagi,8,1,185.08
+Radish,Kalaburagi,9,2,49.77
+Radish,Kalaburagi,10,1,31.82
+Radish,Kalaburagi,11,1,171.55
+Radish,Kalaburagi,12,1,39.23
+Radish,Haveri,6,1,1500
+Radish,Vijayanagara,9,1,1800
+Beetroot,Bengaluru,1,5,3334.54
+Beetroot,Bengaluru,2,5,2408.03
+Beetroot,Bengaluru,3,5,2066.7
+Beetroot,Bengaluru,4,5,2354.18
+Beetroot,Bengaluru,5,5,2798.27
+Beetroot,Bengaluru,6,5,3050.32
+Beetroot,Bengaluru,7,5,2947.11
+Beetroot,Bengaluru,8,5,2909.83
+Beetroot,Bengaluru,9,5,2556.48
+Beetroot,Bengaluru,10,5,2698.93
+Beetroot,Bengaluru,11,5,3028.38
+Beetroot,Bengaluru,12,5,3264.31
+Beetroot,Bengaluru South,1,5,3043.29
+Beetroot,Bengaluru South,2,5,2114.99
+Beetroot,Bengaluru South,3,5,1908.48
+Beetroot,Bengaluru South,4,5,2070.13
+Beetroot,Bengaluru South,5,5,2559.06
+Beetroot,Bengaluru South,6,5,2952.92
+Beetroot,Bengaluru South,7,5,2953.21
+Beetroot,Bengaluru South,8,5,2604.57
+Beetroot,Bengaluru South,9,5,2569.14
+Beetroot,Bengaluru South,10,5,2636.37
+Beetroot,Bengaluru South,11,5,3269.1
+Beetroot,Bengaluru South,12,5,3234.51
+Beetroot,Chamarajanagar,1,5,2255.84
+Beetroot,Chamarajanagar,2,5,1164.79
+Beetroot,Chamarajanagar,3,5,878.93
+Beetroot,Chamarajanagar,4,5,1086.38
+Beetroot,Chamarajanagar,5,5,1656.96
+Beetroot,Chamarajanagar,6,5,2083.95
+Beetroot,Chamarajanagar,7,5,2009.62
+Beetroot,Chamarajanagar,8,5,1687.28
+Beetroot,Chamarajanagar,9,5,1611.18
+Beetroot,Chamarajanagar,10,5,1396.38
+Beetroot,Chamarajanagar,11,5,1717.26
+Beetroot,Chamarajanagar,12,5,2152.25
+Beetroot,Chikkaballapur,1,5,1673.92
+Beetroot,Chikkaballapur,2,5,1133.92
+Beetroot,Chikkaballapur,3,5,971.94
+Beetroot,Chikkaballapur,4,5,1107.83
+Beetroot,Chikkaballapur,5,5,1490.92
+Beetroot,Chikkaballapur,6,5,1825.48
+Beetroot,Chikkaballapur,7,5,1742.17
+Beetroot,Chikkaballapur,8,5,1604.55
+Beetroot,Chikkaballapur,9,5,1485.54
+Beetroot,Chikkaballapur,10,5,1660.42
+Beetroot,Chikkaballapur,11,5,1971.53
+Beetroot,Chikkaballapur,12,5,1879.36
+Beetroot,Chikkamagaluru,1,5,1982.77
+Beetroot,Chikkamagaluru,2,5,1598.52
+Beetroot,Chikkamagaluru,3,5,1729.46
+Beetroot,Chikkamagaluru,4,5,1563.91
+Beetroot,Chikkamagaluru,5,5,1569.14
+Beetroot,Chikkamagaluru,6,5,1666.79
+Beetroot,Chikkamagaluru,7,5,1666.38
+Beetroot,Chikkamagaluru,8,5,1638.36
+Beetroot,Chikkamagaluru,9,5,1658.76
+Beetroot,Chikkamagaluru,10,5,1585.84
+Beetroot,Chikkamagaluru,11,5,1816.09
+Beetroot,Chikkamagaluru,12,5,1883.51
+Beetroot,Dakshina Kannada,1,1,3964.71
+Beetroot,Dakshina Kannada,2,1,2800
+Beetroot,Dakshina Kannada,3,1,1847.37
+Beetroot,Dakshina Kannada,4,1,2200
+Beetroot,Dakshina Kannada,5,1,1800
+Beetroot,Dakshina Kannada,10,1,2442.86
+Beetroot,Dakshina Kannada,11,1,3128.57
+Beetroot,Dakshina Kannada,12,1,3966.67
+Beetroot,Davangere,1,5,2063.14
+Beetroot,Davangere,2,5,1829.82
+Beetroot,Davangere,3,5,1531.34
+Beetroot,Davangere,4,5,1675.6
+Beetroot,Davangere,5,5,1781.73
+Beetroot,Davangere,6,5,1947.78
+Beetroot,Davangere,7,5,2084.35
+Beetroot,Davangere,8,5,1868.69
+Beetroot,Davangere,9,5,2005.75
+Beetroot,Davangere,10,5,2016.81
+Beetroot,Davangere,11,5,1890.37
+Beetroot,Davangere,12,5,2023.72
+Beetroot,Hassan,1,5,2250.87
+Beetroot,Hassan,2,5,2011.6
+Beetroot,Hassan,3,5,2052.22
+Beetroot,Hassan,4,5,2064.08
+Beetroot,Hassan,5,5,1869.44
+Beetroot,Hassan,6,5,2449.28
+Beetroot,Hassan,7,5,2190.73
+Beetroot,Hassan,8,5,2352.38
+Beetroot,Hassan,9,5,2486.96
+Beetroot,Hassan,10,5,1929.98
+Beetroot,Hassan,11,5,2188.96
+Beetroot,Hassan,12,4,1935.17
+Beetroot,Kolar,1,5,1963.08
+Beetroot,Kolar,2,5,1310.35
+Beetroot,Kolar,3,5,1157.13
+Beetroot,Kolar,4,5,1321.73
+Beetroot,Kolar,5,5,1796.76
+Beetroot,Kolar,6,5,2143.65
+Beetroot,Kolar,7,5,1963.58
+Beetroot,Kolar,8,5,1584.87
+Beetroot,Kolar,9,5,1591.55
+Beetroot,Kolar,10,5,1793.48
+Beetroot,Kolar,11,5,2258.34
+Beetroot,Kolar,12,5,2096.66
+Beetroot,Mysuru,1,5,2156.31
+Beetroot,Mysuru,2,5,1811.17
+Beetroot,Mysuru,3,5,1340.31
+Beetroot,Mysuru,4,5,1611.11
+Beetroot,Mysuru,5,5,1970.36
+Beetroot,Mysuru,6,5,2188.97
+Beetroot,Mysuru,7,5,2299.68
+Beetroot,Mysuru,8,5,1931.51
+Beetroot,Mysuru,9,5,1758.48
+Beetroot,Mysuru,10,5,1719.2
+Beetroot,Mysuru,11,5,1986.86
+Beetroot,Mysuru,12,5,2169.69
+Beetroot,Shivamogga,1,5,2236.26
+Beetroot,Shivamogga,2,5,1576.59
+Beetroot,Shivamogga,3,5,1218.22
+Beetroot,Shivamogga,4,5,1151.4
+Beetroot,Shivamogga,5,5,1774.54
+Beetroot,Shivamogga,6,5,2280.66
+Beetroot,Shivamogga,7,5,2324.14
+Beetroot,Shivamogga,8,5,1949.48
+Beetroot,Shivamogga,9,5,2232.41
+Beetroot,Shivamogga,10,5,2402.19
+Beetroot,Shivamogga,11,5,2573.51
+Beetroot,Shivamogga,12,5,2970.83
+Beetroot,Udupi,1,4,2968.61
+Beetroot,Udupi,2,4,2173.24
+Beetroot,Udupi,3,4,1952.85
+Beetroot,Udupi,4,4,1759.42
+Beetroot,Udupi,5,4,2102.97
+Beetroot,Udupi,6,4,2812.59
+Beetroot,Udupi,7,3,2828.42
+Beetroot,Udupi,8,3,2106.92
+Beetroot,Udupi,9,3,1855.16
+Beetroot,Udupi,10,4,2599.72
+Beetroot,Udupi,11,4,2733.51
+Beetroot,Udupi,12,4,3254.01
+Beetroot,Vijayanagara,1,2,2287.5
+Beetroot,Vijayanagara,2,2,1710.53
+Beetroot,Vijayanagara,3,2,1679.55
+Beetroot,Vijayanagara,4,2,1736.24
+Beetroot,Vijayanagara,5,2,1856.63
+Beetroot,Vijayanagara,6,1,2794.64
+Beetroot,Vijayanagara,7,2,2421.62
+Beetroot,Vijayanagara,8,2,2278.72
+Beetroot,Vijayanagara,9,2,2356.12
+Beetroot,Vijayanagara,10,2,1693.75
+Beetroot,Vijayanagara,11,3,2038.93
+Beetroot,Vijayanagara,12,2,2182.39
+Beetroot,Mandya,1,2,2500
+Beetroot,Mandya,2,2,2060.64
+Beetroot,Mandya,3,2,1670
+Beetroot,Mandya,4,2,1725.76
+Beetroot,Mandya,5,2,1909.72
+Beetroot,Mandya,6,2,2465.56
+Beetroot,Mandya,7,2,1997.32
+Beetroot,Mandya,8,2,1906.25
+Beetroot,Mandya,9,1,2222.22
+Beetroot,Mandya,10,2,2000
+Beetroot,Mandya,11,2,2050
+Beetroot,Mandya,12,3,2899.83
+Beetroot,Bengaluru Rural,1,3,2784.57
+Beetroot,Bengaluru Rural,2,2,2784.49
+Beetroot,Bengaluru Rural,3,2,2645.61
+Beetroot,Bengaluru Rural,4,2,2254.18
+Beetroot,Bengaluru Rural,5,2,2357.94
+Beetroot,Bengaluru Rural,6,2,2652.31
+Beetroot,Bengaluru Rural,7,2,2653.84
+Beetroot,Bengaluru Rural,8,1,2660.2
+Beetroot,Bengaluru Rural,9,2,2712.71
+Beetroot,Bengaluru Rural,10,1,1162.42
+Beetroot,Bengaluru Rural,11,2,2598.71
+Beetroot,Bengaluru Rural,12,2,2927.22
+Beetroot,Bellary,3,1,1243.42
+Beetroot,Haveri,2,2,1327.22
+Beetroot,Haveri,3,1,2055.56
+Beetroot,Haveri,4,1,1800
+Beetroot,Haveri,5,1,1850
+Beetroot,Haveri,6,1,2000
+Beetroot,Haveri,7,2,1483.93
+Beetroot,Haveri,8,1,1312.5
+Beetroot,Haveri,9,2,1115.63
+Beetroot,Haveri,10,1,693.73
+Beetroot,Haveri,11,2,1650
+Beetroot,Haveri,12,1,2141.38
+Beetroot,Tumakuru,7,1,2850
+Beetroot,Kalaburagi,9,2,1746.8
+Beetroot,Kalaburagi,10,1,1500
+Beetroot,Kalaburagi,11,1,1925
+Beetroot,Kalaburagi,12,1,1968.75
+Beetroot,Belagavi,8,1,2377.55
+Beetroot,Belagavi,9,1,2118.52
+Green Peas,Bengaluru,1,4,11629.52
+Green Peas,Bengaluru,2,4,11367.92
+Green Peas,Bengaluru,3,3,7785.58
+Green Peas,Bengaluru,4,4,7385.63
+Green Peas,Bengaluru,5,4,7840.39
+Green Peas,Bengaluru,6,4,7826.87
+Green Peas,Bengaluru,7,4,8600.47
+Green Peas,Bengaluru,8,4,9836.99
+Green Peas,Bengaluru,9,4,10387.52
+Green Peas,Bengaluru,10,4,11362.52
+Green Peas,Bengaluru,11,4,10813.62
+Green Peas,Bengaluru,12,4,12007.07
+Green Peas,Hassan,1,1,4526
+Green Peas,Hassan,2,1,6220
+Green Peas,Hassan,3,2,6394.34
+Green Peas,Hassan,4,3,5569.18
+Green Peas,Hassan,5,3,7577.3
+Green Peas,Hassan,6,1,2200
+Green Peas,Hassan,7,3,9150
+Green Peas,Hassan,8,1,10696.15
+Green Peas,Hassan,9,2,6800.5
+Green Peas,Hassan,10,2,9670
+Green Peas,Hassan,11,1,4500
+Green Peas,Hassan,12,1,8500
+Green Peas,Mysuru,1,4,6689.71
+Green Peas,Mysuru,2,5,7245.03
+Green Peas,Mysuru,3,5,6811.2
+Green Peas,Mysuru,4,5,7097.17
+Green Peas,Mysuru,5,5,7457.75
+Green Peas,Mysuru,6,4,6496.22
+Green Peas,Mysuru,7,5,7482.75
+Green Peas,Mysuru,8,5,5848.78
+Green Peas,Mysuru,9,4,5136.79
+Green Peas,Mysuru,10,3,8619.01
+Green Peas,Mysuru,11,5,7775.01
+Green Peas,Mysuru,12,2,12112.5
+Green Peas,Shivamogga,1,3,10840
+Green Peas,Shivamogga,2,2,7157.65
+Green Peas,Shivamogga,3,4,6943.94
+Green Peas,Shivamogga,4,5,7406.32
+Green Peas,Shivamogga,5,3,6033.02
+Green Peas,Shivamogga,6,2,6200.95
+Green Peas,Shivamogga,7,2,6387.82
+Green Peas,Shivamogga,8,3,6582.5
+Green Peas,Shivamogga,9,2,6447.29
+Green Peas,Shivamogga,10,2,8950
+Green Peas,Shivamogga,11,3,10956.4
+Green Peas,Shivamogga,12,2,10133.33
+Green Peas,Dakshina Kannada,4,2,7095
+Green Peas,Dakshina Kannada,8,1,6000
+Green Peas,Dakshina Kannada,9,1,6000
+Green Peas,Dakshina Kannada,11,1,11350
+Green Peas,Mandya,1,1,3000
+Green Peas,Mandya,2,1,4075
+Green Peas,Mandya,3,1,4000
+Green Peas,Mandya,6,1,18000
+Green Peas,Mandya,12,1,3000
+Green Peas,Kolar,1,1,5000
+Green Peas,Kolar,3,2,6806
+Green Peas,Kolar,5,2,5108.34
+Green Peas,Kolar,6,3,6955.95
+Green Peas,Kolar,7,2,4851.2
+Green Peas,Kolar,8,3,5420
+Green Peas,Kolar,9,4,7075
+Green Peas,Kolar,10,1,4600
+Green Peas,Kolar,11,1,9694.04
+Green Peas,Kolar,12,1,5174
+Green Peas,Chikkamagaluru,10,1,5000
+Green Peas,Gadag,4,1,5260.42
+Green Peas,Gadag,5,1,5149.18
+Green Peas,Gadag,6,1,4813.09
+Green Peas,Gadag,7,1,4625.01
+Green Peas,Gadag,8,1,4867
+Green Peas,Gadag,9,1,5074.81
+Green Peas,Gadag,12,1,7249
+Green Peas,Tumakuru,1,1,3958
+Green Peas,Tumakuru,3,1,4589
+Green Peas,Tumakuru,4,1,7220
+Green Peas,Tumakuru,6,2,6350
+Green Peas,Tumakuru,7,1,3750
+Green Peas,Tumakuru,8,1,4400
+Green Peas,Tumakuru,9,1,4101
+Green Peas,Tumakuru,10,1,2400
+Green Peas,Tumakuru,12,1,3916
+Green Peas,Chamarajanagar,6,1,4645.18
+Green Peas,Chamarajanagar,7,1,4725
+Green Peas,Chamarajanagar,9,2,2725
+Green Peas,Dharwad,1,1,7597.64
+Green Peas,Dharwad,2,1,6852.18
+Green Peas,Dharwad,3,1,5761.06
+Green Peas,Dharwad,4,1,5487.91
+Green Peas,Dharwad,12,1,10474.47
+Green Peas,Haveri,3,1,5690
+Green Peas,Haveri,7,1,4825
+Green Peas,Haveri,8,1,4650
+Green Peas,Belagavi,4,1,4000
+Green Peas,Chitradurga,4,1,5124.58
+Green Peas,Chitradurga,6,1,4171
+Green Peas,Chitradurga,7,1,5670
+Green Peas,Davangere,5,1,4870.67
+Green Peas,Davangere,6,1,3183
+Green Peas,Davangere,9,1,4480
+Bottle Gourd,Bengaluru,1,5,1739.72
+Bottle Gourd,Bengaluru,2,5,1552.65
+Bottle Gourd,Bengaluru,3,5,1819.96
+Bottle Gourd,Bengaluru,4,5,1985.72
+Bottle Gourd,Bengaluru,5,5,2210.28
+Bottle Gourd,Bengaluru,6,5,2278.68
+Bottle Gourd,Bengaluru,7,5,2261.72
+Bottle Gourd,Bengaluru,8,5,2274.52
+Bottle Gourd,Bengaluru,9,5,1904.82
+Bottle Gourd,Bengaluru,10,5,1979.04
+Bottle Gourd,Bengaluru,11,5,2770.05
+Bottle Gourd,Bengaluru,12,5,2225.36
+Bottle Gourd,Chikkaballapur,1,5,1655.16
+Bottle Gourd,Chikkaballapur,2,5,1187.93
+Bottle Gourd,Chikkaballapur,3,5,1063.38
+Bottle Gourd,Chikkaballapur,4,5,1379.26
+Bottle Gourd,Chikkaballapur,5,5,1650.67
+Bottle Gourd,Chikkaballapur,6,5,1542.87
+Bottle Gourd,Chikkaballapur,7,5,1746.33
+Bottle Gourd,Chikkaballapur,8,5,1874.71
+Bottle Gourd,Chikkaballapur,9,5,1430.3
+Bottle Gourd,Chikkaballapur,10,5,1390.48
+Bottle Gourd,Chikkaballapur,11,5,1726.66
+Bottle Gourd,Chikkaballapur,12,5,2189.93
+Bottle Gourd,Chikkamagaluru,1,3,986.67
+Bottle Gourd,Chikkamagaluru,2,2,1702.92
+Bottle Gourd,Chikkamagaluru,3,2,1643.88
+Bottle Gourd,Chikkamagaluru,4,1,1450
+Bottle Gourd,Chikkamagaluru,5,1,1389
+Bottle Gourd,Chikkamagaluru,9,1,1986.67
+Bottle Gourd,Chikkamagaluru,10,1,1515
+Bottle Gourd,Chikkamagaluru,11,1,1450
+Bottle Gourd,Davangere,1,5,1616.44
+Bottle Gourd,Davangere,2,5,1222.28
+Bottle Gourd,Davangere,3,5,1245.15
+Bottle Gourd,Davangere,4,5,1131.69
+Bottle Gourd,Davangere,5,5,1215.77
+Bottle Gourd,Davangere,6,5,1363.82
+Bottle Gourd,Davangere,7,5,1353.84
+Bottle Gourd,Davangere,8,5,1497.03
+Bottle Gourd,Davangere,9,5,1768.13
+Bottle Gourd,Davangere,10,5,1577.18
+Bottle Gourd,Davangere,11,5,1687.43
+Bottle Gourd,Davangere,12,5,1888.2
+Bottle Gourd,Kolar,1,5,1564.91
+Bottle Gourd,Kolar,2,4,1412.75
+Bottle Gourd,Kolar,3,3,734.63
+Bottle Gourd,Kolar,4,3,947.58
+Bottle Gourd,Kolar,5,3,1586.29
+Bottle Gourd,Kolar,6,4,1509.94
+Bottle Gourd,Kolar,7,4,1521.39
+Bottle Gourd,Kolar,8,4,1244.66
+Bottle Gourd,Kolar,9,4,1227.32
+Bottle Gourd,Kolar,10,5,1435.64
+Bottle Gourd,Kolar,11,4,2106.98
+Bottle Gourd,Kolar,12,3,2405.26
+Bottle Gourd,Mysuru,1,4,979
+Bottle Gourd,Mysuru,2,5,596.42
+Bottle Gourd,Mysuru,3,5,695.26
+Bottle Gourd,Mysuru,4,5,686.49
+Bottle Gourd,Mysuru,5,5,755.47
+Bottle Gourd,Mysuru,6,5,1147.12
+Bottle Gourd,Mysuru,7,5,1224.53
+Bottle Gourd,Mysuru,8,5,1315.99
+Bottle Gourd,Mysuru,9,5,1162.08
+Bottle Gourd,Mysuru,10,5,1168.7
+Bottle Gourd,Mysuru,11,5,1439.98
+Bottle Gourd,Mysuru,12,5,1720.7
+Bottle Gourd,Udupi,1,4,2143.73
+Bottle Gourd,Udupi,2,4,1999.65
+Bottle Gourd,Udupi,3,4,2213.79
+Bottle Gourd,Udupi,4,4,1893.71
+Bottle Gourd,Udupi,5,4,2428.52
+Bottle Gourd,Udupi,6,4,2745.39
+Bottle Gourd,Udupi,7,3,2711.65
+Bottle Gourd,Udupi,8,3,2636.73
+Bottle Gourd,Udupi,9,3,2611.88
+Bottle Gourd,Udupi,10,4,2459.5
+Bottle Gourd,Udupi,11,4,2454.52
+Bottle Gourd,Udupi,12,4,2426.54
+Bottle Gourd,Mandya,2,2,850
+Bottle Gourd,Mandya,3,2,725
+Bottle Gourd,Mandya,4,1,766.67
+Bottle Gourd,Mandya,5,2,420
+Bottle Gourd,Mandya,6,2,850
+Bottle Gourd,Mandya,7,2,750
+Bottle Gourd,Mandya,8,1,1000
+Bottle Gourd,Mandya,10,1,1000
+Bottle Gourd,Mandya,11,1,1000
+Bottle Gourd,Mandya,12,2,1150
+Bottle Gourd,Hassan,1,1,2000
+Bottle Gourd,Hassan,2,1,1500
+Bottle Gourd,Hassan,3,1,2850
+Bottle Gourd,Hassan,4,2,4925
+Bottle Gourd,Hassan,5,1,2850
+Bottle Gourd,Hassan,6,1,2000
+Bottle Gourd,Hassan,7,2,2375
+Bottle Gourd,Hassan,8,4,2625.77
+Bottle Gourd,Hassan,9,2,3772.5
+Bottle Gourd,Hassan,10,1,3500
+Bottle Gourd,Hassan,12,1,1000
+Bottle Gourd,Bengaluru Rural,1,1,1700
+Bottle Gourd,Bengaluru Rural,3,1,1700
+Bottle Gourd,Bengaluru Rural,5,1,1900
+Bottle Gourd,Bengaluru Rural,7,1,2000
+Bottle Gourd,Bengaluru Rural,9,2,2211.15
+Bottle Gourd,Bengaluru Rural,12,1,1481.25
+Bottle Gourd,Bengaluru South,1,1,958.55
+Bottle Gourd,Bengaluru South,2,1,967.92
+Bottle Gourd,Bengaluru South,3,1,897.87
+Bottle Gourd,Bengaluru South,4,2,870.51
+Bottle Gourd,Bengaluru South,5,2,1047.08
+Bottle Gourd,Bengaluru South,6,2,1544.65
+Bottle Gourd,Bengaluru South,7,2,1585.56
+Bottle Gourd,Bengaluru South,8,2,1872.26
+Bottle Gourd,Bengaluru South,9,2,1560.21
+Bottle Gourd,Bengaluru South,10,1,1747.55
+Bottle Gourd,Bengaluru South,11,1,2307.71
+Bottle Gourd,Bengaluru South,12,1,1549.66
+Bottle Gourd,Kalaburagi,4,1,1500
+Bottle Gourd,Kalaburagi,7,1,1625
+Bottle Gourd,Kalaburagi,8,1,1600
+Bottle Gourd,Kalaburagi,9,2,2079.55
+Bottle Gourd,Kalaburagi,10,1,1555.56
+Bottle Gourd,Kalaburagi,11,1,1407.89
+Bottle Gourd,Kalaburagi,12,1,1729.17
+Bottle Gourd,Vijayanagara,9,2,1000
+Bottle Gourd,Vijayanagara,10,1,1200
+Bottle Gourd,Vijayanagara,11,1,1778.81
+Bottle Gourd,Chamarajanagar,1,1,3453.33
+Bottle Gourd,Chamarajanagar,2,1,2794.12
+Bottle Gourd,Chamarajanagar,11,1,3000
+Bitter Gourd,Bengaluru,1,5,3282.82
+Bitter Gourd,Bengaluru,2,5,2711.03
+Bitter Gourd,Bengaluru,3,5,2328.56
+Bitter Gourd,Bengaluru,4,5,2739.75
+Bitter Gourd,Bengaluru,5,5,3158.66
+Bitter Gourd,Bengaluru,6,5,3341.08
+Bitter Gourd,Bengaluru,7,5,3337.22
+Bitter Gourd,Bengaluru,8,5,2853.09
+Bitter Gourd,Bengaluru,9,5,2752.26
+Bitter Gourd,Bengaluru,10,5,2746.89
+Bitter Gourd,Bengaluru,11,5,3219.76
+Bitter Gourd,Bengaluru,12,5,3598.23
+Bitter Gourd,Bengaluru South,1,5,3142.73
+Bitter Gourd,Bengaluru South,2,5,2940.65
+Bitter Gourd,Bengaluru South,3,5,2427.86
+Bitter Gourd,Bengaluru South,4,5,2874.64
+Bitter Gourd,Bengaluru South,5,5,4068.46
+Bitter Gourd,Bengaluru South,6,5,3922.63
+Bitter Gourd,Bengaluru South,7,5,3570.37
+Bitter Gourd,Bengaluru South,8,5,3032.46
+Bitter Gourd,Bengaluru South,9,5,2761.04
+Bitter Gourd,Bengaluru South,10,5,2644.51
+Bitter Gourd,Bengaluru South,11,5,3254.82
+Bitter Gourd,Bengaluru South,12,5,3540.54
+Bitter Gourd,Chikkaballapur,1,5,2052.03
+Bitter Gourd,Chikkaballapur,2,5,2014.97
+Bitter Gourd,Chikkaballapur,3,5,1677.37
+Bitter Gourd,Chikkaballapur,4,5,2055.54
+Bitter Gourd,Chikkaballapur,5,5,3193.12
+Bitter Gourd,Chikkaballapur,6,5,2996.99
+Bitter Gourd,Chikkaballapur,7,5,2755.33
+Bitter Gourd,Chikkaballapur,8,5,1938.16
+Bitter Gourd,Chikkaballapur,9,5,2033.83
+Bitter Gourd,Chikkaballapur,10,5,1986.26
+Bitter Gourd,Chikkaballapur,11,5,2079.02
+Bitter Gourd,Chikkaballapur,12,5,2373.71
+Bitter Gourd,Chikkamagaluru,1,5,2923.68
+Bitter Gourd,Chikkamagaluru,2,5,2617.21
+Bitter Gourd,Chikkamagaluru,3,4,2341.32
+Bitter Gourd,Chikkamagaluru,4,4,2468.57
+Bitter Gourd,Chikkamagaluru,5,4,2575.5
+Bitter Gourd,Chikkamagaluru,6,4,2726.66
+Bitter Gourd,Chikkamagaluru,7,4,2484.96
+Bitter Gourd,Chikkamagaluru,8,4,2166.37
+Bitter Gourd,Chikkamagaluru,9,4,2594.39
+Bitter Gourd,Chikkamagaluru,10,3,1877.13
+Bitter Gourd,Chikkamagaluru,11,4,2386.5
+Bitter Gourd,Chikkamagaluru,12,3,2127.21
+Bitter Gourd,Davangere,1,5,3181.02
+Bitter Gourd,Davangere,2,5,3175.11
+Bitter Gourd,Davangere,3,4,3006.93
+Bitter Gourd,Davangere,4,5,3463.83
+Bitter Gourd,Davangere,5,5,3321.04
+Bitter Gourd,Davangere,6,5,3158.86
+Bitter Gourd,Davangere,7,5,2641.77
+Bitter Gourd,Davangere,8,5,2330.75
+Bitter Gourd,Davangere,9,5,2308.65
+Bitter Gourd,Davangere,10,5,2492.76
+Bitter Gourd,Davangere,11,5,2604.15
+Bitter Gourd,Davangere,12,5,3060.09
+Bitter Gourd,Hassan,1,5,2626.96
+Bitter Gourd,Hassan,2,5,3090.15
+Bitter Gourd,Hassan,3,4,2032.74
+Bitter Gourd,Hassan,4,2,2847.48
+Bitter Gourd,Hassan,5,2,3961.5
+Bitter Gourd,Hassan,6,2,2818.52
+Bitter Gourd,Hassan,7,3,3491.24
+Bitter Gourd,Hassan,8,5,2164.35
+Bitter Gourd,Hassan,9,3,2335.35
+Bitter Gourd,Hassan,10,4,1898.22
+Bitter Gourd,Hassan,11,3,2682.14
+Bitter Gourd,Hassan,12,2,3204.5
+Bitter Gourd,Kolar,1,5,2193.92
+Bitter Gourd,Kolar,2,5,2187.43
+Bitter Gourd,Kolar,3,5,1786.37
+Bitter Gourd,Kolar,4,5,2073
+Bitter Gourd,Kolar,5,5,3023.35
+Bitter Gourd,Kolar,6,5,3332.53
+Bitter Gourd,Kolar,7,5,3039.12
+Bitter Gourd,Kolar,8,5,2267.57
+Bitter Gourd,Kolar,9,5,2129.96
+Bitter Gourd,Kolar,10,5,2007.67
+Bitter Gourd,Kolar,11,5,2381.81
+Bitter Gourd,Kolar,12,5,2704.93
+Bitter Gourd,Mysuru,1,5,2699.49
+Bitter Gourd,Mysuru,2,5,2531.69
+Bitter Gourd,Mysuru,3,5,1847.75
+Bitter Gourd,Mysuru,4,5,2124.83
+Bitter Gourd,Mysuru,5,5,2809.08
+Bitter Gourd,Mysuru,6,5,2490.19
+Bitter Gourd,Mysuru,7,5,3188.98
+Bitter Gourd,Mysuru,8,5,2747.96
+Bitter Gourd,Mysuru,9,5,2251.9
+Bitter Gourd,Mysuru,10,5,2166.8
+Bitter Gourd,Mysuru,11,5,2507.83
+Bitter Gourd,Mysuru,12,5,2809.31
+Bitter Gourd,Udupi,1,4,3668.16
+Bitter Gourd,Udupi,2,4,3598.31
+Bitter Gourd,Udupi,3,4,3869.42
+Bitter Gourd,Udupi,4,4,4015.48
+Bitter Gourd,Udupi,5,4,4558.78
+Bitter Gourd,Udupi,6,4,4880.55
+Bitter Gourd,Udupi,7,3,4717.68
+Bitter Gourd,Udupi,8,3,3675.34
+Bitter Gourd,Udupi,9,3,3003.57
+Bitter Gourd,Udupi,10,4,3363.34
+Bitter Gourd,Udupi,11,4,3681.97
+Bitter Gourd,Udupi,12,4,3544.1
+Bitter Gourd,Vijayanagara,1,2,1750
+Bitter Gourd,Vijayanagara,2,1,1333.33
+Bitter Gourd,Vijayanagara,3,1,1400
+Bitter Gourd,Vijayanagara,6,1,2475.81
+Bitter Gourd,Vijayanagara,7,2,2250
+Bitter Gourd,Vijayanagara,9,2,2338.43
+Bitter Gourd,Vijayanagara,10,2,1608.96
+Bitter Gourd,Vijayanagara,11,3,1929.32
+Bitter Gourd,Vijayanagara,12,2,1969.05
+Bitter Gourd,Mandya,1,2,2650
+Bitter Gourd,Mandya,2,2,2792.31
+Bitter Gourd,Mandya,3,2,2045.24
+Bitter Gourd,Mandya,4,2,1816.67
+Bitter Gourd,Mandya,5,2,1777.78
+Bitter Gourd,Mandya,6,2,2835
+Bitter Gourd,Mandya,7,2,2300
+Bitter Gourd,Mandya,8,2,2583.34
+Bitter Gourd,Mandya,9,1,2888.89
+Bitter Gourd,Mandya,10,1,3000
+Bitter Gourd,Mandya,11,2,2425
+Bitter Gourd,Mandya,12,3,2907.41
+Bitter Gourd,Bengaluru Rural,1,2,2755.76
+Bitter Gourd,Bengaluru Rural,2,3,2670.41
+Bitter Gourd,Bengaluru Rural,3,1,2882.54
+Bitter Gourd,Bengaluru Rural,4,2,2292.02
+Bitter Gourd,Bengaluru Rural,5,1,2838.05
+Bitter Gourd,Bengaluru Rural,6,2,3501
+Bitter Gourd,Bengaluru Rural,7,2,3031.03
+Bitter Gourd,Bengaluru Rural,8,2,2556.29
+Bitter Gourd,Bengaluru Rural,9,2,2563.23
+Bitter Gourd,Bengaluru Rural,10,1,2541.67
+Bitter Gourd,Bengaluru Rural,11,1,3366.67
+Bitter Gourd,Bengaluru Rural,12,2,2555.82
+Bitter Gourd,Chamarajanagar,1,1,5000
+Bitter Gourd,Chamarajanagar,2,1,4851.85
+Bitter Gourd,Chamarajanagar,10,1,2500
+Bitter Gourd,Chamarajanagar,11,2,4017.86
+Bitter Gourd,Chamarajanagar,12,1,5000
+Bitter Gourd,Haveri,1,1,2218.18
+Bitter Gourd,Haveri,2,1,2575
+Bitter Gourd,Haveri,3,1,2290
+Bitter Gourd,Haveri,4,2,2638.46
+Bitter Gourd,Haveri,5,1,2152.17
+Bitter Gourd,Haveri,6,1,2330.43
+Bitter Gourd,Haveri,7,1,1593.33
+Bitter Gourd,Haveri,8,1,2261.54
+Bitter Gourd,Haveri,9,1,1875
+Bitter Gourd,Haveri,10,1,2525
+Bitter Gourd,Haveri,11,2,2530
+Bitter Gourd,Haveri,12,1,2429.41
+Bitter Gourd,Shivamogga,1,1,3561.11
+Bitter Gourd,Shivamogga,2,2,3176.12
+Bitter Gourd,Shivamogga,3,2,3003.57
+Bitter Gourd,Shivamogga,4,3,2304.1
+Bitter Gourd,Shivamogga,5,3,3692.41
+Bitter Gourd,Shivamogga,6,2,3122.94
+Bitter Gourd,Shivamogga,7,2,3298.49
+Bitter Gourd,Shivamogga,8,2,3225
+Bitter Gourd,Shivamogga,9,3,3083.89
+Bitter Gourd,Shivamogga,10,2,1737.88
+Bitter Gourd,Shivamogga,11,2,1896.3
+Bitter Gourd,Shivamogga,12,2,3320.72
+Bitter Gourd,Kalaburagi,9,2,2101.18
+Bitter Gourd,Kalaburagi,10,1,2384.62
+Bitter Gourd,Kalaburagi,11,1,1951.92
+Bitter Gourd,Kalaburagi,12,1,2009.8
+Bitter Gourd,Belagavi,8,1,2163.64
+Bitter Gourd,Belagavi,9,1,2075
+Ridge Gourd,Bengaluru,1,5,3311.7
+Ridge Gourd,Bengaluru,2,5,2834.11
+Ridge Gourd,Bengaluru,3,5,2572.77
+Ridge Gourd,Bengaluru,4,5,2917.45
+Ridge Gourd,Bengaluru,5,5,3043.32
+Ridge Gourd,Bengaluru,6,5,3061.03
+Ridge Gourd,Bengaluru,7,5,2785.06
+Ridge Gourd,Bengaluru,8,5,3040.33
+Ridge Gourd,Bengaluru,9,5,3015.93
+Ridge Gourd,Bengaluru,10,5,3040.84
+Ridge Gourd,Bengaluru,11,5,3396.62
+Ridge Gourd,Bengaluru,12,5,3768.68
+Ridge Gourd,Bengaluru South,1,5,2853.08
+Ridge Gourd,Bengaluru South,2,5,2399.83
+Ridge Gourd,Bengaluru South,3,5,2163.61
+Ridge Gourd,Bengaluru South,4,5,2521.47
+Ridge Gourd,Bengaluru South,5,5,2906.23
+Ridge Gourd,Bengaluru South,6,5,3458.7
+Ridge Gourd,Bengaluru South,7,5,2622.95
+Ridge Gourd,Bengaluru South,8,5,2344.83
+Ridge Gourd,Bengaluru South,9,5,2723.59
+Ridge Gourd,Bengaluru South,10,5,3171.1
+Ridge Gourd,Bengaluru South,11,5,3727.15
+Ridge Gourd,Bengaluru South,12,5,3510.28
+Ridge Gourd,Chamarajanagar,1,5,2561.59
+Ridge Gourd,Chamarajanagar,2,5,1889
+Ridge Gourd,Chamarajanagar,3,5,1341.08
+Ridge Gourd,Chamarajanagar,4,5,1837.33
+Ridge Gourd,Chamarajanagar,5,5,2363.17
+Ridge Gourd,Chamarajanagar,6,5,2407.54
+Ridge Gourd,Chamarajanagar,7,5,2044.38
+Ridge Gourd,Chamarajanagar,8,5,2057.53
+Ridge Gourd,Chamarajanagar,9,5,2048.03
+Ridge Gourd,Chamarajanagar,10,5,2029.87
+Ridge Gourd,Chamarajanagar,11,5,2631.19
+Ridge Gourd,Chamarajanagar,12,5,2673.95
+Ridge Gourd,Chikkaballapur,1,5,2042.66
+Ridge Gourd,Chikkaballapur,2,5,1595.13
+Ridge Gourd,Chikkaballapur,3,5,1417.79
+Ridge Gourd,Chikkaballapur,4,5,1576.62
+Ridge Gourd,Chikkaballapur,5,5,1735.61
+Ridge Gourd,Chikkaballapur,6,5,2050.93
+Ridge Gourd,Chikkaballapur,7,5,1782.1
+Ridge Gourd,Chikkaballapur,8,5,1795.46
+Ridge Gourd,Chikkaballapur,9,5,1643.67
+Ridge Gourd,Chikkaballapur,10,5,1693.73
+Ridge Gourd,Chikkaballapur,11,5,2225.25
+Ridge Gourd,Chikkaballapur,12,5,2362.66
+Ridge Gourd,Chikkamagaluru,1,5,2789.91
+Ridge Gourd,Chikkamagaluru,2,5,2650.17
+Ridge Gourd,Chikkamagaluru,3,5,2582.93
+Ridge Gourd,Chikkamagaluru,4,5,2640.78
+Ridge Gourd,Chikkamagaluru,5,5,2208.54
+Ridge Gourd,Chikkamagaluru,6,5,2297.15
+Ridge Gourd,Chikkamagaluru,7,5,2319.25
+Ridge Gourd,Chikkamagaluru,8,5,2281.54
+Ridge Gourd,Chikkamagaluru,9,5,2327.96
+Ridge Gourd,Chikkamagaluru,10,5,2304.52
+Ridge Gourd,Chikkamagaluru,11,5,2310.48
+Ridge Gourd,Chikkamagaluru,12,5,2717.75
+Ridge Gourd,Davangere,1,5,3111.67
+Ridge Gourd,Davangere,2,5,2978.51
+Ridge Gourd,Davangere,3,5,3102.92
+Ridge Gourd,Davangere,4,5,2979.89
+Ridge Gourd,Davangere,5,5,2887.7
+Ridge Gourd,Davangere,6,5,2686.71
+Ridge Gourd,Davangere,7,5,2271.34
+Ridge Gourd,Davangere,8,5,2137.96
+Ridge Gourd,Davangere,9,5,2379.18
+Ridge Gourd,Davangere,10,5,2199.87
+Ridge Gourd,Davangere,11,5,2566.14
+Ridge Gourd,Davangere,12,5,3150.27
+Ridge Gourd,Hassan,1,5,2697.34
+Ridge Gourd,Hassan,2,5,2409.55
+Ridge Gourd,Hassan,3,5,2320.25
+Ridge Gourd,Hassan,4,4,2429.35
+Ridge Gourd,Hassan,5,5,2192.16
+Ridge Gourd,Hassan,6,5,2417.05
+Ridge Gourd,Hassan,7,5,2409.39
+Ridge Gourd,Hassan,8,5,2374.46
+Ridge Gourd,Hassan,9,5,2432.44
+Ridge Gourd,Hassan,10,5,2226.22
+Ridge Gourd,Hassan,11,4,2524.19
+Ridge Gourd,Hassan,12,5,2897.05
+Ridge Gourd,Kolar,1,5,2451.96
+Ridge Gourd,Kolar,2,5,2237.58
+Ridge Gourd,Kolar,3,5,1936.03
+Ridge Gourd,Kolar,4,5,2040.03
+Ridge Gourd,Kolar,5,5,2831.15
+Ridge Gourd,Kolar,6,5,2781.45
+Ridge Gourd,Kolar,7,5,2442.89
+Ridge Gourd,Kolar,8,5,2128.03
+Ridge Gourd,Kolar,9,5,2151.59
+Ridge Gourd,Kolar,10,5,2359.66
+Ridge Gourd,Kolar,11,5,2684.02
+Ridge Gourd,Kolar,12,5,2847.04
+Ridge Gourd,Mysuru,1,5,2538.75
+Ridge Gourd,Mysuru,2,5,1955.98
+Ridge Gourd,Mysuru,3,5,1540.95
+Ridge Gourd,Mysuru,4,5,1711.11
+Ridge Gourd,Mysuru,5,5,1933.77
+Ridge Gourd,Mysuru,6,5,2303.22
+Ridge Gourd,Mysuru,7,5,2179.68
+Ridge Gourd,Mysuru,8,5,2163.98
+Ridge Gourd,Mysuru,9,5,2063.21
+Ridge Gourd,Mysuru,10,5,2208.2
+Ridge Gourd,Mysuru,11,5,2433.53
+Ridge Gourd,Mysuru,12,5,2743.58
+Ridge Gourd,Shivamogga,1,5,3478.88
+Ridge Gourd,Shivamogga,2,5,3053.54
+Ridge Gourd,Shivamogga,3,5,2915.64
+Ridge Gourd,Shivamogga,4,5,3198.08
+Ridge Gourd,Shivamogga,5,5,2669.53
+Ridge Gourd,Shivamogga,6,5,2800.67
+Ridge Gourd,Shivamogga,7,5,2126.42
+Ridge Gourd,Shivamogga,8,5,2484.23
+Ridge Gourd,Shivamogga,9,5,2533.04
+Ridge Gourd,Shivamogga,10,5,2729.52
+Ridge Gourd,Shivamogga,11,5,3171.5
+Ridge Gourd,Shivamogga,12,5,3853.75
+Ridge Gourd,Udupi,1,4,4153.51
+Ridge Gourd,Udupi,2,4,3711.67
+Ridge Gourd,Udupi,3,4,3780.75
+Ridge Gourd,Udupi,4,4,3304.54
+Ridge Gourd,Udupi,5,4,3506.9
+Ridge Gourd,Udupi,6,4,3846.83
+Ridge Gourd,Udupi,7,3,3109.02
+Ridge Gourd,Udupi,8,3,3159.03
+Ridge Gourd,Udupi,9,3,2953.46
+Ridge Gourd,Udupi,10,4,3053.47
+Ridge Gourd,Udupi,11,4,3389.39
+Ridge Gourd,Udupi,12,4,4149.31
+Ridge Gourd,Vijayanagara,1,3,1949.12
+Ridge Gourd,Vijayanagara,2,1,1774.29
+Ridge Gourd,Vijayanagara,3,1,1992
+Ridge Gourd,Vijayanagara,4,1,1900
+Ridge Gourd,Vijayanagara,5,2,2121.06
+Ridge Gourd,Vijayanagara,6,2,2217.47
+Ridge Gourd,Vijayanagara,7,2,2110.59
+Ridge Gourd,Vijayanagara,8,2,2064.1
+Ridge Gourd,Vijayanagara,9,2,2403.15
+Ridge Gourd,Vijayanagara,10,3,1906.1
+Ridge Gourd,Vijayanagara,11,2,1965.55
+Ridge Gourd,Vijayanagara,12,2,1852.8
+Ridge Gourd,Mandya,1,2,2435.42
+Ridge Gourd,Mandya,2,2,2134.44
+Ridge Gourd,Mandya,3,2,1693.94
+Ridge Gourd,Mandya,4,2,1475.45
+Ridge Gourd,Mandya,5,2,1753.32
+Ridge Gourd,Mandya,6,2,2213.24
+Ridge Gourd,Mandya,7,2,1857.9
+Ridge Gourd,Mandya,8,2,2063.13
+Ridge Gourd,Mandya,9,1,2550
+Ridge Gourd,Mandya,10,2,2105
+Ridge Gourd,Mandya,11,2,2092.86
+Ridge Gourd,Mandya,12,3,2474.32
+Ridge Gourd,Bengaluru Rural,1,2,3105.04
+Ridge Gourd,Bengaluru Rural,2,3,2295.24
+Ridge Gourd,Bengaluru Rural,3,1,1788
+Ridge Gourd,Bengaluru Rural,4,1,2148.21
+Ridge Gourd,Bengaluru Rural,5,1,2400
+Ridge Gourd,Bengaluru Rural,6,1,2258.91
+Ridge Gourd,Bengaluru Rural,7,1,2282.72
+Ridge Gourd,Bengaluru Rural,8,1,2050.2
+Ridge Gourd,Bengaluru Rural,9,2,1887.41
+Ridge Gourd,Bengaluru Rural,10,1,2850
+Ridge Gourd,Bengaluru Rural,12,2,2956.73
+Ridge Gourd,Gadag,7,1,1600
+Ridge Gourd,Haveri,1,1,1927.03
+Ridge Gourd,Haveri,2,1,2035.48
+Ridge Gourd,Haveri,3,1,2612.12
+Ridge Gourd,Haveri,4,1,2422.22
+Ridge Gourd,Haveri,5,1,2176.67
+Ridge Gourd,Haveri,6,1,1962.96
+Ridge Gourd,Haveri,8,1,1500
+Ridge Gourd,Haveri,9,1,800
+Ridge Gourd,Haveri,10,1,1515
+Ridge Gourd,Haveri,11,2,2078.57
+Ridge Gourd,Haveri,12,2,2653.71
+Ridge Gourd,Kalaburagi,4,1,3500
+Ridge Gourd,Kalaburagi,7,1,2322.22
+Ridge Gourd,Kalaburagi,8,1,1650
+Ridge Gourd,Kalaburagi,9,2,2448.75
+Ridge Gourd,Kalaburagi,10,1,2704.55
+Ridge Gourd,Kalaburagi,11,1,1804.35
+Ridge Gourd,Kalaburagi,12,1,2439.39
+Coriander Leaves,Chikkaballapur,1,4,7337.46
+Coriander Leaves,Chikkaballapur,2,4,6792.86
+Coriander Leaves,Chikkaballapur,3,4,7228.62
+Coriander Leaves,Chikkaballapur,4,4,6346.97
+Coriander Leaves,Chikkaballapur,5,4,6993.86
+Coriander Leaves,Chikkaballapur,6,5,6675.65
+Coriander Leaves,Chikkaballapur,7,4,5397.49
+Coriander Leaves,Chikkaballapur,8,3,7901.23
+Coriander Leaves,Chikkaballapur,9,4,7274.81
+Coriander Leaves,Chikkaballapur,10,4,7465.16
+Coriander Leaves,Chikkaballapur,11,3,7069.17
+Coriander Leaves,Chikkaballapur,12,4,6944.62
+Coriander Leaves,Gadag,1,2,7593
+Coriander Leaves,Gadag,2,1,6254
+Coriander Leaves,Gadag,3,3,6853.33
+Coriander Leaves,Gadag,4,3,5873
+Coriander Leaves,Gadag,5,3,6585.67
+Coriander Leaves,Gadag,6,2,6655.5
+Coriander Leaves,Gadag,7,3,7670.5
+Coriander Leaves,Gadag,8,2,9588.75
+Coriander Leaves,Gadag,9,4,7780.18
+Coriander Leaves,Gadag,10,3,5937.37
+Coriander Leaves,Gadag,11,3,7724.25
+Coriander Leaves,Gadag,12,3,6008.6
+Coriander Leaves,Kolar,1,1,8642
+Coriander Leaves,Kolar,3,2,11000
+Coriander Leaves,Kolar,4,2,12529
+Coriander Leaves,Kolar,5,2,11059.36
+Coriander Leaves,Kolar,6,3,10345.78
+Coriander Leaves,Kolar,7,2,10456
+Coriander Leaves,Kolar,9,1,20927.64
+Coriander Leaves,Kolar,10,1,8771
+Coriander Leaves,Kolar,11,1,8000
+Coriander Leaves,Kolar,12,1,10000
+Coriander Leaves,Tumakuru,1,5,10735.72
+Coriander Leaves,Tumakuru,2,3,10254.29
+Coriander Leaves,Tumakuru,3,4,10298.73
+Coriander Leaves,Tumakuru,4,3,10879.21
+Coriander Leaves,Tumakuru,5,4,11389
+Coriander Leaves,Tumakuru,6,3,11090.29
+Coriander Leaves,Tumakuru,7,5,11350.48
+Coriander Leaves,Tumakuru,8,3,10854.9
+Coriander Leaves,Tumakuru,9,4,10409.38
+Coriander Leaves,Tumakuru,10,4,10044.09
+Coriander Leaves,Tumakuru,11,4,10510.57
+Coriander Leaves,Tumakuru,12,4,11035.08
+Coriander Leaves,Bidar,1,1,7888.89
+Coriander Leaves,Bidar,2,1,7615.38
+Coriander Leaves,Bidar,11,1,6500
+Coriander Leaves,Hassan,1,1,6400
+Coriander Leaves,Hassan,3,1,6194
+Coriander Leaves,Hassan,4,1,1000
+Coriander Leaves,Hassan,6,1,7500
+Coriander Leaves,Hassan,7,1,6100
+Coriander Leaves,Hassan,9,1,7000
+Coriander Leaves,Hassan,12,1,7900
+Coriander Leaves,Mysuru,9,1,6607
+Coriander Leaves,Dharwad,1,1,10036.31
+Coriander Leaves,Dharwad,2,2,7157.49
+Coriander Leaves,Dharwad,3,1,11412.46
+Coriander Leaves,Dharwad,4,1,9703.26
+Coriander Leaves,Dharwad,5,1,10791
+Coriander Leaves,Dharwad,8,1,15222.5
+Coriander Leaves,Dharwad,9,2,10049.58
+Coriander Leaves,Dharwad,10,1,6267.93
+Coriander Leaves,Dharwad,11,2,5790.02
+Coriander Leaves,Dharwad,12,2,6114.95
+Coriander Leaves,Mandya,3,1,13300
+Coriander Leaves,Mandya,9,1,9868
+Sweet Pumpkin,Bengaluru,1,5,1126.81
+Sweet Pumpkin,Bengaluru,2,5,1094.2
+Sweet Pumpkin,Bengaluru,3,5,1111.33
+Sweet Pumpkin,Bengaluru,4,5,1033.27
+Sweet Pumpkin,Bengaluru,5,5,1060.73
+Sweet Pumpkin,Bengaluru,6,5,1249.59
+Sweet Pumpkin,Bengaluru,7,5,1258.39
+Sweet Pumpkin,Bengaluru,8,5,1108.72
+Sweet Pumpkin,Bengaluru,9,5,1042.36
+Sweet Pumpkin,Bengaluru,10,5,1072.47
+Sweet Pumpkin,Bengaluru,11,5,1044.52
+Sweet Pumpkin,Bengaluru,12,5,1116.78
+Sweet Pumpkin,Davangere,1,3,1108.47
+Sweet Pumpkin,Davangere,2,4,1149.15
+Sweet Pumpkin,Davangere,3,4,1067.94
+Sweet Pumpkin,Davangere,4,4,1020.42
+Sweet Pumpkin,Davangere,5,4,967.41
+Sweet Pumpkin,Davangere,6,4,998.43
+Sweet Pumpkin,Davangere,7,4,1041.3
+Sweet Pumpkin,Davangere,8,4,1179.51
+Sweet Pumpkin,Davangere,9,4,1158.5
+Sweet Pumpkin,Davangere,10,4,1121.53
+Sweet Pumpkin,Davangere,11,4,1649.76
+Sweet Pumpkin,Davangere,12,4,1375.23
+Sweet Pumpkin,Hassan,1,4,1245.62
+Sweet Pumpkin,Hassan,2,5,1349.25
+Sweet Pumpkin,Hassan,3,5,1319.02
+Sweet Pumpkin,Hassan,4,4,962.05
+Sweet Pumpkin,Hassan,5,3,1205.96
+Sweet Pumpkin,Hassan,6,4,2332.93
+Sweet Pumpkin,Hassan,7,5,1204.5
+Sweet Pumpkin,Hassan,8,5,1201.05
+Sweet Pumpkin,Hassan,9,4,1378.83
+Sweet Pumpkin,Hassan,10,4,961.01
+Sweet Pumpkin,Hassan,11,5,1199.37
+Sweet Pumpkin,Hassan,12,4,2372.2
+Sweet Pumpkin,Mandya,1,5,470.7
+Sweet Pumpkin,Mandya,2,5,515.74
+Sweet Pumpkin,Mandya,3,5,456.83
+Sweet Pumpkin,Mandya,4,5,471.5
+Sweet Pumpkin,Mandya,5,5,486.5
+Sweet Pumpkin,Mandya,6,5,462.97
+Sweet Pumpkin,Mandya,7,5,403.17
+Sweet Pumpkin,Mandya,8,5,480.59
+Sweet Pumpkin,Mandya,9,5,627.18
+Sweet Pumpkin,Mandya,10,5,549.63
+Sweet Pumpkin,Mandya,11,5,478.49
+Sweet Pumpkin,Mandya,12,4,371.95
+Sweet Pumpkin,Mysuru,1,5,1083.57
+Sweet Pumpkin,Mysuru,2,5,994.01
+Sweet Pumpkin,Mysuru,3,5,742.99
+Sweet Pumpkin,Mysuru,4,5,613.08
+Sweet Pumpkin,Mysuru,5,5,820.56
+Sweet Pumpkin,Mysuru,6,5,942.96
+Sweet Pumpkin,Mysuru,7,5,759.81
+Sweet Pumpkin,Mysuru,8,5,787.44
+Sweet Pumpkin,Mysuru,9,5,1048.5
+Sweet Pumpkin,Mysuru,10,5,975.58
+Sweet Pumpkin,Mysuru,11,5,694.5
+Sweet Pumpkin,Mysuru,12,5,889.73
+Sweet Pumpkin,Dakshina Kannada,1,1,2110
+Sweet Pumpkin,Dakshina Kannada,2,1,2400
+Sweet Pumpkin,Dakshina Kannada,3,1,1400
+Sweet Pumpkin,Dakshina Kannada,5,1,900
+Sweet Pumpkin,Dakshina Kannada,11,1,1188.89
+Sweet Pumpkin,Dakshina Kannada,12,1,1381.82
+Sweet Pumpkin,Chikkamagaluru,1,2,1512
+Sweet Pumpkin,Chikkamagaluru,2,2,1910
+Sweet Pumpkin,Chikkamagaluru,3,2,1638.5
+Sweet Pumpkin,Chikkamagaluru,4,1,1349.33
+Sweet Pumpkin,Chikkamagaluru,5,1,1835.24
+Sweet Pumpkin,Chikkamagaluru,6,3,1311.91
+Sweet Pumpkin,Chikkamagaluru,7,2,1341.75
+Sweet Pumpkin,Chikkamagaluru,8,2,1418
+Sweet Pumpkin,Chikkamagaluru,9,3,1087.3
+Sweet Pumpkin,Chikkamagaluru,10,1,813
+Sweet Pumpkin,Chikkamagaluru,11,2,1436.23
+Sweet Pumpkin,Chikkamagaluru,12,1,1111
+Sweet Pumpkin,Chamarajanagar,4,1,450
+Sweet Pumpkin,Chamarajanagar,5,1,900
+Sweet Pumpkin,Chamarajanagar,9,1,750
+Sweet Pumpkin,Bengaluru South,1,2,1056.31
+Sweet Pumpkin,Bengaluru South,2,3,1295.25
+Sweet Pumpkin,Bengaluru South,3,3,1263.38
+Sweet Pumpkin,Bengaluru South,4,3,1167.76
+Sweet Pumpkin,Bengaluru South,5,3,1102.17
+Sweet Pumpkin,Bengaluru South,6,3,1301.46
+Sweet Pumpkin,Bengaluru South,7,3,1160.27
+Sweet Pumpkin,Bengaluru South,8,2,1186.42
+Sweet Pumpkin,Bengaluru South,9,3,1395.48
+Sweet Pumpkin,Bengaluru South,10,3,1261.94
+Sweet Pumpkin,Bengaluru South,11,3,1142.03
+Sweet Pumpkin,Bengaluru South,12,3,1046.45
+Sweet Pumpkin,Shivamogga,1,1,1427.27
+Sweet Pumpkin,Shivamogga,2,1,1500
+Sweet Pumpkin,Shivamogga,3,1,1500
+Sweet Pumpkin,Shivamogga,4,1,1500
+Sweet Pumpkin,Shivamogga,5,1,1690.48
+Sweet Pumpkin,Shivamogga,6,1,1038
+Sweet Pumpkin,Shivamogga,7,1,928
+Sweet Pumpkin,Shivamogga,8,1,900
+Sweet Pumpkin,Shivamogga,9,1,1007.41
+Sweet Pumpkin,Chikkaballapur,2,1,550
+Sweet Pumpkin,Chikkaballapur,4,1,450
+Sweet Pumpkin,Chikkaballapur,7,1,621.43
+Sweet Pumpkin,Chikkaballapur,8,1,628.67
+Sweet Pumpkin,Chikkaballapur,9,1,1114.18
+Sweet Pumpkin,Kolar,9,1,2600

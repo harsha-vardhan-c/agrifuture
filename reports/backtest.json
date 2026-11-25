@@ -1,0 +1,622 @@
+{
+  "data_price_rows": 13552,
+  "observed_months": 60,
+  "eligible_crop_district_series": 225,
+  "train_supervised_rows": 70482,
+  "test_fit_supervised_rows": 100772,
+  "final_fit_supervised_rows": 131166,
+  "validation_origin": "2024-07-01",
+  "test_origin": "2025-07-01",
+  "latest_source_month": "2026-09-01",
+  "selection_rule": "Best validation MAE per horizon (HGB, same-month-previous-year, persistence). Test never selects a method.",
+  "selected_per_horizon": {
+    "1": "hgb",
+    "2": "hgb",
+    "3": "hgb",
+    "4": "hgb",
+    "5": "hgb",
+    "6": "seasonal_naive",
+    "7": "seasonal_naive",
+    "8": "seasonal_naive",
+    "9": "seasonal_naive",
+    "10": "last_price",
+    "11": "last_price",
+    "12": "seasonal_naive",
+    "13": "hgb",
+    "14": "hgb"
+  },
+  "validation": {
+    "1": {
+      "hgb": {
+        "samples": 189,
+        "mae_rs_per_quintal": 698.08,
+        "wape_pct": 28.47
+      },
+      "seasonal_naive": {
+        "samples": 189,
+        "mae_rs_per_quintal": 842.41,
+        "wape_pct": 34.36
+      },
+      "last_price": {
+        "samples": 189,
+        "mae_rs_per_quintal": 806.24,
+        "wape_pct": 32.88
+      }
+    },
+    "2": {
+      "hgb": {
+        "samples": 190,
+        "mae_rs_per_quintal": 626.03,
+        "wape_pct": 25.35
+      },
+      "seasonal_naive": {
+        "samples": 190,
+        "mae_rs_per_quintal": 842.48,
+        "wape_pct": 34.11
+      },
+      "last_price": {
+        "samples": 190,
+        "mae_rs_per_quintal": 971.0,
+        "wape_pct": 39.32
+      }
+    },
+    "3": {
+      "hgb": {
+        "samples": 189,
+        "mae_rs_per_quintal": 686.0,
+        "wape_pct": 23.98
+      },
+      "seasonal_naive": {
+        "samples": 189,
+        "mae_rs_per_quintal": 879.65,
+        "wape_pct": 30.74
+      },
+      "last_price": {
+        "samples": 189,
+        "mae_rs_per_quintal": 882.3,
+        "wape_pct": 30.84
+      }
+    },
+    "4": {
+      "hgb": {
+        "samples": 184,
+        "mae_rs_per_quintal": 726.94,
+        "wape_pct": 24.68
+      },
+      "seasonal_naive": {
+        "samples": 184,
+        "mae_rs_per_quintal": 948.25,
+        "wape_pct": 32.2
+      },
+      "last_price": {
+        "samples": 184,
+        "mae_rs_per_quintal": 805.12,
+        "wape_pct": 27.34
+      }
+    },
+    "5": {
+      "hgb": {
+        "samples": 184,
+        "mae_rs_per_quintal": 605.19,
+        "wape_pct": 21.86
+      },
+      "seasonal_naive": {
+        "samples": 184,
+        "mae_rs_per_quintal": 679.19,
+        "wape_pct": 24.53
+      },
+      "last_price": {
+        "samples": 184,
+        "mae_rs_per_quintal": 914.38,
+        "wape_pct": 33.02
+      }
+    },
+    "6": {
+      "hgb": {
+        "samples": 186,
+        "mae_rs_per_quintal": 721.3,
+        "wape_pct": 28.47
+      },
+      "seasonal_naive": {
+        "samples": 186,
+        "mae_rs_per_quintal": 713.39,
+        "wape_pct": 28.15
+      },
+      "last_price": {
+        "samples": 186,
+        "mae_rs_per_quintal": 960.62,
+        "wape_pct": 37.91
+      }
+    },
+    "7": {
+      "hgb": {
+        "samples": 186,
+        "mae_rs_per_quintal": 814.26,
+        "wape_pct": 38.38
+      },
+      "seasonal_naive": {
+        "samples": 186,
+        "mae_rs_per_quintal": 602.18,
+        "wape_pct": 28.38
+      },
+      "last_price": {
+        "samples": 186,
+        "mae_rs_per_quintal": 1097.54,
+        "wape_pct": 51.73
+      }
+    },
+    "8": {
+      "hgb": {
+        "samples": 176,
+        "mae_rs_per_quintal": 793.77,
+        "wape_pct": 37.64
+      },
+      "seasonal_naive": {
+        "samples": 176,
+        "mae_rs_per_quintal": 541.71,
+        "wape_pct": 25.69
+      },
+      "last_price": {
+        "samples": 176,
+        "mae_rs_per_quintal": 1180.85,
+        "wape_pct": 56.0
+      }
+    },
+    "9": {
+      "hgb": {
+        "samples": 174,
+        "mae_rs_per_quintal": 993.64,
+        "wape_pct": 46.32
+      },
+      "seasonal_naive": {
+        "samples": 174,
+        "mae_rs_per_quintal": 785.82,
+        "wape_pct": 36.63
+      },
+      "last_price": {
+        "samples": 174,
+        "mae_rs_per_quintal": 1159.55,
+        "wape_pct": 54.06
+      }
+    },
+    "10": {
+      "hgb": {
+        "samples": 173,
+        "mae_rs_per_quintal": 1415.15,
+        "wape_pct": 62.48
+      },
+      "seasonal_naive": {
+        "samples": 173,
+        "mae_rs_per_quintal": 1255.18,
+        "wape_pct": 55.42
+      },
+      "last_price": {
+        "samples": 173,
+        "mae_rs_per_quintal": 1139.43,
+        "wape_pct": 50.31
+      }
+    },
+    "11": {
+      "hgb": {
+        "samples": 174,
+        "mae_rs_per_quintal": 1407.95,
+        "wape_pct": 57.23
+      },
+      "seasonal_naive": {
+        "samples": 174,
+        "mae_rs_per_quintal": 1104.95,
+        "wape_pct": 44.91
+      },
+      "last_price": {
+        "samples": 174,
+        "mae_rs_per_quintal": 840.09,
+        "wape_pct": 34.15
+      }
+    },
+    "12": {
+      "hgb": {
+        "samples": 158,
+        "mae_rs_per_quintal": 987.27,
+        "wape_pct": 40.37
+      },
+      "seasonal_naive": {
+        "samples": 158,
+        "mae_rs_per_quintal": 810.57,
+        "wape_pct": 33.15
+      },
+      "last_price": {
+        "samples": 158,
+        "mae_rs_per_quintal": 810.57,
+        "wape_pct": 33.15
+      }
+    },
+    "13": {
+      "hgb": {
+        "samples": 157,
+        "mae_rs_per_quintal": 744.03,
+        "wape_pct": 32.19
+      },
+      "seasonal_naive": {
+        "samples": 157,
+        "mae_rs_per_quintal": 862.94,
+        "wape_pct": 37.33
+      },
+      "last_price": {
+        "samples": 157,
+        "mae_rs_per_quintal": 862.94,
+        "wape_pct": 37.33
+      }
+    },
+    "14": {
+      "hgb": {
+        "samples": 161,
+        "mae_rs_per_quintal": 647.87,
+        "wape_pct": 31.51
+      },
+      "seasonal_naive": {
+        "samples": 161,
+        "mae_rs_per_quintal": 1009.56,
+        "wape_pct": 49.11
+      },
+      "last_price": {
+        "samples": 161,
+        "mae_rs_per_quintal": 1009.56,
+        "wape_pct": 49.11
+      }
+    }
+  },
+  "test": {
+    "1": {
+      "hgb": {
+        "samples": 155,
+        "mae_rs_per_quintal": 463.84,
+        "wape_pct": 20.21
+      },
+      "seasonal_naive": {
+        "samples": 155,
+        "mae_rs_per_quintal": 680.51,
+        "wape_pct": 29.65
+      },
+      "last_price": {
+        "samples": 155,
+        "mae_rs_per_quintal": 503.05,
+        "wape_pct": 21.92
+      }
+    },
+    "2": {
+      "hgb": {
+        "samples": 158,
+        "mae_rs_per_quintal": 514.41,
+        "wape_pct": 24.38
+      },
+      "seasonal_naive": {
+        "samples": 158,
+        "mae_rs_per_quintal": 719.75,
+        "wape_pct": 34.11
+      },
+      "last_price": {
+        "samples": 158,
+        "mae_rs_per_quintal": 585.13,
+        "wape_pct": 27.73
+      }
+    },
+    "3": {
+      "hgb": {
+        "samples": 155,
+        "mae_rs_per_quintal": 619.78,
+        "wape_pct": 27.39
+      },
+      "seasonal_naive": {
+        "samples": 155,
+        "mae_rs_per_quintal": 830.28,
+        "wape_pct": 36.7
+      },
+      "last_price": {
+        "samples": 155,
+        "mae_rs_per_quintal": 598.03,
+        "wape_pct": 26.43
+      }
+    },
+    "4": {
+      "hgb": {
+        "samples": 153,
+        "mae_rs_per_quintal": 619.65,
+        "wape_pct": 24.22
+      },
+      "seasonal_naive": {
+        "samples": 153,
+        "mae_rs_per_quintal": 604.79,
+        "wape_pct": 23.64
+      },
+      "last_price": {
+        "samples": 153,
+        "mae_rs_per_quintal": 741.9,
+        "wape_pct": 29.0
+      }
+    },
+    "5": {
+      "hgb": {
+        "samples": 141,
+        "mae_rs_per_quintal": 578.29,
+        "wape_pct": 23.74
+      },
+      "seasonal_naive": {
+        "samples": 141,
+        "mae_rs_per_quintal": 653.02,
+        "wape_pct": 26.81
+      },
+      "last_price": {
+        "samples": 141,
+        "mae_rs_per_quintal": 557.06,
+        "wape_pct": 22.87
+      }
+    },
+    "6": {
+      "hgb": {
+        "samples": 149,
+        "mae_rs_per_quintal": 430.48,
+        "wape_pct": 19.62
+      },
+      "seasonal_naive": {
+        "samples": 149,
+        "mae_rs_per_quintal": 569.9,
+        "wape_pct": 25.97
+      },
+      "last_price": {
+        "samples": 149,
+        "mae_rs_per_quintal": 600.21,
+        "wape_pct": 27.35
+      }
+    },
+    "7": {
+      "hgb": {
+        "samples": 150,
+        "mae_rs_per_quintal": 500.99,
+        "wape_pct": 24.44
+      },
+      "seasonal_naive": {
+        "samples": 150,
+        "mae_rs_per_quintal": 588.9,
+        "wape_pct": 28.73
+      },
+      "last_price": {
+        "samples": 150,
+        "mae_rs_per_quintal": 599.93,
+        "wape_pct": 29.27
+      }
+    },
+    "8": {
+      "hgb": {
+        "samples": 151,
+        "mae_rs_per_quintal": 383.75,
+        "wape_pct": 19.89
+      },
+      "seasonal_naive": {
+        "samples": 151,
+        "mae_rs_per_quintal": 476.23,
+        "wape_pct": 24.69
+      },
+      "last_price": {
+        "samples": 151,
+        "mae_rs_per_quintal": 723.52,
+        "wape_pct": 37.51
+      }
+    },
+    "9": {
+      "hgb": {
+        "samples": 151,
+        "mae_rs_per_quintal": 473.09,
+        "wape_pct": 22.01
+      },
+      "seasonal_naive": {
+        "samples": 151,
+        "mae_rs_per_quintal": 539.84,
+        "wape_pct": 25.12
+      },
+      "last_price": {
+        "samples": 151,
+        "mae_rs_per_quintal": 656.39,
+        "wape_pct": 30.54
+      }
+    },
+    "10": {
+      "hgb": {
+        "samples": 151,
+        "mae_rs_per_quintal": 694.84,
+        "wape_pct": 28.0
+      },
+      "seasonal_naive": {
+        "samples": 151,
+        "mae_rs_per_quintal": 747.23,
+        "wape_pct": 30.12
+      },
+      "last_price": {
+        "samples": 151,
+        "mae_rs_per_quintal": 829.41,
+        "wape_pct": 33.43
+      }
+    },
+    "11": {
+      "hgb": {
+        "samples": 150,
+        "mae_rs_per_quintal": 596.15,
+        "wape_pct": 23.64
+      },
+      "seasonal_naive": {
+        "samples": 150,
+        "mae_rs_per_quintal": 647.64,
+        "wape_pct": 25.68
+      },
+      "last_price": {
+        "samples": 150,
+        "mae_rs_per_quintal": 683.39,
+        "wape_pct": 27.1
+      }
+    },
+    "12": {
+      "hgb": {
+        "samples": 151,
+        "mae_rs_per_quintal": 714.55,
+        "wape_pct": 28.84
+      },
+      "seasonal_naive": {
+        "samples": 151,
+        "mae_rs_per_quintal": 647.97,
+        "wape_pct": 26.15
+      },
+      "last_price": {
+        "samples": 151,
+        "mae_rs_per_quintal": 647.97,
+        "wape_pct": 26.15
+      }
+    },
+    "13": {
+      "hgb": {
+        "samples": 151,
+        "mae_rs_per_quintal": 564.21,
+        "wape_pct": 23.1
+      },
+      "seasonal_naive": {
+        "samples": 151,
+        "mae_rs_per_quintal": 676.74,
+        "wape_pct": 27.7
+      },
+      "last_price": {
+        "samples": 151,
+        "mae_rs_per_quintal": 676.74,
+        "wape_pct": 27.7
+      }
+    },
+    "14": {
+      "hgb": {
+        "samples": 150,
+        "mae_rs_per_quintal": 475.88,
+        "wape_pct": 20.14
+      },
+      "seasonal_naive": {
+        "samples": 150,
+        "mae_rs_per_quintal": 672.69,
+        "wape_pct": 28.47
+      },
+      "last_price": {
+        "samples": 150,
+        "mae_rs_per_quintal": 672.69,
+        "wape_pct": 28.47
+      }
+    }
+  },
+  "test_selected_per_horizon": {
+    "1": {
+      "method": "hgb",
+      "samples": 155,
+      "mae_rs_per_quintal": 463.84,
+      "wape_pct": 20.21
+    },
+    "2": {
+      "method": "hgb",
+      "samples": 158,
+      "mae_rs_per_quintal": 514.41,
+      "wape_pct": 24.38
+    },
+    "3": {
+      "method": "hgb",
+      "samples": 155,
+      "mae_rs_per_quintal": 619.78,
+      "wape_pct": 27.39
+    },
+    "4": {
+      "method": "hgb",
+      "samples": 153,
+      "mae_rs_per_quintal": 619.65,
+      "wape_pct": 24.22
+    },
+    "5": {
+      "method": "hgb",
+      "samples": 141,
+      "mae_rs_per_quintal": 578.29,
+      "wape_pct": 23.74
+    },
+    "6": {
+      "method": "seasonal_naive",
+      "samples": 149,
+      "mae_rs_per_quintal": 569.9,
+      "wape_pct": 25.97
+    },
+    "7": {
+      "method": "seasonal_naive",
+      "samples": 150,
+      "mae_rs_per_quintal": 588.9,
+      "wape_pct": 28.73
+    },
+    "8": {
+      "method": "seasonal_naive",
+      "samples": 151,
+      "mae_rs_per_quintal": 476.23,
+      "wape_pct": 24.69
+    },
+    "9": {
+      "method": "seasonal_naive",
+      "samples": 151,
+      "mae_rs_per_quintal": 539.84,
+      "wape_pct": 25.12
+    },
+    "10": {
+      "method": "last_price",
+      "samples": 151,
+      "mae_rs_per_quintal": 829.41,
+      "wape_pct": 33.43
+    },
+    "11": {
+      "method": "last_price",
+      "samples": 150,
+      "mae_rs_per_quintal": 683.39,
+      "wape_pct": 27.1
+    },
+    "12": {
+      "method": "seasonal_naive",
+      "samples": 151,
+      "mae_rs_per_quintal": 647.97,
+      "wape_pct": 26.15
+    },
+    "13": {
+      "method": "hgb",
+      "samples": 151,
+      "mae_rs_per_quintal": 564.21,
+      "wape_pct": 23.1
+    },
+    "14": {
+      "method": "hgb",
+      "samples": 150,
+      "mae_rs_per_quintal": 475.88,
+      "wape_pct": 20.14
+    }
+  },
+  "test_selected_overall": {
+    "samples": 2116,
+    "mae_rs_per_quintal": 583.38,
+    "wape_pct": 25.32
+  },
+  "val_relative_abs_error_p80": {
+    "1": 0.6133,
+    "2": 0.4344,
+    "3": 0.3987,
+    "4": 0.354,
+    "5": 0.3392,
+    "6": 0.4828,
+    "7": 0.5087,
+    "8": 0.5569,
+    "9": 0.7726,
+    "10": 1.1158,
+    "11": 0.7214,
+    "12": 0.7315,
+    "13": 0.7316,
+    "14": 0.6446
+  },
+  "limitations": [
+    "One validation origin and one test origin: not enough for strong long-range statistical confidence.",
+    "An 80th percentile historical relative error is indicative, not an 80% calibrated prediction interval.",
+    "Historical monthly district wholesale prices do not predict a daily mandi or retail rate.",
+    "Weather and festivals are contextual and have not been validated as price-model inputs.",
+    "No 85% accuracy claim; evaluate WAPE/MAE per horizon and crop."
+  ]
+}

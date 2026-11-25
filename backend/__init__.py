@@ -1,0 +1,1 @@
+"""AgriForecast Karnataka forecasting service."""

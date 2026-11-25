@@ -1,0 +1,372 @@
+crop,district,months_reported,months_missing_from_60,first_date,last_date,five_year_observed_mean_price
+Tomato,Belagavi,42,18,2021-10-01,2026-09-01,2815.46
+Tomato,Bengaluru,60,0,2021-10-01,2026-09-01,2542.95
+Tomato,Bengaluru Rural,53,7,2021-10-01,2026-09-01,1928.67
+Tomato,Bengaluru South,60,0,2021-10-01,2026-09-01,2216.82
+Tomato,Chamarajanagar,60,0,2021-10-01,2026-09-01,1834.12
+Tomato,Chikkaballapur,60,0,2021-10-01,2026-09-01,1408.8
+Tomato,Chikkamagaluru,60,0,2021-10-01,2026-09-01,1717.56
+Tomato,Dakshina Kannada,10,50,2021-10-01,2022-07-01,2991.88
+Tomato,Davangere,60,0,2021-10-01,2026-09-01,1626.36
+Tomato,Hassan,59,1,2021-10-01,2026-09-01,2030.1
+Tomato,Kalaburagi,60,0,2021-10-01,2026-09-01,1657.9
+Tomato,Kolar,60,0,2021-10-01,2026-09-01,1392.91
+Tomato,Mandya,59,1,2021-10-01,2026-09-01,1704.45
+Tomato,Mysuru,60,0,2021-10-01,2026-09-01,2126.09
+Tomato,Shivamogga,60,0,2021-10-01,2026-09-01,1654.62
+Tomato,Tumakuru,20,40,2021-10-01,2026-09-01,2510.79
+Tomato,Udupi,46,14,2021-10-01,2026-06-01,2727.71
+Tomato,Vijayanagara,27,33,2021-10-01,2026-09-01,1349.09
+Tomato,Bellary,1,59,2022-03-01,2022-03-01,705.06
+Tomato,Dharwad,2,58,2023-07-01,2023-08-01,5644.12
+Tomato,Gadag,2,58,2023-07-01,2023-08-01,6096.73
+Tomato,Haveri,17,43,2023-07-01,2026-09-01,2027.32
+Tomato,Koppal,6,54,2023-07-01,2024-01-01,2316.07
+Tomato,Chitradurga,1,59,2024-09-01,2024-09-01,1000
+Onion,Bagalkot,36,24,2021-10-01,2026-09-01,1719.71
+Onion,Belagavi,54,6,2021-10-01,2026-09-01,2147.9
+Onion,Bengaluru,53,7,2021-10-01,2026-09-01,1856.02
+Onion,Bengaluru Rural,51,9,2021-10-01,2026-09-01,2292.17
+Onion,Chamarajanagar,26,34,2021-10-01,2026-06-01,2846.18
+Onion,Chikkaballapur,60,0,2021-10-01,2026-09-01,2480.91
+Onion,Chikkamagaluru,60,0,2021-10-01,2026-09-01,2132.84
+Onion,Dakshina Kannada,38,22,2021-10-01,2026-09-01,2270.98
+Onion,Davangere,60,0,2021-10-01,2026-09-01,1710.92
+Onion,Dharwad,60,0,2021-10-01,2026-09-01,1358.84
+Onion,Gadag,13,47,2021-10-01,2025-12-01,1612.36
+Onion,Hassan,60,0,2021-10-01,2026-09-01,1651.71
+Onion,Haveri,35,25,2021-10-01,2026-09-01,1694.25
+Onion,Kalaburagi,60,0,2021-10-01,2026-09-01,1446.68
+Onion,Kolar,59,1,2021-10-01,2026-09-01,2350.22
+Onion,Mandya,55,5,2021-10-01,2026-09-01,2069.19
+Onion,Mysuru,60,0,2021-10-01,2026-09-01,2174.03
+Onion,Raichur,35,25,2021-10-01,2026-03-01,1383.62
+Onion,Shivamogga,60,0,2021-10-01,2026-09-01,2560.16
+Onion,Tumakuru,52,8,2021-10-01,2026-09-01,2510.5
+Onion,Udupi,59,1,2021-10-01,2026-09-01,2554.24
+Onion,Vijayanagara,27,33,2021-10-01,2026-09-01,1640.32
+Onion,Vijayapura,52,8,2021-10-01,2026-09-01,1447.33
+Onion,Bellary,1,59,2022-03-01,2022-03-01,1684.68
+Onion,Bengaluru South,37,23,2023-05-01,2026-09-01,2982.14
+Onion,Koppal,6,54,2023-07-01,2024-01-01,2415.81
+Onion,Bidar,4,56,2023-09-01,2024-02-01,1818.7
+Onion,Kodagu,1,59,2023-10-01,2023-10-01,2220
+Onion,Chitradurga,2,58,2024-09-01,2024-10-01,1118.76
+Potato,Belagavi,53,7,2021-10-01,2026-09-01,1851.46
+Potato,Bengaluru,52,8,2021-10-01,2026-09-01,1962.78
+Potato,Bengaluru Rural,30,30,2021-10-01,2026-09-01,2292.72
+Potato,Chikkaballapur,60,0,2021-10-01,2026-09-01,1853.94
+Potato,Chikkamagaluru,60,0,2021-10-01,2026-09-01,2018.22
+Potato,Dakshina Kannada,37,23,2021-10-01,2026-09-01,1956.85
+Potato,Davangere,60,0,2021-10-01,2026-09-01,1796.56
+Potato,Dharwad,60,0,2021-10-01,2026-09-01,1729.02
+Potato,Hassan,60,0,2021-10-01,2026-09-01,1447.58
+Potato,Kalaburagi,60,0,2021-10-01,2026-09-01,1445.63
+Potato,Kolar,60,0,2021-10-01,2026-09-01,1983.32
+Potato,Mandya,25,35,2021-10-01,2023-12-01,2319.46
+Potato,Mysuru,60,0,2021-10-01,2026-09-01,1833.42
+Potato,Shivamogga,60,0,2021-10-01,2026-09-01,2523.08
+Potato,Tumakuru,29,31,2021-10-01,2026-09-01,2343.86
+Potato,Udupi,58,2,2021-10-01,2026-09-01,2172.09
+Potato,Vijayanagara,27,33,2021-10-01,2026-09-01,1516.85
+Potato,Bellary,1,59,2022-03-01,2022-03-01,1817.86
+Potato,Chamarajanagar,10,50,2023-03-01,2026-03-01,2012.73
+Potato,Gadag,1,59,2023-07-01,2023-07-01,1400
+Potato,Haveri,2,58,2023-07-01,2026-09-01,1452.83
+Potato,Koppal,6,54,2023-07-01,2024-01-01,2040.6
+Potato,Bidar,4,56,2023-09-01,2024-02-01,1230.3
+Potato,Bengaluru South,30,30,2023-11-01,2026-09-01,2758.7
+Potato,Kodagu,2,58,2024-09-01,2024-11-01,1050
+Brinjal,Bengaluru,60,0,2021-10-01,2026-09-01,2582.67
+Brinjal,Bengaluru South,60,0,2021-10-01,2026-09-01,2271.74
+Brinjal,Chamarajanagar,60,0,2021-10-01,2026-09-01,1266.68
+Brinjal,Chikkaballapur,60,0,2021-10-01,2026-09-01,1528.74
+Brinjal,Chikkamagaluru,51,9,2021-10-01,2026-09-01,1857.43
+Brinjal,Davangere,60,0,2021-10-01,2026-09-01,1422.74
+Brinjal,Hassan,57,3,2021-10-01,2026-09-01,1840.22
+Brinjal,Kalaburagi,51,9,2021-10-01,2026-09-01,2291.08
+Brinjal,Kolar,60,0,2021-10-01,2026-09-01,1540.5
+Brinjal,Mysuru,60,0,2021-10-01,2026-09-01,1758.52
+Brinjal,Shivamogga,60,0,2021-10-01,2026-09-01,1688.68
+Brinjal,Udupi,45,15,2021-10-01,2025-06-01,2773.21
+Brinjal,Vijayanagara,24,36,2021-10-01,2026-09-01,2246.66
+Brinjal,Mandya,33,27,2021-12-01,2026-06-01,1758.2
+Brinjal,Bengaluru Rural,22,38,2022-02-01,2026-09-01,2182.09
+Brinjal,Bellary,1,59,2022-03-01,2022-03-01,862.5
+Brinjal,Gadag,2,58,2023-07-01,2023-08-01,2360
+Brinjal,Haveri,15,45,2023-07-01,2026-09-01,1755.85
+Brinjal,Tumakuru,1,59,2023-07-01,2023-07-01,2950
+Brinjal,Belagavi,2,58,2026-08-01,2026-09-01,2384.29
+Green Chilli,Belagavi,38,22,2021-10-01,2026-09-01,3712.55
+Green Chilli,Bengaluru,60,0,2021-10-01,2026-09-01,4492.42
+Green Chilli,Bengaluru South,60,0,2021-10-01,2026-09-01,4325.52
+Green Chilli,Chamarajanagar,60,0,2021-10-01,2026-09-01,3251.47
+Green Chilli,Chikkaballapur,60,0,2021-10-01,2026-09-01,3373.91
+Green Chilli,Chikkamagaluru,60,0,2021-10-01,2026-09-01,3198.95
+Green Chilli,Davangere,60,0,2021-10-01,2026-09-01,3001.1
+Green Chilli,Hassan,60,0,2021-10-01,2026-09-01,3131.66
+Green Chilli,Haveri,39,21,2021-10-01,2026-09-01,2502.94
+Green Chilli,Kalaburagi,60,0,2021-10-01,2026-09-01,2662.98
+Green Chilli,Kolar,60,0,2021-10-01,2026-09-01,3425.97
+Green Chilli,Mysuru,60,0,2021-10-01,2026-09-01,3208.88
+Green Chilli,Shivamogga,60,0,2021-10-01,2026-09-01,3926.48
+Green Chilli,Udupi,45,15,2021-10-01,2025-06-01,4002.71
+Green Chilli,Vijayanagara,27,33,2021-10-01,2026-09-01,2235.34
+Green Chilli,Mandya,24,36,2021-12-01,2023-12-01,3477.73
+Green Chilli,Bengaluru Rural,30,30,2022-02-01,2026-09-01,4729.24
+Green Chilli,Bellary,1,59,2022-03-01,2022-03-01,4388.89
+Green Chilli,Gadag,3,57,2022-12-01,2023-08-01,10331.83
+Green Chilli,Koppal,6,54,2023-07-01,2024-01-01,3481.81
+Green Chilli,Kodagu,2,58,2024-03-01,2024-05-01,1355
+Cabbage,Belagavi,43,17,2021-10-01,2026-09-01,1839.94
+Cabbage,Bengaluru,60,0,2021-10-01,2026-09-01,1333
+Cabbage,Bengaluru South,60,0,2021-10-01,2026-09-01,1406.74
+Cabbage,Chamarajanagar,60,0,2021-10-01,2026-09-01,1056.28
+Cabbage,Chikkaballapur,60,0,2021-10-01,2026-09-01,746.03
+Cabbage,Chikkamagaluru,57,3,2021-10-01,2026-09-01,1228.92
+Cabbage,Dakshina Kannada,9,51,2021-10-01,2022-06-01,2020.74
+Cabbage,Davangere,60,0,2021-10-01,2026-09-01,1105.83
+Cabbage,Hassan,58,2,2021-10-01,2026-09-01,1082.05
+Cabbage,Kolar,60,0,2021-10-01,2026-09-01,709.8
+Cabbage,Mysuru,60,0,2021-10-01,2026-09-01,1228.41
+Cabbage,Shivamogga,58,2,2021-10-01,2026-09-01,2054.65
+Cabbage,Udupi,45,15,2021-10-01,2025-06-01,1804.61
+Cabbage,Vijayanagara,27,33,2021-10-01,2026-09-01,1050.39
+Cabbage,Mandya,33,27,2021-12-01,2026-06-01,1266.78
+Cabbage,Bellary,1,59,2022-03-01,2022-03-01,1337.5
+Cabbage,Gadag,1,59,2023-07-01,2023-07-01,400
+Cabbage,Haveri,17,43,2023-07-01,2026-09-01,1300.64
+Cabbage,Bengaluru Rural,15,45,2024-05-01,2026-09-01,2428.35
+Cauliflower,Belagavi,46,14,2021-10-01,2026-09-01,2163.25
+Cauliflower,Bengaluru,60,0,2021-10-01,2026-09-01,2372.88
+Cauliflower,Chikkaballapur,60,0,2021-10-01,2026-09-01,1169.51
+Cauliflower,Chikkamagaluru,60,0,2021-10-01,2026-09-01,1405.48
+Cauliflower,Dakshina Kannada,7,53,2021-10-01,2022-04-01,3146.71
+Cauliflower,Davangere,60,0,2021-10-01,2026-09-01,1555.17
+Cauliflower,Gadag,1,59,2021-10-01,2021-10-01,6649
+Cauliflower,Hassan,50,10,2021-10-01,2026-09-01,1830.77
+Cauliflower,Kolar,60,0,2021-10-01,2026-09-01,1372.68
+Cauliflower,Mysuru,60,0,2021-10-01,2026-09-01,1922.66
+Cauliflower,Shivamogga,58,2,2021-10-01,2026-09-01,2861.02
+Cauliflower,Udupi,42,18,2021-10-01,2025-06-01,2968.67
+Cauliflower,Vijayanagara,11,49,2021-10-01,2026-09-01,1170.51
+Cauliflower,Bengaluru Rural,21,39,2021-12-01,2026-09-01,1974.04
+Cauliflower,Mandya,24,36,2021-12-01,2024-01-01,1722.36
+Cauliflower,Bellary,1,59,2022-03-01,2022-03-01,1255.56
+Cauliflower,Bengaluru South,35,25,2023-10-01,2026-09-01,2492.54
+Cauliflower,Kalaburagi,5,55,2025-09-01,2026-09-01,1614.62
+Cauliflower,Chamarajanagar,4,56,2025-11-01,2026-02-01,3292.61
+Cauliflower,Haveri,7,53,2025-12-01,2026-09-01,1792.68
+Carrot,Bengaluru,60,0,2021-10-01,2026-09-01,4559.03
+Carrot,Bengaluru South,60,0,2021-10-01,2026-09-01,3824.6
+Carrot,Chamarajanagar,60,0,2021-10-01,2026-09-01,2067.74
+Carrot,Chikkaballapur,60,0,2021-10-01,2026-09-01,2483.26
+Carrot,Chikkamagaluru,60,0,2021-10-01,2026-09-01,2914.05
+Carrot,Dakshina Kannada,8,52,2021-10-01,2022-05-01,4695.62
+Carrot,Davangere,60,0,2021-10-01,2026-09-01,2663.13
+Carrot,Hassan,60,0,2021-10-01,2026-09-01,2979.83
+Carrot,Kolar,60,0,2021-10-01,2026-09-01,2933.94
+Carrot,Mysuru,60,0,2021-10-01,2026-09-01,3495.77
+Carrot,Shivamogga,60,0,2021-10-01,2026-09-01,3694.04
+Carrot,Udupi,45,15,2021-10-01,2025-06-01,3819.16
+Carrot,Vijayanagara,24,36,2021-10-01,2026-09-01,2441.34
+Carrot,Mandya,24,36,2021-12-01,2023-12-01,2553.05
+Carrot,Bellary,1,59,2022-03-01,2022-03-01,2000
+Carrot,Bengaluru Rural,28,32,2023-07-01,2026-09-01,3394.27
+Carrot,Gadag,1,59,2023-07-01,2023-07-01,2700
+Carrot,Tumakuru,1,59,2023-07-01,2023-07-01,4950
+Carrot,Haveri,15,45,2023-09-01,2026-09-01,2638.99
+Carrot,Kalaburagi,8,52,2025-09-01,2026-09-01,1838.97
+Beans,Bengaluru,60,0,2021-10-01,2026-09-01,5038.08
+Beans,Bengaluru South,60,0,2021-10-01,2026-09-01,4846.45
+Beans,Chamarajanagar,60,0,2021-10-01,2026-09-01,3368.78
+Beans,Chikkaballapur,60,0,2021-10-01,2026-09-01,3795.58
+Beans,Chikkamagaluru,60,0,2021-10-01,2026-09-01,3782.56
+Beans,Dakshina Kannada,8,52,2021-10-01,2022-05-01,3454.7
+Beans,Davangere,60,0,2021-10-01,2026-09-01,3673.43
+Beans,Hassan,59,1,2021-10-01,2026-09-01,3662.46
+Beans,Kalaburagi,39,21,2021-10-01,2026-09-01,2684.32
+Beans,Kolar,60,0,2021-10-01,2026-09-01,4717.77
+Beans,Mandya,36,24,2021-10-01,2026-09-01,3462.43
+Beans,Mysuru,60,0,2021-10-01,2026-09-01,4322.33
+Beans,Shivamogga,60,0,2021-10-01,2026-09-01,5088.58
+Beans,Udupi,45,15,2021-10-01,2025-06-01,5308.58
+Beans,Vijayanagara,24,36,2021-10-01,2026-09-01,2600.8
+Beans,Tumakuru,1,59,2023-07-01,2023-07-01,3450
+Beans,Haveri,10,50,2023-09-01,2026-09-01,2512.39
+Beans,Bengaluru Rural,19,41,2024-03-01,2026-09-01,4501.53
+Beans,Belagavi,2,58,2026-08-01,2026-09-01,3488
+Okra,Bengaluru,49,11,2021-10-01,2025-10-01,2981.57
+Okra,Bengaluru South,50,10,2021-10-01,2025-11-01,2743.35
+Okra,Chamarajanagar,16,44,2021-10-01,2023-08-01,2061.18
+Okra,Chikkaballapur,50,10,2021-10-01,2025-11-01,1822.45
+Okra,Chikkamagaluru,50,10,2021-10-01,2025-11-01,2544.96
+Okra,Davangere,49,11,2021-10-01,2025-10-01,2911.83
+Okra,Hassan,50,10,2021-10-01,2025-11-01,2504.26
+Okra,Kalaburagi,28,32,2021-10-01,2025-11-01,1886.22
+Okra,Mysuru,50,10,2021-10-01,2025-11-01,1777.88
+Okra,Shivamogga,48,12,2021-10-01,2025-11-01,2843.33
+Okra,Udupi,45,15,2021-10-01,2025-06-01,3548.99
+Okra,Vijayanagara,16,44,2021-10-01,2025-11-01,2007.86
+Okra,Kolar,35,25,2021-11-01,2025-11-01,1670.77
+Okra,Mandya,26,34,2021-12-01,2025-01-01,1872.12
+Okra,Bengaluru Rural,9,51,2022-01-01,2025-01-01,2072.22
+Okra,Bellary,1,59,2022-03-01,2022-03-01,916.67
+Okra,Gadag,1,59,2023-07-01,2023-07-01,1800
+Okra,Haveri,1,59,2024-04-01,2024-04-01,3100
+Cucumber,Bengaluru,60,0,2021-10-01,2026-09-01,1699.07
+Cucumber,Bengaluru Rural,51,9,2021-10-01,2026-09-01,825.14
+Cucumber,Bengaluru South,60,0,2021-10-01,2026-09-01,1354.72
+Cucumber,Chikkaballapur,60,0,2021-10-01,2026-09-01,743.44
+Cucumber,Chikkamagaluru,60,0,2021-10-01,2026-09-01,1478.06
+Cucumber,Davangere,60,0,2021-10-01,2026-09-01,1734.04
+Cucumber,Hassan,57,3,2021-10-01,2026-09-01,1675.73
+Cucumber,Kolar,60,0,2021-10-01,2026-09-01,1200.17
+Cucumber,Mandya,59,1,2021-10-01,2026-09-01,1265.32
+Cucumber,Mysuru,60,0,2021-10-01,2026-09-01,1344.71
+Cucumber,Shivamogga,60,0,2021-10-01,2026-09-01,1833.75
+Cucumber,Udupi,45,15,2021-10-01,2025-06-01,1554.89
+Cucumber,Vijayanagara,27,33,2021-10-01,2026-09-01,1546.06
+Cucumber,Bellary,1,59,2022-03-01,2022-03-01,930
+Cucumber,Dakshina Kannada,3,57,2022-04-01,2022-06-01,1090.48
+Cucumber,Chamarajanagar,46,14,2022-12-01,2026-09-01,1160.61
+Cucumber,Gadag,1,59,2023-07-01,2023-07-01,1787.5
+Cucumber,Haveri,14,46,2023-07-01,2026-08-01,1580.84
+Cucumber,Kalaburagi,5,55,2025-09-01,2026-09-01,2197.22
+Capsicum,Belagavi,30,30,2021-10-01,2026-09-01,3320.14
+Capsicum,Bengaluru,60,0,2021-10-01,2026-09-01,3974.45
+Capsicum,Bengaluru South,60,0,2021-10-01,2026-09-01,4391.25
+Capsicum,Chikkaballapur,60,0,2021-10-01,2026-09-01,2822.2
+Capsicum,Davangere,55,5,2021-10-01,2026-09-01,4940.57
+Capsicum,Hassan,22,38,2021-10-01,2026-09-01,3501.73
+Capsicum,Kalaburagi,51,9,2021-10-01,2026-09-01,2963.9
+Capsicum,Kolar,60,0,2021-10-01,2026-09-01,3233.83
+Capsicum,Mysuru,60,0,2021-10-01,2026-09-01,4250.13
+Capsicum,Udupi,45,15,2021-10-01,2025-06-01,4877.77
+Capsicum,Mandya,24,36,2021-12-01,2024-09-01,3548.59
+Capsicum,Bengaluru Rural,18,42,2022-01-01,2026-09-01,3006.79
+Capsicum,Chikkamagaluru,23,37,2023-02-01,2026-09-01,3057.38
+Capsicum,Haveri,11,49,2024-04-01,2026-09-01,2516.28
+Capsicum,Shivamogga,9,51,2026-01-01,2026-09-01,4641.35
+Radish,Bengaluru,60,0,2021-10-01,2026-09-01,2154.24
+Radish,Bengaluru South,60,0,2021-10-01,2026-09-01,2051.7
+Radish,Chamarajanagar,60,0,2021-10-01,2026-09-01,1453.51
+Radish,Chikkaballapur,60,0,2021-10-01,2026-09-01,1254.29
+Radish,Chikkamagaluru,56,4,2021-10-01,2026-09-01,1608.64
+Radish,Davangere,60,0,2021-10-01,2026-09-01,1872.23
+Radish,Hassan,59,1,2021-10-01,2026-09-01,1772.41
+Radish,Kolar,60,0,2021-10-01,2026-09-01,912.81
+Radish,Shivamogga,60,0,2021-10-01,2026-09-01,2038.8
+Radish,Udupi,45,15,2021-10-01,2025-06-01,2635.16
+Radish,Bengaluru Rural,25,35,2021-12-01,2026-09-01,2382.82
+Radish,Mandya,24,36,2021-12-01,2023-12-01,1233.16
+Radish,Mysuru,39,21,2022-01-01,2026-09-01,2058.38
+Radish,Bellary,1,59,2022-03-01,2022-03-01,1033.33
+Radish,Kalaburagi,8,52,2025-09-01,2026-09-01,101.39
+Radish,Haveri,1,59,2026-06-01,2026-06-01,1500
+Radish,Vijayanagara,1,59,2026-09-01,2026-09-01,1800
+Beetroot,Bengaluru,60,0,2021-10-01,2026-09-01,2784.76
+Beetroot,Bengaluru South,60,0,2021-10-01,2026-09-01,2659.65
+Beetroot,Chamarajanagar,60,0,2021-10-01,2026-09-01,1641.73
+Beetroot,Chikkaballapur,60,0,2021-10-01,2026-09-01,1545.63
+Beetroot,Chikkamagaluru,60,0,2021-10-01,2026-09-01,1696.63
+Beetroot,Dakshina Kannada,8,52,2021-10-01,2022-05-01,2768.77
+Beetroot,Davangere,60,0,2021-10-01,2026-09-01,1893.26
+Beetroot,Hassan,59,1,2021-10-01,2026-09-01,2152.09
+Beetroot,Kolar,60,0,2021-10-01,2026-09-01,1748.43
+Beetroot,Mysuru,60,0,2021-10-01,2026-09-01,1911.97
+Beetroot,Shivamogga,60,0,2021-10-01,2026-09-01,2057.52
+Beetroot,Udupi,45,15,2021-10-01,2025-06-01,2439.98
+Beetroot,Vijayanagara,24,36,2021-10-01,2026-09-01,2054.9
+Beetroot,Mandya,24,36,2021-12-01,2023-12-01,2145.51
+Beetroot,Bengaluru Rural,23,37,2022-01-01,2026-09-01,2580.45
+Beetroot,Bellary,1,59,2022-03-01,2022-03-01,1243.42
+Beetroot,Haveri,15,45,2023-07-01,2026-09-01,1533.78
+Beetroot,Tumakuru,1,59,2023-07-01,2023-07-01,2850
+Beetroot,Kalaburagi,5,55,2025-09-01,2026-09-01,1777.47
+Beetroot,Belagavi,2,58,2026-08-01,2026-09-01,2248.04
+Green Peas,Bengaluru,47,13,2021-10-01,2026-09-01,9778.53
+Green Peas,Hassan,21,39,2021-10-01,2026-09-01,7107.68
+Green Peas,Mysuru,52,8,2021-10-01,2026-09-01,7153.1
+Green Peas,Shivamogga,33,27,2021-10-01,2026-09-01,7836.28
+Green Peas,Dakshina Kannada,5,55,2021-11-01,2023-04-01,7508
+Green Peas,Mandya,5,55,2022-01-01,2022-12-01,6415
+Green Peas,Kolar,20,40,2022-08-01,2026-09-01,6171.35
+Green Peas,Chikkamagaluru,1,59,2023-10-01,2023-10-01,5000
+Green Peas,Gadag,7,53,2023-12-01,2026-09-01,5291.22
+Green Peas,Tumakuru,10,50,2024-04-01,2026-03-01,4703.4
+Green Peas,Chamarajanagar,4,56,2024-09-01,2026-09-01,3705.05
+Green Peas,Dharwad,5,55,2025-12-01,2026-04-01,7234.65
+Green Peas,Haveri,3,57,2026-03-01,2026-08-01,5055
+Green Peas,Belagavi,1,59,2026-04-01,2026-04-01,4000
+Green Peas,Chitradurga,3,57,2026-04-01,2026-07-01,4988.53
+Green Peas,Davangere,3,57,2026-05-01,2026-09-01,4177.89
+Bottle Gourd,Bengaluru,60,0,2021-10-01,2026-09-01,2083.54
+Bottle Gourd,Chikkaballapur,60,0,2021-10-01,2026-09-01,1569.81
+Bottle Gourd,Chikkamagaluru,12,48,2021-10-01,2026-05-01,1453.69
+Bottle Gourd,Davangere,60,0,2021-10-01,2026-09-01,1463.91
+Bottle Gourd,Kolar,46,14,2021-10-01,2026-09-01,1480.79
+Bottle Gourd,Mysuru,59,1,2021-10-01,2026-09-01,1075.93
+Bottle Gourd,Udupi,45,15,2021-10-01,2025-06-01,2376.49
+Bottle Gourd,Mandya,16,44,2022-02-01,2025-05-01,828.54
+Bottle Gourd,Hassan,17,43,2022-08-01,2026-08-01,2844
+Bottle Gourd,Bengaluru Rural,7,53,2024-09-01,2026-09-01,1886.22
+Bottle Gourd,Bengaluru South,18,42,2025-04-01,2026-09-01,1410.54
+Bottle Gourd,Kalaburagi,8,52,2025-09-01,2026-09-01,1697.09
+Bottle Gourd,Vijayanagara,4,56,2025-09-01,2026-09-01,1244.7
+Bottle Gourd,Chamarajanagar,3,57,2025-11-01,2026-02-01,3082.48
+Bitter Gourd,Bengaluru,60,0,2021-10-01,2026-09-01,3005.78
+Bitter Gourd,Bengaluru South,60,0,2021-10-01,2026-09-01,3181.73
+Bitter Gourd,Chikkaballapur,60,0,2021-10-01,2026-09-01,2263.03
+Bitter Gourd,Chikkamagaluru,48,12,2021-10-01,2026-09-01,2472.8
+Bitter Gourd,Davangere,59,1,2021-10-01,2026-09-01,2893.52
+Bitter Gourd,Hassan,40,20,2021-10-01,2026-09-01,2658.03
+Bitter Gourd,Kolar,60,0,2021-10-01,2026-09-01,2427.3
+Bitter Gourd,Mysuru,60,0,2021-10-01,2026-09-01,2514.65
+Bitter Gourd,Udupi,45,15,2021-10-01,2025-06-01,3886.89
+Bitter Gourd,Vijayanagara,16,44,2021-10-01,2026-09-01,1926.87
+Bitter Gourd,Mandya,23,37,2021-12-01,2023-12-01,2480.95
+Bitter Gourd,Bengaluru Rural,21,39,2022-02-01,2026-09-01,2769.07
+Bitter Gourd,Chamarajanagar,6,54,2023-10-01,2026-02-01,4231.26
+Bitter Gourd,Haveri,14,46,2023-10-01,2026-09-01,2327.64
+Bitter Gourd,Shivamogga,26,34,2023-10-01,2026-09-01,2937.09
+Bitter Gourd,Kalaburagi,5,55,2025-09-01,2026-09-01,2109.74
+Bitter Gourd,Belagavi,2,58,2026-08-01,2026-09-01,2119.32
+Ridge Gourd,Bengaluru,60,0,2021-10-01,2026-09-01,3065.65
+Ridge Gourd,Bengaluru South,60,0,2021-10-01,2026-09-01,2866.9
+Ridge Gourd,Chamarajanagar,60,0,2021-10-01,2026-09-01,2157.06
+Ridge Gourd,Chikkaballapur,60,0,2021-10-01,2026-09-01,1826.8
+Ridge Gourd,Chikkamagaluru,60,0,2021-10-01,2026-09-01,2452.58
+Ridge Gourd,Davangere,60,0,2021-10-01,2026-09-01,2704.35
+Ridge Gourd,Hassan,58,2,2021-10-01,2026-09-01,2442.99
+Ridge Gourd,Kolar,60,0,2021-10-01,2026-09-01,2407.62
+Ridge Gourd,Mysuru,60,0,2021-10-01,2026-09-01,2148
+Ridge Gourd,Shivamogga,60,0,2021-10-01,2026-09-01,2917.9
+Ridge Gourd,Udupi,45,15,2021-10-01,2025-06-01,3538.89
+Ridge Gourd,Vijayanagara,23,37,2021-10-01,2026-09-01,2030.5
+Ridge Gourd,Mandya,24,36,2021-12-01,2023-12-01,2067.6
+Ridge Gourd,Bengaluru Rural,16,44,2022-02-01,2026-09-01,2410.13
+Ridge Gourd,Gadag,1,59,2023-07-01,2023-07-01,1600
+Ridge Gourd,Haveri,13,47,2023-09-01,2026-08-01,2032
+Ridge Gourd,Kalaburagi,8,52,2025-09-01,2026-09-01,2414.75
+Coriander Leaves,Chikkaballapur,47,13,2021-10-01,2026-09-01,6923.76
+Coriander Leaves,Gadag,32,28,2021-10-01,2026-09-01,7031.48
+Coriander Leaves,Kolar,16,44,2021-10-01,2026-09-01,11091.67
+Coriander Leaves,Tumakuru,46,14,2021-10-01,2026-08-01,10748.14
+Coriander Leaves,Bidar,3,57,2021-11-01,2022-02-01,7334.76
+Coriander Leaves,Hassan,7,53,2021-12-01,2025-04-01,6013.43
+Coriander Leaves,Mysuru,1,59,2024-09-01,2024-09-01,6607
+Coriander Leaves,Dharwad,14,46,2024-11-01,2026-09-01,8689.82
+Coriander Leaves,Mandya,2,58,2025-09-01,2026-03-01,11584
+Sweet Pumpkin,Bengaluru,60,0,2021-10-01,2026-09-01,1109.93
+Sweet Pumpkin,Davangere,47,13,2021-10-01,2026-09-01,1154.09
+Sweet Pumpkin,Hassan,52,8,2021-10-01,2026-09-01,1384.51
+Sweet Pumpkin,Mandya,59,1,2021-10-01,2026-09-01,483.12
+Sweet Pumpkin,Mysuru,60,0,2021-10-01,2026-09-01,862.73
+Sweet Pumpkin,Dakshina Kannada,6,54,2021-11-01,2022-05-01,1563.45
+Sweet Pumpkin,Chikkamagaluru,22,38,2022-07-01,2026-06-01,1400.87
+Sweet Pumpkin,Chamarajanagar,3,57,2023-05-01,2025-04-01,700
+Sweet Pumpkin,Bengaluru South,34,26,2023-10-01,2026-09-01,1202.77
+Sweet Pumpkin,Shivamogga,9,51,2026-01-01,2026-09-01,1276.8
+Sweet Pumpkin,Chikkaballapur,5,55,2026-02-01,2026-09-01,672.86
+Sweet Pumpkin,Kolar,1,59,2026-09-01,2026-09-01,2600
